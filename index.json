@@ -3857,6 +3857,10 @@
       "sha1": "8031d4e3fed211e64bae06e9484c898d8666ddd2"
     },
     {
+      "path": "overrides/data/fabricDefaultResourcePacks.dat",
+      "sha1": "f33972a871645c722319df8850bfa62b89f87cdf"
+    },
+    {
       "path": "overrides/defaultconfigs/biolith/general.json",
       "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e"
     },
@@ -3891,6 +3895,10 @@
     {
       "path": "overrides/kubejs/startup_scripts/main.js",
       "sha1": "05ec115c372985dc9f77dd2513933aa8e90eba61"
+    },
+    {
+      "path": "overrides/options.txt",
+      "sha1": "643b8ba8aac431d561e69008c4b376c89ca7439b"
     }
   ]
 }
