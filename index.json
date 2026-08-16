@@ -342,15 +342,11 @@
     },
     {
       "path": "overrides/.gitignore",
-      "sha1": "36b6506d715a109d8efca936da9129dd4f2e14a4"
-    },
-    {
-      "path": "overrides/.qmenu_opened.marker",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      "sha1": "e04ea4997d0c2feb6d873cfe6f5773186513c256"
     },
     {
       "path": "overrides/config/CoroUtil/General.toml",
-      "sha1": "1233bc5e9b76ae23493ad31db26e92b7da397270"
+      "sha1": "3bd7d98616d2c4ff4ee7c8e12257bf7e5891d955"
     },
     {
       "path": "overrides/config/NoChatReports/NCR-Client.json",
@@ -374,15 +370,15 @@
     },
     {
       "path": "overrides/config/apathy-boss.toml",
-      "sha1": "6f246d0864d25d510f214d57052fa5718d1f74e2"
+      "sha1": "5cf3f07cb7545ba2685b2e1fb3e2755f789efd7e"
     },
     {
       "path": "overrides/config/apathy-general.toml",
-      "sha1": "610491831a4c6a602d3ea446ed30686f76aeecd3"
+      "sha1": "5160a1d5f4bd8a16550a56d593fe6f194de854d5"
     },
     {
       "path": "overrides/config/apathy-mobs.toml",
-      "sha1": "114ff62971305288f6ab01fe5b9d99e08b4cc49e"
+      "sha1": "dfcdb738966ac04987cf87b20b235d96c68e3d06"
     },
     {
       "path": "overrides/config/atmosfera.json",
@@ -390,23 +386,23 @@
     },
     {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
-      "sha1": "4fc30a37ee8030f4f3d22c7212e7432f5ad2cf37"
+      "sha1": "02b1eb43cb55013ca0316287eb7f2f88eaacf4fb"
     },
     {
       "path": "overrides/config/blueprint-client.toml",
-      "sha1": "35a77a86bf0f985346e0b950047c03d1fbc8573c"
+      "sha1": "2bab8e61f7c200f2177cee32758a8a877b023ce6"
     },
     {
       "path": "overrides/config/blueprint-common.toml",
-      "sha1": "6d459bb8363766cb774dadd4062057123b56b04e"
+      "sha1": "4732623baf36bcf3091f3fd2a75f6d989aaeda87"
     },
     {
       "path": "overrides/config/caverns_and_chasms-client.toml",
-      "sha1": "e5a8836dc9dd8273bd47f1db8035906eff9f8ada"
+      "sha1": "1357215eb8ece9137da20ed2bb446d765b374f0c"
     },
     {
       "path": "overrides/config/caverns_and_chasms-common.toml",
-      "sha1": "236c499ceaa73ad73ff8a2067e813e6dbf917a61"
+      "sha1": "5dba21a74b0414f92fa624d6e6d53e41fc252d95"
     },
     {
       "path": "overrides/config/chat_heads.json5",
@@ -430,11 +426,11 @@
     },
     {
       "path": "overrides/config/controllable-client.toml",
-      "sha1": "f20a9b8c3ae2bf73dc9a3794430859d481e63a01"
+      "sha1": "498e72e4fcc7a347eaff050304986a8ecbad0fae"
     },
     {
       "path": "overrides/config/crunchy_crunchy_advancements.toml",
-      "sha1": "be159f40a06f98bbe8d9933ccb2431ca71dfa428"
+      "sha1": "474d5be836043722c894491d6f399c53b5ee10ec"
     },
     {
       "path": "overrides/config/customcredits.json5",
@@ -454,11 +450,11 @@
     },
     {
       "path": "overrides/config/defaultoptions-common.toml",
-      "sha1": "3aebc586067d83965405ed57109080cab0cdbed0"
+      "sha1": "189687a2acbd11002a06482bb2c9b02e025d0616"
     },
     {
       "path": "overrides/config/e4mc/e4mc.toml",
-      "sha1": "f0ca8e010d15a954260fc905c2f9a1b9fb50e1c4"
+      "sha1": "e042e1fe2b57638584403507aafb84be6b45c8dc"
     },
     {
       "path": "overrides/config/eg_fix_horizontal_camera_lag_config.json",
@@ -486,15 +482,15 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "1828c0e055d0eba532872a716127049df031ca58"
+      "sha1": "96d6556a2ad417bf8b1c9bd0825e6f2e89bccb5e"
     },
     {
       "path": "overrides/config/fabrication/features.ini",
-      "sha1": "ad4ccfdb08ac8991db607bdbe15893e07bcec4dd"
+      "sha1": "b30aefc2df71154376586f8379594f59cad60ad1"
     },
     {
       "path": "overrides/config/fallingleaves-client.toml",
-      "sha1": "5ce435cdc8cae46aa45c765d52243cbbae1a2997"
+      "sha1": "91789cc7359eb98d4676d0b182c5f4d1da01a4f1"
     },
     {
       "path": "overrides/config/fancymenu/custom_gui_screens.txt",
@@ -562,11 +558,11 @@
     },
     {
       "path": "overrides/config/ferritecore-mixin.toml",
-      "sha1": "117f758af35aac859c535d5d2da96c5747a87aea"
+      "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
     },
     {
       "path": "overrides/config/fml.toml",
-      "sha1": "82231f27f83abd7ecdbb11a1ad6d5cf7b0c0974d"
+      "sha1": "eca992ddb87e4dbd772cb816c0bc842d0f8f0106"
     },
     {
       "path": "overrides/config/immediatelyfast.json",
@@ -578,15 +574,15 @@
     },
     {
       "path": "overrides/config/insanelib/common.toml",
-      "sha1": "c3ad8f5ff6d10cd85e4e644eaaf7cae4555212dc"
+      "sha1": "9e9a27f1fab8f9ce89ab90f1b8ae22200f78528f"
     },
     {
       "path": "overrides/config/inventoryessentials-common.toml",
-      "sha1": "626492df088d0946ed7f08bd0d66f7c5f3a07200"
+      "sha1": "276a03604a0995a4a8beff7efd1c7fb8dfcaaf68"
     },
     {
       "path": "overrides/config/jei-server.toml",
-      "sha1": "91447001769dc0f239a44ffce274f7affa1bbaa8"
+      "sha1": "07363b086ec2af8c224fbb4a762ad3c59633835c"
     },
     {
       "path": "overrides/config/konkrete/locals/de_de.local",
@@ -614,15 +610,15 @@
     },
     {
       "path": "overrides/config/logbegone.json",
-      "sha1": "df5d1f4a1ffed9f5ca94cc59662fd808bdb1fda3"
+      "sha1": "1e70d4109e8afbadf0bd75ff368dc11dee9ac1b4"
     },
     {
       "path": "overrides/config/map_atlases-client.toml",
-      "sha1": "f06cbb4e824e05a473058841ea195d8c2db9beaa"
+      "sha1": "e77224a5675ffdb3ca2d278fb3ab2221d9d99488"
     },
     {
       "path": "overrides/config/map_atlases-common.toml",
-      "sha1": "b99542f6feaec604b318c2cfc3177ee9f7ef8230"
+      "sha1": "e3d601f3ad805fdb9b19e10b0182877d3c2f33e4"
     },
     {
       "path": "overrides/config/minecraft-cursor.json",
@@ -634,7 +630,7 @@
     },
     {
       "path": "overrides/config/modernfix-common.toml",
-      "sha1": "84439141a9dbc2f96212967ea8437d420d8d9c8e"
+      "sha1": "67d29a1db4c6d7d97b4912e5ef3aae34347d3e38"
     },
     {
       "path": "overrides/config/modernfix-mixins.properties",
@@ -642,11 +638,11 @@
     },
     {
       "path": "overrides/config/moonlight-client.toml",
-      "sha1": "7fdda9094dda6ea770e3e9cb0ef1ec3ce24167be"
+      "sha1": "c9d45288928690ec27ffd80e06c440ff5353ce6e"
     },
     {
       "path": "overrides/config/moonlight-common.toml",
-      "sha1": "1f62002e06c865342690eea17511a19503da3d5d"
+      "sha1": "4d66f0f9b463792e9ed36780928d349421ff9ab2"
     },
     {
       "path": "overrides/config/music_tweaks.json",
@@ -654,15 +650,15 @@
     },
     {
       "path": "overrides/config/neoforge-client.toml",
-      "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed"
+      "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d"
     },
     {
       "path": "overrides/config/neoforge-common.toml",
-      "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f"
+      "sha1": "2912b55694531e5ab90981a12f1844439d969e04"
     },
     {
       "path": "overrides/config/neoforge-server.toml",
-      "sha1": "536538f1f29efb49318318113530bd4fd74c235b"
+      "sha1": "6e589499975366719134967e8ad049ee10d8caac"
     },
     {
       "path": "overrides/config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json",
@@ -681,12 +677,3056 @@
       "sha1": "be6e174a4dc598af454b777a32aae6726ad3f83c"
     },
     {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/another_furniture/blockstates/oak_table.json",
+      "sha1": "dbf399028c80912606e8ef03c982747e8e7a5c9f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/another_furniture/lang/en_us.json",
+      "sha1": "2199e83a6a2fad90143c1a80a72a018cf601fe3b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/another_furniture/models/block/chair/oak_1.json",
+      "sha1": "c37aece70f090c9646b5cef0667cbde112f310a8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/another_furniture/models/block/chair/oak_1_tucked.json",
+      "sha1": "635c1da43d2afb94c1882e49f80d3586ce4b91b4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/another_furniture/models/block/table/table_full.json",
+      "sha1": "1336c3ecce114cc1fa2fbc65714ceb2ea16b323e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/another_furniture/models/block/template/table_full.json",
+      "sha1": "5587433421c1400c3bcd925b89f8355059feec0a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/another_furniture/models/item/oak_chair.json",
+      "sha1": "fbb3a2a342b551b37727978a5239a9087b823c28"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/another_furniture/models/item/oak_table.json",
+      "sha1": "b70045fa5c50b045b8678e648ae3523c1593164d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/another_furniture/textures/block/furniture.png",
+      "sha1": "43dd68e4ac566a119c91c39e413554632622d5c8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/another_furniture/textures/item/chair.png",
+      "sha1": "a95c81dcbd7e1f6f03297812672450dfa4617aa7"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/another_furniture/textures/item/table.png",
+      "sha1": "7544900e936c18326655bddf6ea2549ee6282290"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/caverns_and_chasms/blockstates/deepslate_slab.json",
+      "sha1": "10b8c265b4509d41732e56647cf3a2e8c6545234"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/caverns_and_chasms/models/block/deepslate_double_slab.json",
+      "sha1": "a4dc1b2740d59d0ac3ea78480382181e2c1734cb"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/caverns_and_chasms/models/block/deepslate_slab.json",
+      "sha1": "3ab5df39895e5246345410c8b0ae582d4ba524ba"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/caverns_and_chasms/models/block/deepslate_slab_top.json",
+      "sha1": "806c411d063bce21029051d0f0150b55cb17ed48"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/extrasounds/sounds.json",
+      "sha1": "ca3a7cbb54034fddf5eee1bbdb5ce579a2ae3ab2"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/fallingleaves/textures/falling_leaf/default_1.png",
+      "sha1": "61f4858a5790a3be96d6dfba0ea40f2b2c407bce"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/fallingleaves/textures/falling_leaf/default_2.png",
+      "sha1": "80002da42fe6dbca354b0b0da4329bdbf0c70fe7"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/fallingleaves/textures/falling_leaf/default_3.png",
+      "sha1": "d944715eb8a236fdd9daf763a3bd15fe1212e000"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/fallingleaves/textures/falling_leaf/default_4.png",
+      "sha1": "e68e4accfddaf6631265e4788e82822a93b345f5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/fallingleaves/textures/falling_leaf/default_5.png",
+      "sha1": "3dde9070954bb0c9755528fc53d36e13c5d43fae"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/map_atlases/textures/item/atlas.png",
+      "sha1": "e7e0b22c226f49b1c365c7fb48dfc34618956925"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/map_atlases/textures/item/atlas_aether.png",
+      "sha1": "e7e0b22c226f49b1c365c7fb48dfc34618956925"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/map_atlases/textures/item/atlas_any_sepia.png",
+      "sha1": "e7e0b22c226f49b1c365c7fb48dfc34618956925"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/map_atlases/textures/item/atlas_end.png",
+      "sha1": "e7e0b22c226f49b1c365c7fb48dfc34618956925"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/map_atlases/textures/item/atlas_generic.png",
+      "sha1": "e7e0b22c226f49b1c365c7fb48dfc34618956925"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/map_atlases/textures/item/atlas_nether.png",
+      "sha1": "e7e0b22c226f49b1c365c7fb48dfc34618956925"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/map_atlases/textures/item/atlas_overworld.png",
+      "sha1": "e7e0b22c226f49b1c365c7fb48dfc34618956925"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/blockstates/deepslate.json",
+      "sha1": "ab88793756055e7fa0f05fcfa66529f85b9c2c3e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/blockstates/dirt.json",
+      "sha1": "5fd4cec60dd26f140d8a3e905632cc123ce12c15"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/blockstates/grass_block.json",
+      "sha1": "67bca295e48909bbb8ee7686332a18ef99f28f75"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/blockstates/oak_slab.json",
+      "sha1": "6db73d9e56690e274d15af8091988c139f8fd369"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/blockstates/sand.json",
+      "sha1": "bd8ecd5ea6480d2a0b7ebe131502455e4aa24807"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/blockstates/stone.json",
+      "sha1": "127b43e44f1d6c1f67a50765841badd50668ca66"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/copper_block.json",
+      "sha1": "6d91f0cdb21cb813d9fff48175d7609a14b3f024"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/deepslate.json",
+      "sha1": "95d817bb0df57c8578b0d5dc5003c1605add9862"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/deepslate_mirrored.json",
+      "sha1": "95d817bb0df57c8578b0d5dc5003c1605add9862"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/diamond_block.json",
+      "sha1": "e555673a997a2f65d51ff1b4cd6b6290177a563d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/gold_block.json",
+      "sha1": "a1d9105ad9002005e1ee75c6ec76a65c71558546"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/grass_block.json",
+      "sha1": "6bf6fddcff74c7af05060cd09f93c8154be48486"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/iron_block.json",
+      "sha1": "35b23c95c8b8581e14f685c1d79e710d9d58e07f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/oak_double_slab.json",
+      "sha1": "53bb57c561ba0e5226156778ca11bad65e2df2f6"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/oak_slab.json",
+      "sha1": "75868941cf793fbffa1de54b75b7df0ecca43a02"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/oak_slab_top.json",
+      "sha1": "e3f2b007dcc9c1ac1e4bc9987f97a9d72612f238"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/piston.json",
+      "sha1": "cb198c4f13b8c95adb565f9a7c1af077deec7dbe"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/piston_base.json",
+      "sha1": "28b0bb2c6e62af4512258cca8b1032f15c94df95"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/piston_head.json",
+      "sha1": "73e1ad27983338512d44557cba84b642f8ded5a0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/piston_head_short.json",
+      "sha1": "f346396a06238d0bf2d62da27148e91f42bafb35"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/piston_head_short_sticky.json",
+      "sha1": "6b5c648045019b2e03cf1f50650f3035878cc75a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/piston_head_sticky.json",
+      "sha1": "bb07a2ddbe399cccf9046bcbd01c01a6a4db8161"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/piston_inventory.json",
+      "sha1": "a766b75f7b4c3cf98206237b8f1e9ce6cc45c5bd"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/sticky_piston.json",
+      "sha1": "f83435ff0f7ed20dc53f66be0aec18bbc26cfff8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/sticky_piston_inventory.json",
+      "sha1": "fd3ef88ad291daf7f997a4cbdb7fedef041d4d33"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/block/sugar_cane.json",
+      "sha1": "54b1584fe2c11b54d61d07d3e8cb59d87ea4648f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/item/generated.json",
+      "sha1": "cb13af6d0c7db53e28b182a91279eb2bc04073c1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/item/handheld.json",
+      "sha1": "3a2c56060b4ae98d105bde910ad44d22f0618555"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/item/iron_trapdoor.json",
+      "sha1": "9a0b14ebbc8cbe68871e7e6fdba434e14df6c49c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/item/oak_button.json",
+      "sha1": "9dcaec07e9a468a52c0b8bf77fd116f13855133b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/item/oak_pressure_plate.json",
+      "sha1": "17c2d1269e4a18bb1aee59dbd41ca0cc2c425cda"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/item/oak_trapdoor.json",
+      "sha1": "f8c53ef015a17922b88fac7c0856b993581a3362"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/item/stone_button.json",
+      "sha1": "fae350cf0077e61d8f4cfe99e629d1b99351592b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/models/item/stone_pressure_plate.json",
+      "sha1": "cb0c41209450f2957a672ed03effe9de425aa8f1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/cem/cow.jem",
+      "sha1": "6c9f8df317102bd0afc683bd487086f1dfaee518"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/cit/compass.properties",
+      "sha1": "7d96613513588639add2ddd6804392b2a4bbec40"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/cit/filled_name_tag.properties",
+      "sha1": "6d0ebe92ff2876041e97aa6e54a2c46a0238a108"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/0.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/1.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/10.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/11.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/12.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/13.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/14.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/15.png",
+      "sha1": "b5227af874b5c9dac41b7b1e54c5fb9f5f1df840"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/16.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/2.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/3.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/4.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/5.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/6.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/7.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/8.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/9.png",
+      "sha1": "ec80141294bd43240445f60bd88fce275ab285e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/oak_leaves/oak_leaves.properties",
+      "sha1": "608c05d3fd69d421cadb2fad9b75a0eb40178dd5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/sugar_cane/0.png",
+      "sha1": "6f0e15997d108aa2a64e638a827b555ea67cab2b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/sugar_cane/1.png",
+      "sha1": "6f0e15997d108aa2a64e638a827b555ea67cab2b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/sugar_cane/2.png",
+      "sha1": "02fc40f62db4b26f845bec6c94f7ecca603b0de0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/sugar_cane/3.1.png",
+      "sha1": "6f0e15997d108aa2a64e638a827b555ea67cab2b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/sugar_cane/3.png",
+      "sha1": "02fc40f62db4b26f845bec6c94f7ecca603b0de0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/optifine/ctm/sugar_cane/sugar_cane.properties",
+      "sha1": "982f3c73a4cdaafbdd4ef521da7f3b6f0a13d7e4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/particles/damage_indicator.json",
+      "sha1": "c47ae228362137ce3aed4443334314e4cec705f3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/particles/lava.json",
+      "sha1": "c47ae228362137ce3aed4443334314e4cec705f3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/particles/squid_ink.json",
+      "sha1": "c47ae228362137ce3aed4443334314e4cec705f3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/particles/sweep_attack.json",
+      "sha1": "c47ae228362137ce3aed4443334314e4cec705f3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/particles/underwater.json",
+      "sha1": "c47ae228362137ce3aed4443334314e4cec705f3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/main/entity_translucent_cull.fsh",
+      "sha1": "9f6d1328c7f7d0f23b96c63e607550bf7dbbcba2"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/main/entity_translucent_cull.vsh",
+      "sha1": "4c1a9797dec79b1e441433f29e877cae8f5be619"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/main/items0.fsh",
+      "sha1": "fc1e2851184af532bedccc6e2317493c6af3f165"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/main/items0.vsh",
+      "sha1": "e0f5f1253ac3f2e3aaf54c79552c3efbcbdb8dfc"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/main/items1.fsh",
+      "sha1": "be154f968e836b731009a4fafcc56546dc6c0912"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/main/items1.vsh",
+      "sha1": "beda0a5623008d1d25ea42897d20ebf34b80e5ff"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/rendertype_entity_cutout.json",
+      "sha1": "00c7b30287461c97a0f259214ee0870657f4f62d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/rendertype_entity_cutout_no_cull.json",
+      "sha1": "00c7b30287461c97a0f259214ee0870657f4f62d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/rendertype_entity_glint.json",
+      "sha1": "876c6af42a33f19f4c45ef5c3b99ed89e481b68c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/rendertype_entity_no_outline.json",
+      "sha1": "b9dbb6185f65767c8a90e718b2621b98b67e56a7"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/rendertype_entity_solid.json",
+      "sha1": "1f04488b4087724cbf271122ac42710553d083c8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/rendertype_entity_translucent_cull.json",
+      "sha1": "d7f36b9c6e6e6b14857d4a1ff10bdd20afec18a4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/rendertype_glint.json",
+      "sha1": "f1ac1194e734d5d92f5a904d978cd10e613c4715"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/core/rendertype_glint_translucent.json",
+      "sha1": "bd755a7939ddeb7522b46e23a98c51c46d4b9987"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/include/flat_item.glsl",
+      "sha1": "10f7f064fbcde8b2c26800f581303f7d2f4c1efe"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/shaders/include/rem_sides.glsl",
+      "sha1": "1ddf309778d81bfc421bfeb61ce331d85b20e0a0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/texts/splashes.txt",
+      "sha1": "510e3af0cb4361b89ae3f579aa176f23cbf40c2b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/black_stained_glass.png",
+      "sha1": "6afcca1218e4804d61cdfdcdf4346e125e4f855c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/black_wool.png",
+      "sha1": "eadb384ba1a7ef22384e023ab808ea5721acd236"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/blue_stained_glass.png",
+      "sha1": "e731d4a9c7f67ddd1623ea7614c7f7146871fb8c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/blue_wool.png",
+      "sha1": "df9ad568d9c7804e2e3c49580f79ad47dba02d48"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/bricks.png",
+      "sha1": "23ece976e0f857db15ce1d70a9fa1baf40b5af7f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/brown_stained_glass.png",
+      "sha1": "ecebd3d61cb4ad204e4df7ad62b88332f0f4bbb8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/brown_wool.png",
+      "sha1": "f65f4a1deb6644c044904854ed61d5ccedeebd38"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/coal_ore.png",
+      "sha1": "f0ec767b743235a12910a84e4f18073e5a965887"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/cobbled_deepslate.png",
+      "sha1": "46926c65ba2a138ae87ee029dc78e0c40561d149"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/cobblestone.png",
+      "sha1": "730d78e94d129e862f7fa395a1c491f51ef4f971"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/copper_block.png",
+      "sha1": "b8cdb0fac5719732a192bb5f10bf2873473dbe2b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/copper_block_bottom.png",
+      "sha1": "4a3495843e9160a0213b216f5ae7bdbf5831c37e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/copper_block_side.png",
+      "sha1": "466166f328a1d9634c1f0b0713b4b2927c1cc902"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/copper_ore.png",
+      "sha1": "c6c59a52196efeaa9f87a07ee580479265f32888"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/cyan_stained_glass.png",
+      "sha1": "0f806f5cff9f5ab883625a218c7fe73ab0c7c05b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/cyan_wool.png",
+      "sha1": "fea80bb1cae95119a9cee91a66a422408e4fcdb8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/deepslate.png",
+      "sha1": "33aecd21cbb9dae98efd71bafaf80c23f0cd5880"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/deepslate_coal_ore.png",
+      "sha1": "03ad89ce0bb9d5f060fafa9083a67a7aa8c62668"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/deepslate_copper_ore.png",
+      "sha1": "c716cc88ce4b9fdc734daffde9d330f948a2e308"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/deepslate_diamond_ore.png",
+      "sha1": "0eac3f094ebc3750bba8c1828657510b94efd6dc"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/deepslate_gold_ore.png",
+      "sha1": "c72da55a38ac0e19a8e662bb0f40cffcd5be19a1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/deepslate_iron_ore.png",
+      "sha1": "a5204c9ed75395c51d53c75d28c684dfe02457bb"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/deepslate_redstone_ore.png",
+      "sha1": "00f84830a8f378b41589921fe2fe788fd4c9309a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/deepslate_slab.png",
+      "sha1": "7e000dc9c092d3dc63e329a39f6cac028e3fd862"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/deepslate_slab_side.png",
+      "sha1": "e60a95aeac310266d5fcbbd35be22b17fd8f369a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/diamond_block.png",
+      "sha1": "001cd63b8c7a0b7cf31b9dfc7028cf418181a5c5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/diamond_block_bottom.png",
+      "sha1": "90fc405a4c8d6e901796fa22b548b44f8a52d6d8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/diamond_block_side.png",
+      "sha1": "194dcdcd7b0db5ed624f684b759c7f2dac6583c1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/diamond_ore.png",
+      "sha1": "5611f5151b65e48d78219ba7f00a82a1446a3ee3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/glass.png",
+      "sha1": "b320acf57f6ee1070b31db897e18a1f3fb874a2a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/gold_block.png",
+      "sha1": "0ea7fddff3195f87785f8d11fed6922c5e2a4190"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/gold_block_bottom.png",
+      "sha1": "7600dd8e6ad7776aa918985df87eb835055d4ebb"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/gold_block_side.png",
+      "sha1": "b481fdb75e7c0e68dc56b582c849214da81b4826"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/gold_ore.png",
+      "sha1": "bfb8ed349b6dfe64a72050d13c74a7e7ac6210ec"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/grass_block_side.png",
+      "sha1": "61f23be4c8b31b956f1f5c0335efc156151d2cba"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/grass_block_side_overlay.png",
+      "sha1": "0836055a089a63d8949571c05f3c8ff86dae4401"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/grass_block_snow.png",
+      "sha1": "c670c8102a6592757538ecd9249ee5af48459ad3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/grass_block_top.png",
+      "sha1": "8e21b7fc272df8be6223017810c8b9761a4c9569"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/gravel.png",
+      "sha1": "cb01823493bc34b9a36f29adb5054c1b3013c695"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/gray_stained_glass.png",
+      "sha1": "f2b233257631457925109a41d9d671e3dadff706"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/gray_wool.png",
+      "sha1": "58b0d1db8d12f7c0f574305fc0ad7e2df9133371"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/green_stained_glass.png",
+      "sha1": "6d99ca9a8dd9a99bbb868dd248e784cac6486fe8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/green_wool.png",
+      "sha1": "192a2724bd505795c97d3da2e49d2c569ed151c2"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/green_wool_classic.png",
+      "sha1": "707782afd8653ef25db3d816ca9b2f5e686b9f8d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/iron_block.png",
+      "sha1": "a21ab863a48237745402fc42428fe3b89ac4f6e1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/iron_block_bottom.png",
+      "sha1": "0d294098ab9916274c4ae5b2ba9f9d5364369982"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/iron_block_side.png",
+      "sha1": "74e7217785f23de9b62bb57e06d3f1b5173eb096"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/iron_door_bottom.png",
+      "sha1": "0072a268e64363475aedd5d2833a4d7e13d9a737"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/iron_door_top.png",
+      "sha1": "a4507e1d6b75dfebf4bfa2cd2008578ed5479aa4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/iron_ore.png",
+      "sha1": "2a78ebed861f9fdec539efba98fb0275974ad6d8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/iron_trapdoor.png",
+      "sha1": "099bc479c362fcf25f1a95c9967c4bf64e986a49"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/item_frame.png",
+      "sha1": "721b6fdca589bc5559259e80a34386d6c7ab2365"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/lava_flow.png",
+      "sha1": "f00c6c8a3707524f3840f5739088e60712e8e6c9"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/lava_flow.png.mcmeta",
+      "sha1": "700ec13e51f7f22e4230a25c3727513679110317"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/lava_still.png",
+      "sha1": "1a36f184cb3f1ce29e97af21bfa0745dd903da4d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/lava_still.png.mcmeta",
+      "sha1": "700ec13e51f7f22e4230a25c3727513679110317"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/light_blue_stained_glass.png",
+      "sha1": "ad8193c696f445d75e450c5e590e82630f5fb85c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/light_blue_wool.png",
+      "sha1": "5d94fcd59734cccff83c9a2fc6de45471415cd32"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/light_gray_stained_glass.png",
+      "sha1": "8398677d8559e88a70931f7e33da97528dc1a1cc"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/light_gray_wool.png",
+      "sha1": "54bdc2020bfd62ecd2b962a585f05438bc124946"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/lime_stained_glass.png",
+      "sha1": "f41d5ee8d22b653e5603ab77ed76d083b23c6432"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/lime_wool.png",
+      "sha1": "105c6a858b81655a64bae8ebf4666a8fc95a6d5a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/magenta_stained_glass.png",
+      "sha1": "457a06666576a7a623d2e11b4599154d62a322aa"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/magenta_wool.png",
+      "sha1": "1edc6524ab82aeb2d201f2828451690d2415166d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/magma.png",
+      "sha1": "185241630804da2ebc51416654907188b4056a3d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/mossy_cobblestone.png",
+      "sha1": "0fe33e9c52edb4126c1111823d705af778504cec"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/mycelium_side.png",
+      "sha1": "61b36e860268724083d10357725059fa0ee3ee55"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/mycelium_top.png",
+      "sha1": "4fbaf4e329046df49032e22cb8db812d2d855fe1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/oak_leaves.png",
+      "sha1": "7d3d3c70fa70bee0a87975ac2240ed7d98695128"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/oak_planks.png",
+      "sha1": "f79c8fdf1550be705e3354cedc2cd5632551cf5f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/oak_sapling.png",
+      "sha1": "8fe580892451302ac3cfec512d42eb38bbff4b9a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/oak_slab.png",
+      "sha1": "eb8cf773162960e4c564c2958af08a9d5f4d5eef"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/oak_slab_side.png",
+      "sha1": "d920045eb5f47dac33d1b85bb00a90100d518fee"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/oak_trapdoor.png",
+      "sha1": "7f6e1a592a3b571d5761e5e6b64f55fc9a8716c0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/orange_stained_glass.png",
+      "sha1": "fad88e1bb95bd94e109162d8f0ac182989d8dd8f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/orange_wool.png",
+      "sha1": "d893355b868aef4a9ed781831f5fdfa6b7ccb781"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/pink_stained_glass.png",
+      "sha1": "ef2c26dc242077c735905a1d7062011fe04656c2"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/pink_wool.png",
+      "sha1": "7643225fed7dc724dfed05b54466a705d0258dc6"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/piston.png",
+      "sha1": "b8cdb0fac5719732a192bb5f10bf2873473dbe2b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/piston_side.png",
+      "sha1": "ac604dbe8c6955558a8f6a10ece89302c551f47a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/piston_side_sticky.png",
+      "sha1": "29e7c46662e5c668214e20b21a04d1e307a55666"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/piston_sticky.png",
+      "sha1": "b8cdb0fac5719732a192bb5f10bf2873473dbe2b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/piston_top.png",
+      "sha1": "b8cdb0fac5719732a192bb5f10bf2873473dbe2b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/piston_top_sticky.png",
+      "sha1": "a1b07492011a3b35b8d61c245f246e662309372b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/poppy.png",
+      "sha1": "4fdfd3366ccb1c3e30e1fecf4b04be0ecec733eb"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/purple_stained_glass.png",
+      "sha1": "e9a382e1fa0ad3ffea4e7a09a17ac6b99bd7ce7c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/purple_wool.png",
+      "sha1": "7074b7617c60b1356169db23fca87f803acc90a2"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/red_stained_glass.png",
+      "sha1": "e9679e966b7cf7d697fe6cd8b24c4b60752e6ea7"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/red_wool.png",
+      "sha1": "d527a876e61ee3b2f26729fc93b1aa272d752502"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/redstone_block.png",
+      "sha1": "a1262525bd700acde164b38ad5be87a90be30771"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/redstone_lamp.png",
+      "sha1": "c5df9aedd19fbef84a6e9f8b1f0f5f44f7b05a2d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/redstone_lamp_on.png",
+      "sha1": "637c66fbc54cd17e5b9b1ca689cfc0378b0125d0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/redstone_ore.png",
+      "sha1": "07d9cfa799a8440ca698d7cbd45ba2a79174054e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/repeater.png",
+      "sha1": "6195d68eaf0bb722509a55c47df00ece03cfb816"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/repeater_on.png",
+      "sha1": "ea6de8fb7659481a8832e454f7dfa7fd287f3bfd"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/sand.png",
+      "sha1": "a4aff158b20fe8fe9003fc6d9d2ace8caff83c8c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/sandstone.png",
+      "sha1": "36db7cfc5cf8ac478f420f8c16a5f4896f3ec7c4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/sapling_tall.png",
+      "sha1": "3966439395fd433adb22bb5852a36ea71e7d33d2"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/scaffolding.png",
+      "sha1": "2866bee8636b62f7983fad8af7e0b41c14dc8a3b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/slime_block.png",
+      "sha1": "32f45958d826879fd469a6400f7e6f39e0048a2d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/smooth_stone.png",
+      "sha1": "7315c476fac266a738edfdde0b9f0cacb51858bd"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/smooth_stone_slab.png",
+      "sha1": "8b524914a4bf741d861ff0e8a8df9e902e4e28d8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/soul_fire_0.png",
+      "sha1": "acc1a3fa088eae00797e7f7622aa5873a4237f82"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/soul_fire_0.png.mcmeta",
+      "sha1": "9a1bb44e3105889b4d155e06c0b7e8c14f8449e8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/soul_fire_1.png",
+      "sha1": "5479a963242b0133342af85481d2c020dfce609e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/soul_fire_1.png.mcmeta",
+      "sha1": "700ec13e51f7f22e4230a25c3727513679110317"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/spawner.png",
+      "sha1": "3b01c8065aca6a0062b79ce57b09791263c57a85"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/sponge.png",
+      "sha1": "b50b1fb71ab994e5d2f7342c3f624dcc62955d75"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/stone.png",
+      "sha1": "2b618735be625e412f50a4096e7810405d136eb7"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/sugar_cane.png",
+      "sha1": "6f0e15997d108aa2a64e638a827b555ea67cab2b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/sugar_cane_top.png",
+      "sha1": "02fc40f62db4b26f845bec6c94f7ecca603b0de0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/sweet_berry_bush_stage0.png",
+      "sha1": "31ac036726559e4405152bb85a0f1aeb2c32b1d6"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/sweet_berry_bush_stage1.png",
+      "sha1": "594afa248adddb2c048154c18974a3e65e39e60a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/sweet_berry_bush_stage2.png",
+      "sha1": "494d493cce98449def8745aaee98d286890b585d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/sweet_berry_bush_stage3.png",
+      "sha1": "7544be2f7303e62a00490384c084ce01b6661c7d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/water_overlay.png",
+      "sha1": "7927e549d23591ce28c72c4b0041245f3c0414e3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/wet_sponge.png",
+      "sha1": "869e67d86d23eeca5bc9b4ad1f56081fe5d0a555"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/white_stained_glass.png",
+      "sha1": "b316de0a43de925c21ee604ecadd0cf861b6433e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/white_wool.png",
+      "sha1": "08bb0a754e782a2be896a92c9da6dcfb9cefc86f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/yellow_stained_glass.png",
+      "sha1": "52241ad0698a9b3956d641c2d692d0843ba65227"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/block/yellow_wool.png",
+      "sha1": "d1231a0903514db9f89086ef8abab83fa2d22dae"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/entity/pig/pig.png",
+      "sha1": "7f37a5e4a6b6dee3c9be3f438fdb3ee3b8558fd8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/environment/clouds.png",
+      "sha1": "446b12fa82bfbbbb07c099ed7979fbf7859bfafa"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/environment/moon_phases.png",
+      "sha1": "acbbf79136ed5a7b5fd311cc8879f5ca508556ca"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/environment/rain.png",
+      "sha1": "e658f890c05d2f385fb6dab54f4df8b5aeab5127"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/environment/snow.png",
+      "sha1": "08856668470032e35871c7dbb3910044e59a6e9a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/environment/sun.png",
+      "sha1": "c0bcfe4b6c785abe9720721dca8e49bf87533c8c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/black_dye.png",
+      "sha1": "26b805bd45242ee67fb8151a03739256e4d02d0d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/blue_dye.png",
+      "sha1": "a23de104c67b4ac2e8ba4c1cb27f70c69acf3f52"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/bone.png",
+      "sha1": "1d1bac9dc2bc81b41acc555409615c227ed36c8d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/brown_dye.png",
+      "sha1": "cb7892d2f3c2b617d7d1ed5f1657d68fc0bb0a13"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_00.png",
+      "sha1": "bc892d056383343a382b3d7f11e8dee890965585"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_01.png",
+      "sha1": "cbd2e7175acaefc084cce9ed9c88d97930e88cca"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_02.png",
+      "sha1": "c604c5015fff813c4c64d468f8c805af33dea802"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_03.png",
+      "sha1": "5149f796c71c86c7e7b7ff90a1ad381d0f288414"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_04.png",
+      "sha1": "26f35d8764ea9380951f2a307d1ab6e771c2b54e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_05.png",
+      "sha1": "0058bea23234d3509d71ea463fdd8453d54dfd4b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_06.png",
+      "sha1": "2f415774f3dca5b1e13be54db2a07e0b272351e1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_07.png",
+      "sha1": "519ef86135ea136161e6cf6e8393b9d548f71339"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_08.png",
+      "sha1": "01ae78bd93b37dc179f6195a053b0f375020c372"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_09.png",
+      "sha1": "55f17d9ee99179064f1b877c39d054a3d183e00a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_10.png",
+      "sha1": "9940fffdb4062250a8b65b542f2ba4e55c0fccf2"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_11.png",
+      "sha1": "17f28f23367abc346e346f37a418e249cc67287f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_12.png",
+      "sha1": "4b09e368d57adba524311dda43148e7478622992"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_13.png",
+      "sha1": "1d4236656eaf40bae24d8c00ee88bfa0b024c5d3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_14.png",
+      "sha1": "3a81521144ab6c2befac7807066ad9b2eff37021"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_15.png",
+      "sha1": "f6da27ea14128cfa6c3bb185339b1bafa8797d10"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_16.png",
+      "sha1": "2be8fa2f8bb9b157ec02315285874e88d98e1782"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_17.png",
+      "sha1": "c4a97e8fa500b1620c5a4a62f4c3847c3d35da25"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_18.png",
+      "sha1": "8e2ab22b77c3d81d3d71f1db17827972715b8096"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_19.png",
+      "sha1": "b1993fa35732d7fc2919213fa6df570037f87cff"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_20.png",
+      "sha1": "08e94e74a5b05f144e9d5521fbe5963005e210d3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_21.png",
+      "sha1": "5c68b366329f532641c4df6e2381bbe5bd70c307"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_22.png",
+      "sha1": "24e4990ae23207511a219151f7aa61df8290b164"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_23.png",
+      "sha1": "62853da3f0d8884f62673d265b2aa1182002a92b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_24.png",
+      "sha1": "25a06930ae332c3bd047a6c49e5108b92d67a017"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_25.png",
+      "sha1": "716bc1ea13503943160b63af5299d3bb3a393bb5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_26.png",
+      "sha1": "8a8813709caee43a293a63bc14f29cfcac181059"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_27.png",
+      "sha1": "9b9ed093ae866f35dac3c9e5f530753b0e2a86dd"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_28.png",
+      "sha1": "30de71528555d3388d0e825cb3f64979496b40c7"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_29.png",
+      "sha1": "3910ee2bdc00ded03c280dfd581b6445cc5cc5b0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_30.png",
+      "sha1": "5142f8d9b3f0be60fa3bdca2b76e3ec678d5b535"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_31.png",
+      "sha1": "2205b707d7b977a134636a88e501c9bbce8f5a06"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_32.png",
+      "sha1": "dd931a2cdeac08f56467483fa0c04384a7b54b8d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_33.png",
+      "sha1": "fbace400e084760c7175808bba9e748613a2fc77"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_34.png",
+      "sha1": "5573c0dc48e20b3cafd1184c09615b0f54ce0b6a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_35.png",
+      "sha1": "2cce483de580b1397cda0ae47ad34ae5d7ffe456"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_36.png",
+      "sha1": "fd137808061fdba39ab9e99b2b6d042035c2a7a1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_37.png",
+      "sha1": "b9b445e2fdc8bfa39fd42b604fea48fa28bd0f32"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_38.png",
+      "sha1": "32ebdbc5c67a96e95c1a875957316429f9dcbf58"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_39.png",
+      "sha1": "a8f72bc94476b0b735ba5a1d11c48371d25effef"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_40.png",
+      "sha1": "bd4c206440a61ee51087a8be8a04e35e3be7a709"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_41.png",
+      "sha1": "2af11241790aae7d21dbf9487d0aee65e2cd0930"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_42.png",
+      "sha1": "6549d452b94c0aafb6def25daa8244bf3aab680c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_43.png",
+      "sha1": "2f019f1ca6b604f87734f08eae30df3d5d28e582"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_44.png",
+      "sha1": "6e4daa2ec31bb3d93769d2ad01ca55b34c336784"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_45.png",
+      "sha1": "2653d8ca989472dcc20690c1c7ee22193ff7fb68"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_46.png",
+      "sha1": "1187e10acc8ffcd59fa744b980223b2a2ce82c1c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_47.png",
+      "sha1": "81ac0f5003ae5e0cdb47640ac9aa90b8cf6a1ed3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_48.png",
+      "sha1": "9cbea010d7fb5f79ddc4db19a66be7936e4c35d0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_49.png",
+      "sha1": "5482b2d9ef0b36cd7eccbf346c1e8c5cdb91d05a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_50.png",
+      "sha1": "2020d68e12325f887e5da14ac80f12593145290d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_51.png",
+      "sha1": "6065024daeacf884877753e4c4a1de88962d5387"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_52.png",
+      "sha1": "dbc39d5dc475a1f9bfb7fcf3c7607fe8a21fd4b0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_53.png",
+      "sha1": "507c2177d7121600745262ca5fdace02a79ac993"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_54.png",
+      "sha1": "1c8c35b72357ea793631f45dc5d855ce21854afa"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_55.png",
+      "sha1": "60524778a9e9777d71fb2ed7cf5974b2254178a6"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_56.png",
+      "sha1": "b570f32e8006d6be37ea206c4e7bcac02caf4446"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_57.png",
+      "sha1": "07c75fcb303c2e51e928d72f7eeb4241bf448e78"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_58.png",
+      "sha1": "358cb4b61c9a4e59c782a6f5a48196e516ace21e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_59.png",
+      "sha1": "b09b383903c104b3ab6cc070ccbeda6830d88138"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_60.png",
+      "sha1": "d8e8908c731ccc4b8ef8c87ce45cbbf5e26cf945"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_61.png",
+      "sha1": "f9f6f5c8015d032062578cda5e753f82b56c41bf"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_62.png",
+      "sha1": "50c8a6743a09b23c5b307292d68f9e600c883929"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/clock_63.png",
+      "sha1": "55618f6c072f6467c38650eb15ab5b299864ac50"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/cod.png",
+      "sha1": "46227068621d27c32295056b434eaa0be8963864"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/cod_bucket.png",
+      "sha1": "6d29f857fc64485b1077f209ccb7e21317cf6500"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/cooked_cod.png",
+      "sha1": "a1f2047777d6a75a64ee77eec51e6bd2860bd9ad"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/cooked_porkchop.png",
+      "sha1": "18b9a57bb9be2f24e380e42467e5e98d4dfbcb9f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/copper_axe.png",
+      "sha1": "f27e9842d3b0b65ed8c76490c901c50bd1ebe3d2"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/copper_hoe.png",
+      "sha1": "9cb0e1ef14314484564f1522595f18f2a0b0d2b3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/copper_ingot.png",
+      "sha1": "ae64fcb95e9dde53669b266d78d4919156a8fbef"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/copper_pickaxe.png",
+      "sha1": "41b38fd0e39ccd457d8f63efeebcc1cfa1eece2d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/copper_shovel.png",
+      "sha1": "81bbff279fb640ebd21c1c460665caed8d2277bd"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/copper_sword.png",
+      "sha1": "77191936e36bb75a19c0546e1b2f622566d1f176"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/cyan_dye.png",
+      "sha1": "951dcc868da6ac058adc38d82f14acecb2fb8614"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/empty_armor_slot_boots.png",
+      "sha1": "07b7247696c60bdfa7f645cbae65c59d99b103c1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/empty_armor_slot_chestplate.png",
+      "sha1": "3d90161512b7b6d84b695a9089223dafacb33b52"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/empty_armor_slot_helmet.png",
+      "sha1": "70d896da701c995f64a9ac5eb1bc1d8a95f3a4b4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/empty_armor_slot_leggings.png",
+      "sha1": "d4e4c744c4c9d5d5815e7ca23db3b75c310bd4eb"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/empty_armor_slot_shield.png",
+      "sha1": "06403e11065ec1b4da003dddf76fa54e4b580468"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/filled_name_tag.png",
+      "sha1": "01a096616a009cd1950729298dd0e5960fd3aff6"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/gold_ingot.png",
+      "sha1": "c4990e687180fd521f7296727018426ee8851d05"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/golden_apple.png",
+      "sha1": "3f4fa7a4c5b2666d158dc650cf69e947eec0bb73"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/golden_axe.png",
+      "sha1": "0d0caa5db3a492b49e5643c7a4bce7041272bc77"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/golden_boots.png",
+      "sha1": "95b8a0b2f2d4718fc5f045e808230817f98176a1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/golden_chestplate.png",
+      "sha1": "33f075e988b25005f4c691114a645c7962e8fcd8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/golden_helmet.png",
+      "sha1": "fb6977741fb6bbd8c889179458d808bee07c5fbe"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/golden_hoe.png",
+      "sha1": "b32d09475927aa92d9b58a77128c588d1a41f21e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/golden_leggings.png",
+      "sha1": "ac6a4dba955cdd278c6bb18c3bd3395661c447d9"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/golden_pickaxe.png",
+      "sha1": "eb0b9b4609596a0c6a231744c9072b51195f6868"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/golden_shovel.png",
+      "sha1": "33991d62508255069858f7ff19622f00c96f2d57"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/golden_sword.png",
+      "sha1": "4a216300606624aed524ac06ab805d6fdeb8cc5d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/gray_dye.png",
+      "sha1": "cfb3389aea5567e872c2de8657c1be9980694fbd"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/green_dye.png",
+      "sha1": "7cb7c3dfd1a89153eb6f9710f497b778acd3667f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/iron_door.png",
+      "sha1": "42579a6ad74caf822d1b2b919b15b7a84b1c3605"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/iron_trapdoor.png",
+      "sha1": "0963a71a642610e8f4c6960c6fbd8c29983e11f0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/item_frame.png",
+      "sha1": "d8bd958d38ba7c78fcec587eacb307e6334fcc4b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/leather_boots.png",
+      "sha1": "32b96ac407b782a662a0903b208c365201545d7c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/leather_boots_overlay.png",
+      "sha1": "3dcb3cd2cebb118cfbdea20cf99f6432791c6ff7"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/leather_chestplate.png",
+      "sha1": "9e0ec7af4de9755a5fedf4fecd5971c33b22bb07"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/leather_chestplate_overlay.png",
+      "sha1": "2909c1cca069725a464dce447d2ae576303e84c0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/leather_helmet.png",
+      "sha1": "04ce5fb1053bc7583643b29d80be0079d977e431"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/leather_helmet_overlay.png",
+      "sha1": "4b0450f1c3325c13eb167c30e5d6bb6cfff7db50"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/leather_leggings.png",
+      "sha1": "2482fd4e4cf449f3e5075efbd010ac5cd5e00380"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/leather_leggings_overlay.png",
+      "sha1": "9b1d44231e1592f25251c0131620d8783928e173"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/light_blue_dye.png",
+      "sha1": "c728d1fc12b3bf762dc127dee8d06a0e39b27f98"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/light_gray_dye.png",
+      "sha1": "47d2bc613b51e3a64b2c9cdfda6cbefbcb0467aa"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/lime_dye.png",
+      "sha1": "81d435be3ff8d40e1630bbe622a26ffb87ef274e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/magenta_dye.png",
+      "sha1": "7f2c879e835ea1e9068ca5ea025659b4df9825b6"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/name_tag.png",
+      "sha1": "c76448e0b31fb1b121dbebcf04a3fd0b27d1c1bc"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/oak_button.png",
+      "sha1": "c7f29663ec2a03904fa0c7fb0a3c7cbfeccbd48d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/oak_pressure_plate.png",
+      "sha1": "0f61186f365eea40642f01fb623f5ebffd70c044"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/oak_trapdoor.png",
+      "sha1": "ad6073555716641f7a09c74d17f495d1460226f0"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/orange_dye.png",
+      "sha1": "716412c15a6314bcdc74aac35735484e3e970cf8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/pink_dye.png",
+      "sha1": "6d2dbd04b494b4671d37781ae800a70027af0efa"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/porkchop.png",
+      "sha1": "05b1a28fbcefa18124a847e934cc48dfa7335c56"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/purple_dye.png",
+      "sha1": "11635ad933317d1ab83dd2a754a9c824361d6d9b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/raw_copper.png",
+      "sha1": "87a91cf6fa8e94276c23faa36f37fd496b9af443"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/raw_gold.png",
+      "sha1": "4c5f135d84ff6f6d04e78e7ec914e7ed959059fd"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/raw_iron.png",
+      "sha1": "e96627775f55c93f3575e3fa1d1b784bad72b902"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_00.png",
+      "sha1": "9f82b444df80e27642fd74fbb3201a50dc471e48"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_01.png",
+      "sha1": "6717d647500c9a9050ea339140bd2f2d267ac643"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_02.png",
+      "sha1": "8986f0c6ff6d5d5670f4d39a584e7a709a8add11"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_03.png",
+      "sha1": "e97601a95deb200bfeabe1618b3ea05ad0ab04ef"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_04.png",
+      "sha1": "88e52560db885408788400d72cd5d0d78cea9988"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_05.png",
+      "sha1": "e99b955dc18f5860879cda3ca53fe464a626d54d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_06.png",
+      "sha1": "4ba4b33924b84b1fdfbab9f671fa5fed11f2966c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_07.png",
+      "sha1": "6ef9c7823444e48c94891cfb790b2ff8183dc624"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_08.png",
+      "sha1": "6ef9c7823444e48c94891cfb790b2ff8183dc624"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_09.png",
+      "sha1": "6ef9c7823444e48c94891cfb790b2ff8183dc624"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_10.png",
+      "sha1": "893e4ca6f531e7b86947796b9bc55996acb6d710"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_11.png",
+      "sha1": "28ca83533d1e50b4f6b75082a124a7eb22c34ca1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_12.png",
+      "sha1": "e9addb3537a5824b6d85f9bf802a051ecd60dd7c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_13.png",
+      "sha1": "0bb15f2bf692e1ce25afbcb97c50be42b29ebf0d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_14.png",
+      "sha1": "a7f37b267327220568ff5de6093fb5136349304b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_15.png",
+      "sha1": "8483c1b19cfae92c96430843ade20a87b1fd6297"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_16.png",
+      "sha1": "e5f9f23cbac492ab0cd3aff2f271df1cca94bed6"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_17.png",
+      "sha1": "4908ac7e40f68ce9171d7a63b7dc658e5bf29a6f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_18.png",
+      "sha1": "5f8a5b8284ff00fe5fa6fdfad9d3fcab2ba680bb"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_19.png",
+      "sha1": "260d9adc83312c6c65f1c9adcb7b78662501cdae"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_20.png",
+      "sha1": "d001a0920f30f2c2212c58a214043229e287c16c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_21.png",
+      "sha1": "39a9c225d105704c6c3403221b233e5e854daedd"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_22.png",
+      "sha1": "26b80e7bdd275b95f2cd031d9982e3595e8a9dc2"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_23.png",
+      "sha1": "6f5c2fdcd5dc0f96fea91c35b756d9ba1d65d9c3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_24.png",
+      "sha1": "6f5c2fdcd5dc0f96fea91c35b756d9ba1d65d9c3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_25.png",
+      "sha1": "6f5c2fdcd5dc0f96fea91c35b756d9ba1d65d9c3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_26.png",
+      "sha1": "b15dd4509de5ba698ebcdcf86a1bd3d4ca2a22c5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_27.png",
+      "sha1": "0efa92c42d00286bbbb650048d84b50528bab744"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_28.png",
+      "sha1": "06c962051caa477d82b2abf32d8447333f9e3aeb"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_29.png",
+      "sha1": "e37f30c0811ced2c790535c316abefcf04db64bd"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_30.png",
+      "sha1": "4877999364b86ce1618ee19be0549f91b496c3fd"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/recovery_compass_31.png",
+      "sha1": "dddbdb83785b7f6d36ae67b0f730362760be0101"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/red_dye.png",
+      "sha1": "2b99ffa5eaef96c69bc7d3ce2d41d5b1a1d181f1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/spectral_arrow.png",
+      "sha1": "3f6f99daefba6f60736c990848ba2c4ade83f6c1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/spyglass.png",
+      "sha1": "a4cb12f0d9b4c79ee2e3e0d7a0daadab215cc0e5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/stone_button.png",
+      "sha1": "cfb56b7f2cc33db8ed2ea6388bf35e1baa5308a3"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/stone_pressure_plate.png",
+      "sha1": "1404ba56a2c45ade8218fdb2e8f0d74bfc99061d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/sugar_cane.png",
+      "sha1": "8ea18e3efc7e8510eedea8a6d1f3538bf587a5e2"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/white_dye.png",
+      "sha1": "1c4ed0ff07f113b382b841a90cf6c5b6460c61c9"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/item/yellow_dye.png",
+      "sha1": "1929a16cc1322ffe9cc1c8ce731ea07138053c78"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/misc/enchanted_item_glint.png",
+      "sha1": "60933ebfb9fff3c34042c75e7fe16ae8813ea15b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/misc/enchanted_item_glint.png.mcmeta",
+      "sha1": "baa8537ea1f39f39eeee34d6e7449218c86fc27e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/chainmail_layer_1.png",
+      "sha1": "6ec3601c5aaa8037b3d0fd59e2ff45618881429b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/chainmail_layer_2.png",
+      "sha1": "6ce603abca0efaa09cb69e7b1a243a78022e5a4f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/diamond_layer_1.png",
+      "sha1": "7974261c29c6aaffc27932c2155000fc650e4192"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/diamond_layer_2.png",
+      "sha1": "03ffa55918ad64a2d39232d16fa9e6132b421426"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/gold_layer_1.png",
+      "sha1": "5b88a2eeaa0777d4ee44976b6ca618dd47c784f4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/gold_layer_2.png",
+      "sha1": "7cac0714a03ff7db304535b147f9f56b69b0e007"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/iron_layer_1.png",
+      "sha1": "8471836354fdd273f74ffae2c0bf85b9c8305873"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/iron_layer_2.png",
+      "sha1": "e0d7d067d64c7b8b2bbcf648980f6cea79dd4a1f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/leather_layer_1.png",
+      "sha1": "88684b7049be2ef0bec09c20c34e6e61cebbaa06"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/leather_layer_1_overlay.png",
+      "sha1": "955f4256f3802317a889039a739c62989919d14e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/leather_layer_2.png",
+      "sha1": "9a5a5b93436d0b71cad3844c3defb6c1bac91a08"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/leather_layer_2_overlay.png",
+      "sha1": "a641a2d5e0f6f075c818cdd75af83e4971ffde1b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/netherite_layer_1.png",
+      "sha1": "dda4cb67b9837cade9352670b6d193dc968f8f6a"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/models/armor/netherite_layer_2.png",
+      "sha1": "95180a681b3e062e30d9b02150f8a848ca0cfa71"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/painting/wither.png",
+      "sha1": "1ed99e51bbebb96f5116ba2ddc7b53b2d54cca8d"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/minecraft/textures/particle/generic_none.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/models/block/wise_oak.json",
+      "sha1": "ff9fb73c9cfa317b7d1f5074603fee059a3cdc75"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/models/block/wise_oak_angry.json",
+      "sha1": "dc86947f86ed03f53c0bbf6b9350a3a9c28881ea"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/models/block/wise_oak_angry_blinking.json",
+      "sha1": "dc86947f86ed03f53c0bbf6b9350a3a9c28881ea"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/models/block/wise_oak_blinking.json",
+      "sha1": "ff9fb73c9cfa317b7d1f5074603fee059a3cdc75"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/models/block/wise_oak_blowing.json",
+      "sha1": "e99307671c9e2cec84d534866dc7bc249f555c02"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/models/block/wise_oak_sleeping.json",
+      "sha1": "679a43751b8e1fe511e8f208b4bc2bef898da6aa"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/particles/wind.json",
+      "sha1": "679eb4b5d8998e0b572797ebdfed24accb6a6787"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/textures/block/wise_oak.png",
+      "sha1": "b1c560323ab41ecc64c8cbaaaa6300fa9fcd9da9"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/textures/block/wise_oak_angry.png",
+      "sha1": "57f6e9b0afc0cbae119e1dbd7f20b64c1a061a15"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/textures/block/wise_oak_blowing.png",
+      "sha1": "f726b6f63aeda8d73c4ac999c4d31d8abf1f8576"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/textures/block/wise_oak_sleeping.png",
+      "sha1": "bc05eceb7b99d2a428112dbe3d95ed8fff9d4444"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/textures/block/wise_tree_eyes.png",
+      "sha1": "85bb3102ba55da3ccefa91e69b12903575163d67"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt1.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt10.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt11.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt12.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt13.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt14.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt15.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt16.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt17.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt18.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt19.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt2.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt20.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt21.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt22.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt23.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt24.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt25.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt26.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt27.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt28.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt29.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt3.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt30.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt31.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt32.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt33.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt34.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt35.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt36.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt37.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt39.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt4.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt40.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt41.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt42.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt43.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt44.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt45.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt46.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt47.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt48.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt49.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt5.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt50.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt51.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt52.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt53.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt54.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt55.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt56.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt57.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt58.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt59.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt6.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt60.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt61.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt62.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt7.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt8.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/hurt9.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/modify_json.py",
+      "sha1": "ef8ba1c4e353099ed158498eaf03a40a136e06b4"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked1.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked10.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked100.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked101.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked102.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked103.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked104.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked105.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked106.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked107.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked108.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked109.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked11.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked110.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked111.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked112.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked113.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked114.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked115.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked116.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked117.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked118.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked119.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked12.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked120.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked121.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked122.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked123.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked124.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked125.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked126.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked127.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked128.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked129.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked13.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked130.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked131.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked132.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked133.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked134.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked135.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked136.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked137.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked138.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked139.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked14.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked140.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked141.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked142.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked143.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked144.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked145.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked146.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked147.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked148.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked149.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked15.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked150.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked151.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked153.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked154.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked155.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked156.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked157.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked158.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked159.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked16.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked160.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked161.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked162.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked163.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked164.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked165.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked166.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked167.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked168.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked169.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked17.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked170.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked171.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked172.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked173.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked174.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked175.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked176.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked177.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked178.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked179.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked18.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked180.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked181.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked182.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked183.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked184.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked185.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked186.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked187.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked188.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked189.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked19.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked190.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked191.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked192.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked193.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked194.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked195.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked196.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked197.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked198.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked199.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked2.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked20.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked200.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked201.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked21.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked22.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked23.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked24.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked25.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked26.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked27.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked29.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked3.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked30.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked31.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked32.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked33.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked34.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked35.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked36.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked37.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked39.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked4.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked40.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked41.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked42.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked43.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked44.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked45.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked46.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked47.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked48.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked49.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked5.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked50.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked51.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked52.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked53.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked54.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked55.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked56.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked57.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked58.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked59.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked6.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked60.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked61.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked62.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked64.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked65.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked66.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked67.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked68.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked69.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked7.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked70.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked71.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked72.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked73.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked74.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked75.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked77.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked78.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked79.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked8.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked80.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked81.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked82.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked83.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked84.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked85.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked86.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked87.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked88.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked89.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked9.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked90.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked91.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked92.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked93.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked94.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked95.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked96.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked98.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/talked99.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken1.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken10.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken11.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken12.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken13.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken14.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken15.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken16.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken17.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken18.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken19.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken2.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken20.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken21.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken22.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken23.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken24.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken25.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken26.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken27.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken28.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken29.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken3.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken30.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken4.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken5.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken6.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken7.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken8.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/mysticaloaktree/tree_wisdom/woken9.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/quark/models/block/obsidian_pressure_plate.json",
+      "sha1": "05945c571db30ac1ef9814b92a5fb008a47ed36c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/quark/models/block/obsidian_pressure_plate_down.json",
+      "sha1": "9c88af7feaade94643cba0afd36b08a9c7a5f73f"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/quark/models/item/iron_button.json",
+      "sha1": "73c7bd6106707c1ff43e57a7c32b2dcb0091c90e"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/quark/models/item/obsidian_pressure_plate.json",
+      "sha1": "43ea20e0a380df07e85c8411f506e25b658735ad"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/quark/textures/item/iron_button.png",
+      "sha1": "95c175c6bae0045c53edfd11348b8f8987ea632c"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/quark/textures/item/obsidian_pressure_plate.png",
+      "sha1": "8fd5b0ba724f831fe31eabddc06d7738af1ca6c1"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/screenshot_viewer/textures/gui/sprites/widget/icons/screenshot_viewer.png",
+      "sha1": "428b8b0fffc616c0ca617fb86a0aa1270d99d6c8"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/misc/mouse.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/anvil.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/beacon.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/book.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/brewing_stand.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/chat_typing_0.png",
+      "sha1": "3310044f71f942b68daf209c1106380846e3d31b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/chat_typing_1.png",
+      "sha1": "3310044f71f942b68daf209c1106380846e3d31b"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/chat_typing_2.png",
+      "sha1": "2c2110de092e0a3514a761ace1bb8c695e92ad75"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/chat_typing_3.png",
+      "sha1": "2c2110de092e0a3514a761ace1bb8c695e92ad75"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/chat_typing_4.png",
+      "sha1": "a48e7d2f0e08f51afd47cb8e4562a75070342517"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/chat_typing_5.png",
+      "sha1": "a48e7d2f0e08f51afd47cb8e4562a75070342517"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/chest_0.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/chest_1.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/chest_2.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/command_block.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/crafting_0.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/crafting_1.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/crafting_2.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/dispenser.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/enchanting_table.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/escape_menu_0.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/escape_menu_1.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/escape_menu_2.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/furnace.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/grindstone.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/hopper.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/horse.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/inventory_0.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/inventory_1.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/inventory_2.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/loom.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/shulker_box.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/sign.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/assets/watut/textures/particles/villager.png",
+      "sha1": "51fa14974d19f3822971692c09eb22afae0649b5"
+    },
+    {
+      "path": "overrides/config/openloader/packs/db3k_resources/pack.mcmeta",
+      "sha1": "596d9c302eaa10bba479df4d3f4b78f5142c30b5"
+    },
+    {
       "path": "overrides/config/placebo.cfg",
-      "sha1": "a3d7b80b1073ac5baaccaa5691c3fa8409fa4827"
+      "sha1": "31379aff8caded4f3c1dc33c6de34189d2805489"
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "ddb8e37b035fe1fbcfd0efc166880e0e9802f98b"
+      "sha1": "3e0d55d348ea5ab3959abf19b70fa2d0c3c016b3"
     },
     {
       "path": "overrides/config/recreative/example_tabs.json.disabled",
@@ -710,7 +3750,7 @@
     },
     {
       "path": "overrides/config/reliablenametags.toml",
-      "sha1": "a80f9efef35b5742beee7f5d4d6c5c368ee7d3ab"
+      "sha1": "6f7eb2c90b99d1de49676a2acb5f60e6884d5797"
     },
     {
       "path": "overrides/config/resourcepackoverrides.json",
@@ -718,11 +3758,11 @@
     },
     {
       "path": "overrides/config/screenshot_viewer-client.toml",
-      "sha1": "98b78d96b2a2340fea21d8acc6b12836078d51ff"
+      "sha1": "21120b57264db780134396ace0d03f5516d13b99"
     },
     {
       "path": "overrides/config/seasons.json",
-      "sha1": "7b0521882df19c1cbed958ff4d9df060b5347540"
+      "sha1": "d27c6a2a90777d432ddbe738c2b510c4265d67c8"
     },
     {
       "path": "overrides/config/sodium-mixins.properties",
@@ -734,7 +3774,7 @@
     },
     {
       "path": "overrides/config/sounds/chat.json",
-      "sha1": "293e893006b6990c278b580a072580d1a9f2576e"
+      "sha1": "ea3cb79f348b46b8cfd6d5a741117b8c21666cab"
     },
     {
       "path": "overrides/config/sounds/event.json",
@@ -754,15 +3794,15 @@
     },
     {
       "path": "overrides/config/stylisheffects-client.toml",
-      "sha1": "42ef8ffecde02f4158828c03694bb4d417bc8512"
+      "sha1": "d9b24dcdceab5aec17742c3cdd8945d7b0c26ff1"
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
-      "sha1": "13a1df12250c430e5ea9e80cc2ad63d093a3b5f1"
+      "sha1": "6a9fb79c69bba34480ebeec6f0266336fa3d57a0"
     },
     {
       "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "d7dd5e0fca0d0f0213b6c11f2198ae16405c9259"
+      "sha1": "267fb34caba48908c2943f5ee50d74995389b26c"
     },
     {
       "path": "overrides/config/timeless.json",
@@ -770,7 +3810,7 @@
     },
     {
       "path": "overrides/config/toastcontrol-client.toml",
-      "sha1": "a493db592d6ce6a4d57c89da22fdb5c04a4b5856"
+      "sha1": "97dc4cdebc05237f1fac1d7d7748efaa9ec044ae"
     },
     {
       "path": "overrides/config/transition.json",
@@ -786,19 +3826,19 @@
     },
     {
       "path": "overrides/config/watut-client.toml",
-      "sha1": "1239e7eff97a736c9e29fe57d8034b64bb766389"
+      "sha1": "af24b03bb2482372ddea6d81878d8975098dd25d"
     },
     {
       "path": "overrides/config/watut-common.toml",
-      "sha1": "c858cf73b5760b42d42d0fe06981471b4f1debd4"
+      "sha1": "55781f5d0dc1d7975db99c09c5353ae1959594cb"
     },
     {
       "path": "overrides/config/watut-item-arm-adjustments.json",
-      "sha1": "2cfa88c57c35df26af1391acb7f2f8eb8abd53ab"
+      "sha1": "f998d4ccaf263904f7f8dbe35b0364f59722e7ac"
     },
     {
       "path": "overrides/config/watut-server.toml",
-      "sha1": "676f01f869328fa288c5ed25ac86459aa6249b04"
+      "sha1": "f4bbad38e8c2253eab33bdd38a0a135c022b1786"
     },
     {
       "path": "overrides/config/yacl.json5",
@@ -806,7 +3846,7 @@
     },
     {
       "path": "overrides/config/zeta-common.toml",
-      "sha1": "eb1942c061fa7ce8208d207125357041bf429ca1"
+      "sha1": "22df4f5efcb58547957245fcde37666baf9e5f58"
     },
     {
       "path": "overrides/controllable_natives/README.txt",
@@ -815,14 +3855,6 @@
     {
       "path": "overrides/controllable_natives/SDL/2.32.8/SDL2.dll",
       "sha1": "8031d4e3fed211e64bae06e9484c898d8666ddd2"
-    },
-    {
-      "path": "overrides/data/fabricDefaultResourcePacks.dat",
-      "sha1": "f33972a871645c722319df8850bfa62b89f87cdf"
-    },
-    {
-      "path": "overrides/data/seasons_compat_warn.nbt",
-      "sha1": "8dd739ec0890df882621dec356af3e1253b9493f"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",
@@ -859,10 +3891,6 @@
     {
       "path": "overrides/kubejs/startup_scripts/main.js",
       "sha1": "05ec115c372985dc9f77dd2513933aa8e90eba61"
-    },
-    {
-      "path": "overrides/options.txt",
-      "sha1": "d8a3a97722e5675aec9bca8cce6a94a4c1b0d598"
     }
   ]
 }
