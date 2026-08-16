@@ -1,0 +1,23 @@
+{
+  "name": "Timeless",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nJxEs2tZ",
+      "slug": "timeless",
+      "versionId": "bShUV911",
+      "versionNumber": "1.21.1-1.3.6",
+      "filename": "timeless-1.21.1-1.3.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nJxEs2tZ/versions/bShUV911/timeless-1.21.1-1.3.6.jar",
+      "sha1": "b7622d5425de9a258b8f11ea57c3b0b9e55912d2",
+      "sha512": "2fa807d671c646a985b2463d4baa80652c8ab3c1d14000635703639ed4aa6a308090a57a889848193f520febf88a4bf48d05872b0ac011f6ef928d2ae7ce03e6",
+      "fileSize": 359400
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

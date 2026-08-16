@@ -1,0 +1,22 @@
+{
+  "name": "Controllable",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "317269",
+      "slug": "controllable",
+      "versionId": "7411284",
+      "versionNumber": "Controllable 0.25.4",
+      "filename": "controllable-neoforge-1.21.1-0.25.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7411/284/controllable-neoforge-1.21.1-0.25.4.jar",
+      "sha1": "9d499c8f8926955e04948dad68c7b7a4538801c3",
+      "fileSize": 7140498
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

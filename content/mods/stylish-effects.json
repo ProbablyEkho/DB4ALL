@@ -1,0 +1,23 @@
+{
+  "name": "Stylish Effects",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "onDuQF5e",
+      "slug": "stylish-effects",
+      "versionId": "MT3yeDds",
+      "versionNumber": "v21.1.3-1.21.1-NeoForge",
+      "filename": "StylishEffects-v21.1.3-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/onDuQF5e/versions/MT3yeDds/StylishEffects-v21.1.3-1.21.1-NeoForge.jar",
+      "sha1": "83f764d776e2093d4e822fe784d4b17bc76c1815",
+      "sha512": "5dbf9be82e7da514b84b0b984789d272b5e0ccf2d667dd3d669e504ed512c3b7de1eb59be6ef4895ccd1fd88c4d6aee23ae28748b36b84528d64e94ebfad6282",
+      "fileSize": 119312
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Apathy",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "fvtFPg1k",
+      "slug": "apathy",
+      "versionId": "rpKjoIfw",
+      "versionNumber": "2.7.2-neoforge-1.21.1",
+      "filename": "apathy-neoforge-1.21.1-2.7.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fvtFPg1k/versions/rpKjoIfw/apathy-neoforge-1.21.1-2.7.2.jar",
+      "sha1": "226cec00e4aed048194c5087f60f54a419eb5e8b",
+      "sha512": "0b1df113575439cdc0265b28f409a795db111b662deff12bab6e4152967eec572eb29ba884345b0ec56634d60f23ace9cd0b10676b36c6f3066674306e0f3305",
+      "fileSize": 238116
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

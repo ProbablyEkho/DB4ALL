@@ -1,0 +1,23 @@
+{
+  "name": "Crunchy Crunchy Advancements",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4lO2KZlF",
+      "slug": "crunchy-crunchy-advancements",
+      "versionId": "i9iEM1sT",
+      "versionNumber": "1.7.2+1.21",
+      "filename": "crunchy-crunchy-advancements-1.7.2+1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4lO2KZlF/versions/i9iEM1sT/crunchy-crunchy-advancements-1.7.2%2B1.21.jar",
+      "sha1": "dedbc1c437f08cd159ee7ef083d726d084aeac76",
+      "sha512": "e9a9a73116e2085cd7757449413bb890e6bfcc69b768e783b281c6fa6433649dc6f19387c90ad339dba7402554ec11dfdcb7d8d7bf26090ca2b1d9551a97e414",
+      "fileSize": 311351
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

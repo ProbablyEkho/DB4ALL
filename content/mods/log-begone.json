@@ -1,0 +1,23 @@
+{
+  "name": "Log Begone",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9ON3zv6e",
+      "slug": "log-begone",
+      "versionId": "1OrkaiPD",
+      "versionNumber": "1.0.3",
+      "filename": "logbegone-neoforge-1.21.1-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9ON3zv6e/versions/1OrkaiPD/logbegone-neoforge-1.21.1-1.0.3.jar",
+      "sha1": "ee401552a031798993fffb7c9761742bdf6789e8",
+      "sha512": "5908033aa96432ff55b9d81bd010172e353997312537f82c25b2ddf4767e8dc0100469cefc7513cf1542a919c79f090f7c74e5f29ccd788422231914335d047d",
+      "fileSize": 73237
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

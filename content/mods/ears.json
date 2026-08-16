@@ -1,0 +1,23 @@
+{
+  "name": "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mfzaZK3Z",
+      "slug": "ears",
+      "versionId": "L3yCjYrE",
+      "versionNumber": "2.0.1+buzz-neo",
+      "filename": "five-buzz-neoforge-2.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mfzaZK3Z/versions/L3yCjYrE/five-buzz-neoforge-2.0.1.jar",
+      "sha1": "bc8f3784a9953d0d3428a42600e0f88af736044d",
+      "sha512": "7ff56d2077b305ef4d98c8d5ddaca92da0262a03a3fa9155b6774fdcec0cd7e3a7bcdb9be579768ba5b40080096f7f9b59b9c375b5b6de5c2b800f70c199aa15",
+      "fileSize": 270430
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

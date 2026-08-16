@@ -1,0 +1,23 @@
+{
+  "name": "TipTheScales",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FIxDGxJl",
+      "slug": "tipthescales",
+      "versionId": "BoA5odNn",
+      "versionNumber": "16.0.0.1",
+      "filename": "TipTheScales-neoforge-1.21.1-16.0.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FIxDGxJl/versions/BoA5odNn/TipTheScales-neoforge-1.21.1-16.0.0.1.jar",
+      "sha1": "9fd3e927696d9f55c8897900a69ac457747b6eb2",
+      "sha512": "51264d208920a05980758eb168d6b6827ccb24ca51a01d1fcb32af7d8c06490a8e672227b6d9c077ecb9c2450b8f934ba9507b6715f840a272b1e5cc5ae84f52",
+      "fileSize": 13592
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

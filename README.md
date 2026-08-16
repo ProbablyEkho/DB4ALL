@@ -1,0 +1,92 @@
+# DB4ALL
+
+**Minecraft 1.21.1 · neoforge 21.1.248**, 84 mods (1 dependency)
+
+## Contents
+
+- [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.2.4-neoforge-1.21`
+- [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.1-neoforge-1.21`
+- [AlphaSkins](https://modrinth.com/project/alphaskins) `1.21-4.0.0`
+- [Another Furniture](https://modrinth.com/project/another-furniture) `4.0.2`
+- [Apathy](https://modrinth.com/project/apathy) `2.7.2-neoforge-1.21.1`
+- [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
+- [Atmosfera](https://modrinth.com/project/atmosfera) `2.7.2+mc1.21.1`
+- [Balm](https://modrinth.com/project/balm) `21.0.65+neoforge-1.21.1`
+- [Blueprint](https://modrinth.com/project/blueprint) `8.1.1`
+- [CapeJS](https://modrinth.com/project/capejs) `1.1.1-1.21`
+- [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.0`
+- [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.7`
+- [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
+- [Collective](https://modrinth.com/project/collective) `1.21.1-8.39-fabric+forge+neo`
+- [Continuity](https://modrinth.com/project/continuity) `3.0.0+1.21.neoforge`
+- Controllable `Controllable 0.25.4` (curseforge)
+- [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
+- [Crunchy Crunchy Advancements](https://modrinth.com/project/crunchy-crunchy-advancements) `1.7.2+1.21`
+- [Cursors Extended](https://modrinth.com/project/minecraft-cursor) `3.11.3+1.21.1`
+- [Custom Credits](https://modrinth.com/project/custom-credits) `1.21.1-1.8-fabric+forge+neo`
+- [Cyanide](https://modrinth.com/project/cyanide) `5.0.0`
+- [Default Options](https://modrinth.com/project/default-options) `21.1.8+neoforge-1.21.1`
+- [Dodgeable Skeletons](https://modrinth.com/project/dodgeable_skeletons) `1.0.0`
+- [Drip Sounds](https://modrinth.com/project/dripsounds) `0.5.2+1.21.8-neoforge`
+- [e4mc](https://modrinth.com/project/e4mc) `6.2.1-neoforge`
+- [Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)](https://modrinth.com/project/ears) `2.0.1+buzz-neo`
+- [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
+- [EntityJS](https://modrinth.com/project/entityjs) `1.5.0`
+- [ExtraSounds Next](https://modrinth.com/project/extrasoundsforge) `1.5.6+1.21.1-neoforge`
+- [Fabric Seasons](https://modrinth.com/project/fabric-seasons) `2.4.2-BETA+1.21`
+- [Fadeless](https://modrinth.com/project/fadeless) `1.1.0`
+- [Falling Leaves (NeoForge/Forge)](https://modrinth.com/project/fallingleavesforge) `1.21.1-2.5.1`
+- [FancyMenu](https://modrinth.com/project/fancymenu) `3.9.10-1.21.1-neoforge`
+- [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.3+1.21.1`
+- Framework `Framework 0.13.11` (curseforge)
+- [Geckolib](https://modrinth.com/project/geckolib) `4.9.2`
+- [Ice Prevents Crop Growth](https://modrinth.com/project/ice-prevents-crop-growth) `1.21.1-3.5-fabric+forge+neo`
+- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.11+1.21.1-neoforge`
+- [InsaneLib](https://modrinth.com/project/insanelib) `2.4.25.0`
+- [Inventory Essentials](https://modrinth.com/project/inventory-essentials) `21.1.17+neoforge-1.21.1`
+- [keybindjs](https://modrinth.com/project/keybindjs) `2101-1.0.1`
+- [Konkrete](https://modrinth.com/project/konkrete) `1.9.9-1.21-neoforge`
+- [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.368`
+- [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
+- [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
+- [Log Begone](https://modrinth.com/project/log-begone) `1.0.3`
+- [Longer Chat History](https://modrinth.com/project/longer-chat-history) `1.7`
+- [Map Atlases [Forge]](https://modrinth.com/project/map-atlases-forge) `1.21-6.7.1`
+- [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
+- [Mini Music Tweaks](https://modrinth.com/project/mini-music-tweaks) `1.6.0-1.21.1-neoforge`
+- [Moderner Beta](https://modrinth.com/project/moderner-beta) `5.0.0-alpha.3+1.21.1-neoforge`
+- [ModernFix](https://modrinth.com/project/modernfix) `5.27.20+mc1.21.1`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.3.4`
+- [MRU](https://modrinth.com/project/mru) `1.0.19+LTS+1.21.1-neoforge`
+- [Mystical Oak Tree](https://modrinth.com/project/mystical-oak-tree) `neoforge_1.21-1.14`
+- [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
+- [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC1.21.11-v1.0.0`
+- [Nostalgic Tweaks](https://modrinth.com/project/nostalgic-tweaks) `2.0.0-beta.922`
+- [Open Loader](https://modrinth.com/project/open-loader) `21.1.5`
+- [Placebo](https://modrinth.com/project/placebo) `1.21.1-9.9.2`
+- [Polytone](https://modrinth.com/project/polytone) `1.21-3.11.0`
+- [Prickle](https://modrinth.com/project/prickle) `21.1.11`
+- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `v21.1.52-1.21.1-NeoForge`
+- [Quark](https://modrinth.com/project/quark) `4.1-482`
+- [Quark Oddities](https://modrinth.com/project/quark-oddities) `1.21.1`
+- [Recreative](https://modrinth.com/project/recreative) `1.5.3-1.21.1-neoforge`
+- [Reliable Name Tags](https://modrinth.com/project/reliable-name-tags) `2.0.0+1.21.1-neoforge`
+- [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.7.0-neoforge-1.21.1`
+- [Resource Pack Overrides](https://modrinth.com/project/resource-pack-overrides) `v21.1.0-1.21.1-NeoForge`
+- [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
+- [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.4-fabric+forge+neo`
+- [Screenshot Viewer](https://modrinth.com/project/screenshot-viewer) `1.21.1-neoforge-1`
+- [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.17+1.21.1`
+- [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.6.13-neoforge`
+- [Sounds](https://modrinth.com/project/sound) `2.4.22+lts+1.21.1-neoforge`
+- [Stylish Effects](https://modrinth.com/project/stylish-effects) `v21.1.3-1.21.1-NeoForge`
+- [Timeless](https://modrinth.com/project/timeless) `1.21.1-1.3.6`
+- [TipTheScales](https://modrinth.com/project/tipthescales) `16.0.0.1`
+- [Toast Control](https://modrinth.com/project/toast-control) `1.21.1-9.0.1`
+- [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
+- [Yeetus Experimentus](https://modrinth.com/project/yeetus-experimentus) `87.0.0`
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
+- [Zeta](https://modrinth.com/project/zeta) `1.1-40`
+
+_Generated by packweave._

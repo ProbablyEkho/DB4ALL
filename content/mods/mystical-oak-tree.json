@@ -1,0 +1,23 @@
+{
+  "name": "Mystical Oak Tree",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eUma2vmY",
+      "slug": "mystical-oak-tree",
+      "versionId": "DnclMSEE",
+      "versionNumber": "neoforge_1.21-1.14",
+      "filename": "mysticaloaktree-1.21-1.14-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eUma2vmY/versions/DnclMSEE/mysticaloaktree-1.21-1.14-neoforge.jar",
+      "sha1": "4cc872bd6e32becf53358b8f3daa1709064c831a",
+      "sha512": "e38417a51fff91155c3d1f8005bf2ffdd162894a39ae4ee2ae53015af7ce1dc5b2a827832ca2d604332f35f2e975eaa6d5a952d715c90ca691c7ec9ec9a84b2c",
+      "fileSize": 206071
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fabric Seasons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KJe6y9Eu",
+      "slug": "fabric-seasons",
+      "versionId": "2mIvRTNp",
+      "versionNumber": "2.4.2-BETA+1.21",
+      "filename": "fabric-seasons-2.4.2-BETA+1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/2mIvRTNp/fabric-seasons-2.4.2-BETA%2B1.21.jar",
+      "sha1": "14899b2fd77be1e30fa3b17c6b0da620bb241233",
+      "sha512": "1fa611aecdeb7d3a7dbf46b29b3fcb747f02d8c3ebd58ffa47ecb6b07c049990b54843c207db4814ae1ab6b3ccfa2854864d245bdc3074fe52faa9097c3619d3",
+      "fileSize": 433476
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Falling Leaves (NeoForge/Forge)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2JAUNCL4",
+      "slug": "fallingleavesforge",
+      "versionId": "PVzaPLSv",
+      "versionNumber": "1.21.1-2.5.1",
+      "filename": "fallingleaves-1.21.1-2.5.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2JAUNCL4/versions/PVzaPLSv/fallingleaves-1.21.1-2.5.1.jar",
+      "sha1": "93f479691d5a88775d90e9fa19e814b7301a363b",
+      "sha512": "9cc6ec387bce1a68f07b08bf1a2a65dc49ad409070f8cf58147d3cdbb9b82300d4a7184e01cf58a82886fb57156e6875b2cf7c4abb15335f8fd15be1de58400f",
+      "fileSize": 153343
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

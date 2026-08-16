@@ -1,0 +1,23 @@
+{
+  "name": "InsaneLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "USZyvOJq",
+      "slug": "insanelib",
+      "versionId": "fDr8InCW",
+      "versionNumber": "2.4.25.0",
+      "filename": "insanelib-2.4.25.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/USZyvOJq/versions/fDr8InCW/insanelib-2.4.25.0.jar",
+      "sha1": "fe41b4f433a31266123299271e7b83b94d986a2a",
+      "sha512": "8ed32b22b2d54ed628d501769953753f5789c354c4a840b94514956d5746e5947d2d871268e3d2c247c5ad3f5126640eeebdafd334ccc07e2a7d10a54c62b3eb",
+      "fileSize": 1178767
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

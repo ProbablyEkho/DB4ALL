@@ -1,0 +1,44 @@
+{
+  "pack_overrides": {
+    "mod_resources": {
+      "hidden": false
+    },
+    "programmer_art": {
+      "hidden": false,
+      "required": true
+    },
+    "vanilla": {
+      "hidden": false
+    },
+    "file/Default": {
+      "required": true
+    },
+    "high_contrast": {
+      "hidden": false
+    },
+    "fabric": {
+      "hidden": false
+    },
+    "atmosfera:dungeons": {
+      "hidden": false
+    },
+    "moonlight:merged_pack": {
+      "hidden": false
+    },
+    "seasons:seasonal_lush_caves": {
+      "hidden": false
+    },
+    "continuity:default": {
+      "hidden": false
+    },
+    "continuity:glass_pane_culling_fix": {
+      "hidden": false
+    },
+    "quark_programmer_art": {
+      "hidden": false
+    },
+    "mod/minecraft_cursor:resourcepacks/cursors_extended": {
+      "hidden": false
+    }
+  }
+}

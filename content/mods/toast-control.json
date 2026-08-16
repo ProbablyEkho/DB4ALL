@@ -1,0 +1,23 @@
+{
+  "name": "Toast Control",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "CnOG2wlS",
+      "slug": "toast-control",
+      "versionId": "jXHDAUrd",
+      "versionNumber": "1.21.1-9.0.1",
+      "filename": "ToastControl-1.21.1-9.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/CnOG2wlS/versions/jXHDAUrd/ToastControl-1.21.1-9.0.1.jar",
+      "sha1": "47f9b3eb9e499996c77a7567c85e6bb9d3d51be8",
+      "sha512": "544965f940c3b3eb856a57e9d35c79b7a88b9562a82a39618247b796037f7f4a83279f1effa08557a1a1d363f6169429b265e8645d5bb89578b32fdf22e4ee39",
+      "fileSize": 21072
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ice Prevents Crop Growth",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6rPhicfw",
+      "slug": "ice-prevents-crop-growth",
+      "versionId": "ry7c9vsd",
+      "versionNumber": "1.21.1-3.5-fabric+forge+neo",
+      "filename": "icepreventscropgrowth-1.21.1-3.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6rPhicfw/versions/ry7c9vsd/icepreventscropgrowth-1.21.1-3.5.jar",
+      "sha1": "8fe93d925317c3ff323abcd45d471ff35623329d",
+      "sha512": "e840b7b7b46ea682adcf32caf967bff56c1414f1899fb8f4a31c5c73f1ec59a977c5ee6074e34e04da517fcea93ea29b80379eb3b72892e68d3cf9f553d5890c",
+      "fileSize": 32232
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

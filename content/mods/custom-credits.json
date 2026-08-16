@@ -1,0 +1,23 @@
+{
+  "name": "Custom Credits",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GhWh8CAU",
+      "slug": "custom-credits",
+      "versionId": "JWGClgbL",
+      "versionNumber": "1.21.1-1.8-fabric+forge+neo",
+      "filename": "customcredits-1.21.1-1.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GhWh8CAU/versions/JWGClgbL/customcredits-1.21.1-1.8.jar",
+      "sha1": "96a8024cb966d5808281e01c20aff4ea28cea17c",
+      "sha512": "0fb19a649d4380be23141c5b9e40f74f0b86525be8a2bc7e3360eb2bc7b362b34cade00777547565f6fa3da65dc73210469a5185133be500d8ece03d834d78ab",
+      "fileSize": 67379
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Moonlight Lib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "twkfQtEc",
+      "slug": "moonlight",
+      "versionId": "fSVEZt2u",
+      "versionNumber": "1.21.1-3.3.4",
+      "filename": "moonlight-1.21.1-3.3.4-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/fSVEZt2u/moonlight-1.21.1-3.3.4-neoforge.jar",
+      "sha1": "42d91d2b760362b168b126d8596cfb42efdeb663",
+      "sha512": "cd9522e261a25e96b0eb83ed6fc16061fc6e2674e74e54081da035798c22907dffa166adb55a3701d5cc346b19464efe9d88aa140a97d6d67a277a68626b94ae",
+      "fileSize": 2150988
+    }
+  },
+  "dependents": [
+    "4hwXMFif"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

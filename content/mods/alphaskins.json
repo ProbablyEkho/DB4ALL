@@ -1,0 +1,23 @@
+{
+  "name": "AlphaSkins",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pkdHZGfL",
+      "slug": "alphaskins",
+      "versionId": "jn8blIvT",
+      "versionNumber": "1.21-4.0.0",
+      "filename": "alphaskins-1.21-4.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pkdHZGfL/versions/jn8blIvT/alphaskins-1.21-4.0.0.jar",
+      "sha1": "b8580c017250f3d4b9418e2ed12e1f3f4cc9bef4",
+      "sha512": "c3495934ee56209e333c62b2647b3bd7603185333583a82746e39badb3ab750d6e91a20ad0528a77639b21f2408febf8ff6245356449d94d12c4e05ad8e03e54",
+      "fileSize": 7647
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

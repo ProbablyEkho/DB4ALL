@@ -1,0 +1,23 @@
+{
+  "name": "EntityJS",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OvPZ16yX",
+      "slug": "entityjs",
+      "versionId": "LKCdzLZl",
+      "versionNumber": "1.5.0",
+      "filename": "entityjs-1.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OvPZ16yX/versions/LKCdzLZl/entityjs-1.5.0.jar",
+      "sha1": "f3b58ad02bf9ca5db58ce1a8401eb561d63d855e",
+      "sha512": "dd05dd7fcb61e725886008335300a382e974792e60a09e80a4fe2151ad7210892455bbdd15a01b1f54f0d79a8f7bd178fc541b2b49d941fd19128d0b5713b829",
+      "fileSize": 3623033
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

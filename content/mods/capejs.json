@@ -1,0 +1,23 @@
+{
+  "name": "CapeJS",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BfY01IQg",
+      "slug": "capejs",
+      "versionId": "2jAT3aIj",
+      "versionNumber": "1.1.1-1.21",
+      "filename": "capejs-1.1.1-1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BfY01IQg/versions/2jAT3aIj/capejs-1.1.1-1.21.jar",
+      "sha1": "972791ecd487d120cfe29655ddf8086d5788a2ef",
+      "sha512": "f269bb13767df6708f980b57504884987c6e03821e7a25c4004462fa05903b54050be5df29b3018361bd1a58ecd32e7355b6ddab3a7f89cea7fb8c4cf8a6ed06",
+      "fileSize": 57614
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

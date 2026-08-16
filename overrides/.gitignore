@@ -1,0 +1,54 @@
+# joinked this from packweave which i couldnt get to work lol
+.DS_Store
+
+# minecraft
+data/
+saves/
+backups/
+logs/
+crash-reports/
+screenshots/
+*.log
+usercache.json
+usernamecache.json
+realms_persistence.json
+command_history.txt
+options.txt
+servers.dat
+*.dat_old
+
+# loader
+.fabric/
+.quilt/
+natives/
+.mixin.out/
+.cache/
+versions/
+libraries/
+assets/
+debug/
+downloads/
+local/
+cache/
+
+# mods
+*.bak
+/emi.json
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+fancymenu_data/
+server-resource-packs/
+imgui.ini
+moddata/
+mods/.connector/
+mods/.index/
+coremods/
+config/spark/tmp-client/
+.probe/
+.vscode/probe.code-snippets
+config/sodium-fingerprint.json
+data/fabricDefaultResourcePacks.dat
+downloads/log.json
+local/
+config/fabric/indigo-renderer.properties
+.qmenu_opened.marker

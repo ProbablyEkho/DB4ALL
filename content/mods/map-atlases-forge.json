@@ -1,0 +1,23 @@
+{
+  "name": "Map Atlases [Forge]",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4hwXMFif",
+      "slug": "map-atlases-forge",
+      "versionId": "q2Aypy4j",
+      "versionNumber": "1.21-6.7.1",
+      "filename": "map_atlases-1.21-6.7.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4hwXMFif/versions/q2Aypy4j/map_atlases-1.21-6.7.1-neoforge.jar",
+      "sha1": "01dc4831afe3531e418c6f5da46ca7b7c7c07a4b",
+      "sha512": "918ca5b26e1c3a30fa327cbd5402f98b0d7db176dd298da11ebb64543696ee10f500290dc4c71aa32fbc835ced290dc621b220aca9d4c3149d3fee65c037f246",
+      "fileSize": 672185
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

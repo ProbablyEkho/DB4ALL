@@ -1,0 +1,23 @@
+{
+  "name": "Dodgeable Skeletons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3t1Y5uOC",
+      "slug": "dodgeable_skeletons",
+      "versionId": "zT9CbITF",
+      "versionNumber": "1.0.0",
+      "filename": "dodgeable_skeletons-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3t1Y5uOC/versions/zT9CbITF/dodgeable_skeletons-1.0.0.jar",
+      "sha1": "881a011b227c7029ef7e5461e6e61c15c28a3002",
+      "sha512": "170c9f41c88d5155d0214c5b5747f391c41a395f60fe36fba685e3ae69116a4cbe0c25a5ada829e0bd9c77f83f96439e1184ee9d44b65a2db43bd563596e2fb9",
+      "fileSize": 12215
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
