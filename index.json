@@ -481,10 +481,6 @@
       "sha1": "0aa517cd5af7beac6638f8d2832b01156d459b53"
     },
     {
-      "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "96d6556a2ad417bf8b1c9bd0825e6f2e89bccb5e"
-    },
-    {
       "path": "overrides/config/fabrication/features.ini",
       "sha1": "b30aefc2df71154376586f8379594f59cad60ad1"
     },
@@ -511,10 +507,6 @@
     {
       "path": "overrides/config/fancymenu/normalized_scroll_screens.json",
       "sha1": "d1d1d004be3f1df888e46dd9133748ddd0cabb50"
-    },
-    {
-      "path": "overrides/config/fancymenu/options.txt",
-      "sha1": "6efd901b4752fa54e7d7c62411dbfde662c8bfec"
     },
     {
       "path": "overrides/config/fancymenu/ui_themes/cherry_blossom.json",
@@ -670,7 +662,7 @@
     },
     {
       "path": "overrides/config/nostalgic_tweaks/nostalgic_tweaks.json",
-      "sha1": "476cda77be2d76a0af7805fe763fdd9e12a54f7c"
+      "sha1": "3d9a8ff73f4c5429955c48eb93cb8252d232868a"
     },
     {
       "path": "overrides/config/openloader/options.json",
@@ -3726,7 +3718,7 @@
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "3e0d55d348ea5ab3959abf19b70fa2d0c3c016b3"
+      "sha1": "70fb9679f054d2aacd5b0849082bd2e141473d28"
     },
     {
       "path": "overrides/config/recreative/example_tabs.json.disabled",
@@ -3857,8 +3849,8 @@
       "sha1": "8031d4e3fed211e64bae06e9484c898d8666ddd2"
     },
     {
-      "path": "overrides/data/fabricDefaultResourcePacks.dat",
-      "sha1": "f33972a871645c722319df8850bfa62b89f87cdf"
+      "path": "overrides/data/seasons_compat_warn.nbt",
+      "sha1": "8dd739ec0890df882621dec356af3e1253b9493f"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",
@@ -3895,10 +3887,6 @@
     {
       "path": "overrides/kubejs/startup_scripts/main.js",
       "sha1": "05ec115c372985dc9f77dd2513933aa8e90eba61"
-    },
-    {
-      "path": "overrides/options.txt",
-      "sha1": "643b8ba8aac431d561e69008c4b376c89ca7439b"
     }
   ]
 }
