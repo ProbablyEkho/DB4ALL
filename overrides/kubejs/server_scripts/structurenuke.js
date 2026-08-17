@@ -27,6 +27,7 @@ event.removeAll("minecraft:has_structure/shipwreck_beached");
 event.removeAll("minecraft:has_structure/stronghold");
 event.removeAll("minecraft:has_structure/swamp_hut");
 event.removeAll("minecraft:has_structure/trail_ruins");
+event.removeAll("minecraft:has_structure/trial_chambers");
 event.removeAll("minecraft:has_structure/village_desert");
 event.removeAll("minecraft:has_structure/village_plains");
 event.removeAll("minecraft:has_structure/village_savanna");
@@ -40,13 +41,10 @@ event.removeAll("caverns_and_chasms:has_feature/silver_ore");
 event.removeAll("caverns_and_chasms:has_feature/extra_silver_ore");
 event.removeAll("caverns_and_chasms:has_feature/spinel_ore");
 event.removeAll("caverns_and_chasms:has_monster/lost_goat");
+event.removeAll("caverns_and_chasms:has_structure/forge");
+event.removeAll("caverns_and_chasms:has_structure/mineshaft_lush");
+event.removeAll("caverns_and_chasms:has_structure/tin_monolith");
+event.removeAll("caverns_and_chasms:has_structure/vault");
 //event.removeAll("caverns_and_chasms:has_monster/mime");
 event.removeAll("caverns_and_chasms:has_feature/rocky_dirt");
-
-event.removeAll("savage_and_ravage:has_monster/iceologer");
-event.removeAll("savage_and_ravage:has_monster/skeleton_villager");
-event.removeAll("savage_and_ravage:has_monster/skeleton_villager/common");
-event.removeAll("savage_and_ravage:has_monster/skeleton_villager/rare");
-event.removeAll("savage_and_ravage:has_monster/skeleton_villager/weird");
-// why does spelunkery not do feature gen with biome tags.. evil..
 }))
