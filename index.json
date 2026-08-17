@@ -693,24 +693,8 @@
       "sha1": "be6e174a4dc598af454b777a32aae6726ad3f83c"
     },
     {
-      "path": "overrides/config/openloader/packs/db3k_cbs.zip",
-      "sha1": "581a4fb83b00c15084ab7ca80c6e6fc766097720"
-    },
-    {
-      "path": "overrides/config/openloader/packs/db3k_clouds.zip",
-      "sha1": "e16ec3083cdede804e94a5b4a4f7a817d4ca1052"
-    },
-    {
-      "path": "overrides/config/openloader/packs/db3k_music.zip",
-      "sha1": "29fa2b927f3c96e5f34e50280309fc131406e665"
-    },
-    {
-      "path": "overrides/config/openloader/packs/db3k_paintings.zip",
-      "sha1": "8b745eb9f9c86ae6dbdc6f5a3a969913b177ffc1"
-    },
-    {
       "path": "overrides/config/openloader/packs/db3k_resources_and_data.zip",
-      "sha1": "9fd0bc382c4b84c8d54820e1096a3895f3d79cb2"
+      "sha1": "5d22b9dbec771e260f347f4eab45bb4c22246d1d"
     },
     {
       "path": "overrides/config/placebo.cfg",
