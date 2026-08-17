@@ -273,6 +273,10 @@
       "sha1": "723c06c6cbd16ad98e38eff16aa0111b25a6629f"
     },
     {
+      "path": "content/mods/quick-pack.json",
+      "sha1": "8818c8f03057552f8bdc7847712e5a6ce88935cd"
+    },
+    {
       "path": "content/mods/recreative.json",
       "sha1": "6b23d8d2247aa32675f4bb1c51fda24df62a8be4"
     },

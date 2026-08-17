@@ -1,6 +1,6 @@
 # DB4ALL
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 84 mods (1 dependency)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 85 mods (1 dependency)
 
 ## Contents
 
@@ -70,6 +70,7 @@
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `v21.1.52-1.21.1-NeoForge`
 - [Quark](https://modrinth.com/project/quark) `4.1-482`
 - [Quark Oddities](https://modrinth.com/project/quark-oddities) `1.21.1`
+- [quick pack](https://modrinth.com/project/quick-pack) `neoforge-1.5.0+1.21.1`
 - [Recreative](https://modrinth.com/project/recreative) `1.5.3-1.21.1-neoforge`
 - [Reliable Name Tags](https://modrinth.com/project/reliable-name-tags) `2.0.0+1.21.1-neoforge`
 - [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.7.0-neoforge-1.21.1`
