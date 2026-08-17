@@ -1,0 +1,240 @@
+[
+  {
+    "action": "remove",
+    "mod": ["minecraft"],
+    "not": {
+      "items": [
+          "minecraft:stone",
+          "minecraft:cobblestone",
+          "minecraft:cobblestone_stairs",
+          "minecraft:stone_slab",
+          "minecraft:cobblestone_wall",
+          "minecraft:mossy_cobblestone",
+
+          "minecraft:deepslate",
+          "minecraft:cobbled_deepslate",
+          "minecraft:cobbled_deepslate_stairs",
+          "minecraft:polished_deepslate_slab",
+          "minecraft:cobbled_deepslate_wall",
+          "minecraft:magma_block",
+
+          "minecraft:coal_ore",
+          "minecraft:copper_ore",
+          "minecraft:iron_ore",
+          "minecraft:gold_ore",
+          "minecraft:redstone_ore",
+          "minecraft:diamond_ore",
+
+          "minecraft:deepslate_coal_ore",
+          "minecraft:deepslate_copper_ore",
+          "minecraft:deepslate_iron_ore",
+          "minecraft:deepslate_gold_ore",
+          "minecraft:deepslate_redstone_ore",
+          "minecraft:deepslate_diamond_ore",
+
+          "minecraft:grass_block",
+          "minecraft:mycelium",
+          "minecraft:dirt",
+          "minecraft:clay",
+          "minecraft:bedrock",
+
+          "minecraft:sand",
+          "minecraft:sandstone",
+          "minecraft:gravel",
+          "minecraft:obsidian",
+
+          "minecraft:ice",
+          "minecraft:snow_block",
+          "minecraft:snow",
+          "minecraft:sponge",
+          "minecraft:wet_sponge",
+          "minecraft:cobweb",
+
+          "minecraft:poppy",
+          "minecraft:dandelion",
+          "minecraft:blue_orchid",
+          "minecraft:red_mushroom",
+          "minecraft:brown_mushroom",
+
+          "minecraft:bricks",
+          "minecraft:bookshelf",
+
+          "minecraft:crafting_table",
+          "minecraft:furnace",
+          "minecraft:chest",
+          "minecraft:trapped_chest",
+          "minecraft:jukebox",
+          "minecraft:note_block",
+
+          "minecraft:scaffolding",
+          "minecraft:ladder",
+          "minecraft:oak_sign",
+          "minecraft:torch",
+          "minecraft:painting",
+          "minecraft:item_frame",
+
+          "minecraft:redstone_block",
+          "minecraft:iron_block",
+          "minecraft:gold_block",
+          "minecraft:diamond_block",
+          "minecraft:lodestone",
+
+          "minecraft:redstone",
+          "minecraft:redstone_torch",
+          "minecraft:lever",
+          
+          "minecraft:stone_pressure_plate",
+          "minecraft:stone_button",
+          "minecraft:iron_door",
+          "minecraft:iron_trapdoor",
+
+          "minecraft:tnt",
+          "minecraft:target",
+          "minecraft:dispenser",
+          "minecraft:piston",
+          "minecraft:sticky_piston",
+          "minecraft:redstone_lamp",
+          "minecraft:slime_block",
+
+          "minecraft:farmland",
+          "minecraft:wheat_seeds",
+          "minecraft:cactus",
+
+          "minecraft:porkchop",
+          "minecraft:wheat",
+          "minecraft:sugar_cane",
+          "minecraft:sweet_berries",
+          "minecraft:apple",
+          "minecraft:cod",
+          "minecraft:egg",
+
+          "minecraft:cooked_porkchop",
+          "minecraft:bread",
+          "minecraft:cake",
+          "minecraft:golden_apple",
+          "minecraft:cooked_cod",
+          "minecraft:mushroom_stew",
+
+          "minecraft:flint",
+          "minecraft:stick",
+          "minecraft:clay_ball",
+          "minecraft:snowball",
+          "minecraft:nautilus_shell",
+
+          "minecraft:raw_copper",
+          "minecraft:raw_iron",
+          "minecraft:raw_gold",
+          "minecraft:coal",
+
+          "minecraft:leather",
+          "minecraft:feather",
+          "minecraft:gunpowder",
+          "minecraft:string",
+          "minecraft:bone_meal",
+          "minecraft:slime_ball",
+
+          "minecraft:paper",
+          "minecraft:book",
+          "minecraft:writable_book",
+          "minecraft:bowl",
+          "minecraft:brick",
+
+          "minecraft:rail",
+          "minecraft:saddle",
+          "minecraft:name_tag",
+          "minecraft:map",
+
+          "minecraft:fishing_rod",
+          "minecraft:carrot_on_a_stick",
+          "minecraft:bucket",
+          "minecraft:water_bucket",
+          "minecraft:lava_bucket",
+          "minecraft:milk_bucket",
+          "minecraft:bow",
+          "minecraft:arrow",
+          "minecraft:spectral_arrow",
+          "minecraft:flint_and_steel",
+        
+          "minecraft:clock",
+          "minecraft:ink_sac",
+          "minecraft:fire_charge",
+
+
+          "minecraft:bucket",
+          "minecraft:water_bucket",
+          "minecraft:lava_bucket",
+
+          "minecraft:cookie",
+
+          "minecraft:red_dye",
+          "minecraft:yellow_dye",
+          "minecraft:lime_dye",
+          "minecraft:green_dye",
+          "minecraft:cyan_dye",
+          "minecraft:light_blue_dye",
+          "minecraft:blue_dye",
+          "minecraft:purple_dye",
+          "minecraft:magenta_dye",
+          "minecraft:pink_dye",
+          "minecraft:brown_dye",
+          "minecraft:white_dye",
+          "minecraft:light_gray_dye",
+          "minecraft:gray_dye",
+          "minecraft:black_dye",
+
+          "minecraft:command_block",
+          "minecraft:structure_block",
+          "minecraft:jigsaw",
+          "minecraft:spawner",
+          "minecraft:ender_chest",
+          "minecraft:barrier",
+          "minecraft:structure_void",
+          "minecraft:debug_stick",
+
+          "minecraft:chicken_spawn_egg",
+          "minecraft:cow_spawn_egg",
+          "minecraft:creeper_spawn_egg",
+          "minecraft:pig_spawn_egg",
+          "minecraft:sheep_spawn_egg",
+          "minecraft:skeleton_spawn_egg",
+          "minecraft:slime_spawn_egg",
+          "minecraft:spider_spawn_egg",
+          "minecraft:squid_spawn_egg",
+          "minecraft:zombie_spawn_egg"
+
+      ],
+      "pattern": [
+        "/.*oak.*/",
+        "/.*wool/",          
+        "/.*compass/",          
+        "/.*_ingot/",          
+
+        "/.*_sword/",
+        "/.*_pickaxe/",
+        "/.*_axe/",
+        "/.*_hoe/",
+        "/.*_shovel/",
+
+        "/.*_helmet/",
+        "/.*_chestplate/",
+        "/.*_leggings/",
+        "/.*_boots/",
+
+        "/.*minecart/",
+
+        "/.*glass/",
+        "/.*disc.*/"
+      ]
+    }
+  },
+  {
+    "action": "remove",
+    "mod": ["another_furniture"],
+    "not": {
+      "items": [
+        "another_furniture:oak_table",
+        "another_furniture:oak_chair"
+      ]
+    }
+  }
+]
