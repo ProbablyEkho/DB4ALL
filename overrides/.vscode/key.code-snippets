@@ -1,0 +1,21 @@
+
+{
+    "keyName": {
+        "prefix": [
+            "@key_name"
+        ],
+        "body": [
+            "\"${1|key.attack,key.use,key.forward,key.left,key.back,key.right,key.jump,key.sneak,key.sprint,key.drop,key.inventory,key.chat,key.playerlist,key.pickItem,key.command,key.socialInteractions,key.screenshot,key.togglePerspective,key.smoothCamera,key.fullscreen,key.spectatorOutlines,key.swapOffhand,key.saveToolbarActivator,key.loadToolbarActivator,key.hotbar.1,key.hotbar.2,key.hotbar.3,key.hotbar.4,key.hotbar.5,key.hotbar.6,key.hotbar.7,key.hotbar.8,key.hotbar.9,key.inventoryessentials.single_transfer,key.inventoryessentials.screen_bulk_drop,key.inventoryessentials.sort_inventory,key.inventoryessentials.restock_container,key.inventoryessentials.restock_inventory,key.inventoryessentials.dump_to_container,placebo.toggleTrails,placebo.toggleWings,key.modernfix.config,key.nostalgic_tweaks.open_config,key.nostalgic_tweaks.toggle_fog,key.nostalgic_tweaks.stop_song,key.nostalgic_tweaks.next_song,key.nostalgic_tweaks.toggle_weather,key.kubejs.kubedex,key.map_atlases.open_minimap,key.map_atlases.zoom_out_minimap,key.map_atlases.zoom_in_minimap,key.map_atlases.place_pin,key.toastcontrol.clear,quark.keybind.autorun,quark.keybind.back,quark.keybind.camera_mode,quark.keybind.transfer_insert,quark.keybind.transfer_extract,quark.keybind.shift_lock,quark.emote.no,quark.emote.yes,quark.emote.wave,quark.emote.salute,quark.emote.cheer,quark.emote.clap,quark.emote.think,quark.emote.point,quark.emote.shrug,quark.emote.headbang,quark.emote.weep,quark.emote.facepalm,quark.keybind.patreon_emote.dance,quark.keybind.patreon_emote.tpose,quark.keybind.patreon_emote.dab,quark.keybind.patreon_emote.jet,quark.keybind.patreon_emote.exorcist,quark.keybind.patreon_emote.zombie,quark.keybind.change_hotbar,quark.keybind.sort_player,quark.keybind.sort_container,quark.keybind.lock_rotation,quark.keybind.narrator_readout,quark.keybind.narrator_full_readout,quark.keybind.variant_selector,key.screenshot_viewer.open_screenshots_screen|}\"$0"
+        ],
+        "description": "All key remaining names"
+    },
+    "CategoryName": {
+        "prefix": [
+            "@category_name"
+        ],
+        "body": [
+            "\"${1|key.categories.gameplay,key.categories.movement,key.categories.inventory,key.categories.multiplayer,key.categories.misc,key.categories.creative,key.categories.inventoryessentials,key.categories.placebo,key.modernfix,gui.nostalgic_tweaks.title,key.categories.kubejs,category.map_atlases.minimap,key.toastcontrol.category,quark.gui.keygroup.misc,quark.gui.keygroup.inv,quark.gui.keygroup.emote|}\"$0"
+        ],
+        "description": "All category remaining names"
+    }
+}
