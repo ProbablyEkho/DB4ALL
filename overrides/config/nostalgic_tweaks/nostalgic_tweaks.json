@@ -398,7 +398,7 @@
     "oldWorldFog": "ALPHA_R164",
     "fogBinding": -1,
     "oldNetherFog": false,
-    "oldSunriseSunsetFog": false,
+    "oldSunriseSunsetFog": true,
     "oldDarkFog": true,
     "oldDynamicFogColor": false,
     "universalFogColor": "DISABLED",

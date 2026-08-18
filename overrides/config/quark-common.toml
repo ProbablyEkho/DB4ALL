@@ -16,11 +16,11 @@
 	#If set to true, the 'Allowed Screens' option will work as a Blacklist rather than a Whitelist. WARNING: Use at your own risk as some mods may not support this.
 	"Use Screen List Blacklist" = false
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
-	"Enable Onboarding" = true
+	"Enable Onboarding" = false
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not show the Quark Programmer Art resource pack in the resource pack selection screen
-	"Generate Programmer Art" = true
+	"Generate Programmer Art" = false
 	#Set this to false to prevent Quark from ever disabling any vanilla data files. This will break certain modules, so only do this if you know what you're doing!
 	"Quark V D O" = true
 
@@ -45,17 +45,17 @@
 	oddities = true
 
 [automation]
-	"Chains Connect Blocks" = true
-	Chute = true
-	"Dispensers Place Blocks" = true
-	"Ender Watcher" = true
-	"Feeding Trough" = true
-	Gravisand = true
-	"Iron Rod" = true
+	"Chains Connect Blocks" = false
+	Chute = false
+	"Dispensers Place Blocks" = false
+	"Ender Watcher" = false
+	"Feeding Trough" = false
+	Gravisand = false
+	"Iron Rod" = false
 	"Metal Buttons" = true
 	"Obsidian Plate" = true
 	"Pistons Move Tile Entities" = true
-	"Redstone Randomizer" = true
+	"Redstone Randomizer" = false
 
 	[automation.dispensers_place_blocks]
 		Blacklist = ["minecraft:water", "minecraft:lava", "minecraft:fire"]
@@ -84,7 +84,7 @@
 
 	[automation.metal_buttons]
 		"Enable Iron" = true
-		"Enable Gold" = true
+		"Enable Gold" = false
 
 	[automation.pistons_move_tile_entities]
 		"Enable Chests Moving Together" = true
@@ -94,40 +94,40 @@
 		"Delayed Update List" = ["minecraft:dispenser", "minecraft:dropper"]
 
 [building]
-	"Celebratory Lamps" = true
+	"Celebratory Lamps" = false
 	"Compressed Blocks" = true
-	"Duskbound Blocks" = true
-	"Framed Glass" = true
-	"Glass Item Frame" = true
-	"Gold Bars" = true
+	"Duskbound Blocks" = false
+	"Framed Glass" = false
+	"Glass Item Frame" = false
+	"Gold Bars" = false
 	Grate = true
-	Hedges = true
-	"Hollow Logs" = true
-	"Industrial Palette" = true
-	"Japanese Palette" = true
-	"Leaf Carpet" = true
-	Midori = true
+	Hedges = false
+	"Hollow Logs" = false
+	"Industrial Palette" = false
+	"Japanese Palette" = false
+	"Leaf Carpet" = false
+	Midori = false
 	"More Brick Types" = true
-	"More Mud Blocks" = true
-	"More Potted Plants" = true
-	"Nether Brick Fence Gate" = true
-	"Rainbow Lamps" = true
-	"Raw Metal Bricks" = true
+	"More Mud Blocks" = false
+	"More Potted Plants" = false
+	"Nether Brick Fence Gate" = false
+	"Rainbow Lamps" = false
+	"Raw Metal Bricks" = false
 	Rope = true
-	"Shear Vines" = true
-	Shingles = true
-	"Soul Sandstone" = true
-	Stools = true
-	"Sturdy Stone" = true
-	Thatch = true
-	"Variant Bookshelves" = true
-	"Variant Chests" = true
-	"Variant Furnaces" = true
-	"Variant Ladders" = true
-	"Vertical Planks" = true
-	"Vertical Slabs" = true
-	"Wooden Posts" = true
-	"More Stone Variants" = true
+	"Shear Vines" = false
+	Shingles = false
+	"Soul Sandstone" = false
+	Stools = false
+	"Sturdy Stone" = false
+	Thatch = false
+	"Variant Bookshelves" = false
+	"Variant Chests" = false
+	"Variant Furnaces" = false
+	"Variant Ladders" = false
+	"Vertical Planks" = false
+	"Vertical Slabs" = false
+	"Wooden Posts" = false
+	"More Stone Variants" = false
 
 	[building.celebratory_lamps]
 		"Light Level" = 15
@@ -143,22 +143,22 @@
 		"Enable Charcoal Block" = true
 		"Enable Sugar Cane Block" = true
 		"Enable Cactus Block" = true
-		"Enable Chorus Fruit Block" = true
+		"Enable Chorus Fruit Block" = false
 		"Enable Stick Block" = true
-		"Enable Apple Crate" = true
-		"Enable Golden Apple Crate" = true
-		"Enable Potato Crate" = true
-		"Enable Carrot Crate" = true
-		"Enable Golden Carrot Crate" = true
-		"Enable Beetroot Crate" = true
+		"Enable Apple Crate" = false
+		"Enable Golden Apple Crate" = false
+		"Enable Potato Crate" = false
+		"Enable Carrot Crate" = false
+		"Enable Golden Carrot Crate" = false
+		"Enable Beetroot Crate" = false
 		"Enable Cocoa Bean Sack" = true
-		"Enable Nether Wart Sack" = true
-		"Enable Gunpowder Sack" = true
-		"Enable Berry Sack" = true
-		"Enable Glow Berry Sack" = true
-		"Enable Blaze Lantern" = true
+		"Enable Nether Wart Sack" = false
+		"Enable Gunpowder Sack" = false
+		"Enable Berry Sack" = false
+		"Enable Glow Berry Sack" = false
+		"Enable Blaze Lantern" = false
 		"Enable Bonded Leather" = true
-		"Enable Bonded Rabbit Hide" = true
+		"Enable Bonded Rabbit Hide" = false
 
 	[building.glass_item_frame]
 		"Glass Item Frames Update Maps" = true
@@ -191,17 +191,17 @@
 
 	[building.more_brick_types]
 		#This also comes with a utility recipe for Red Nether Bricks
-		"Enable Blue Nether Bricks" = true
+		"Enable Blue Nether Bricks" = false
 		#This also includes Red Sandstone Bricks and Soul Sandstone Bricks
-		"Enable Sandstone Bricks" = true
+		"Enable Sandstone Bricks" = false
 		#This also includes Mossy Cobblestone Bricks
 		"Enable Cobblestone Bricks" = true
 		#Requires Cobblestone Bricks to be enabled
-		"Enable Blackstone Bricks" = true
+		"Enable Blackstone Bricks" = false
 		#Requires Cobblestone Bricks to be enabled
-		"Enable Dirt Bricks" = true
+		"Enable Dirt Bricks" = false
 		#Requires Cobblestone Bricks to be enabled
-		"Enable Netherrack Bricks" = true
+		"Enable Netherrack Bricks" = false
 
 	[building.rainbow_lamps]
 		"Light Level" = 15
@@ -211,7 +211,7 @@
 	[building.rope]
 		#Set to true to allow ropes to move Tile Entities even if Pistons Push TEs is disabled.
 		#Note that ropes will still use the same blacklist.
-		"Force Enable Move Tile Entities" = false
+		"Force Enable Move Tile Entities" = true
 		"Enable Dispenser Behavior" = true
 		#This feature disables itself if any of the following mods are loaded:
 		# - supplementaries
@@ -272,12 +272,12 @@
 
 [management]
 	"Automatic Tool Restock" = true
-	"Easy Transferring" = true
+	"Easy Transferring" = false
 	"Expanded Item Interactions" = true
 	"Hotbar Changer" = true
-	"Inventory Sorting" = true
-	"Item Sharing" = true
-	"Quick Armor Swapping" = true
+	"Inventory Sorting" = false
+	"Item Sharing" = false
+	"Quick Armor Swapping" = false
 
 	[management.automatic_tool_restock]
 		#Enchantments deemed important enough to have special priority when finding a replacement
@@ -285,7 +285,7 @@
 		#Enable replacing your tools with tools of the same type but not the same item
 		"Enable Loose Matching" = true
 		#Enable comparing enchantments to find a replacement
-		"Enable Enchant Matching" = true
+		"Enable Enchant Matching" = false
 		#Allow pulling items from one hotbar slot to another
 		"Check Hotbar" = false
 		"Unstackables Only" = false
@@ -302,9 +302,9 @@
 
 	[management.expanded_item_interactions]
 		"Enable Armor Interaction" = true
-		"Enable Shulker Box Interaction" = true
+		"Enable Shulker Box Interaction" = false
 		"Enable Lava Interaction" = true
-		"Allow Opening Shulker Boxes" = true
+		"Allow Opening Shulker Boxes" = false
 		"Allow Rotating Bundles" = true
 
 	[management.hotbar_changer]
@@ -329,18 +329,18 @@
 [tools]
 	Abacus = true
 	"Ambient Discs" = true
-	"Ancient Tomes" = true
-	"Beacon Redirection" = true
-	"Bottled Cloud" = true
-	"Color Runes" = true
-	"Endermosh Music Disc" = true
-	"Parrot Eggs" = true
-	"Pathfinder Maps" = true
-	Pickarang = true
-	"Seed Pouch" = true
-	"Skull Pikes" = true
+	"Ancient Tomes" = false
+	"Beacon Redirection" = false
+	"Bottled Cloud" = false
+	"Color Runes" = false
+	"Endermosh Music Disc" = false
+	"Parrot Eggs" = false
+	"Pathfinder Maps" = false
+	Pickarang = false
+	"Seed Pouch" = false
+	"Skull Pikes" = false
 	"Slime In A Bucket" = true
-	"Torch Arrow" = true
+	"Torch Arrow" = false
 	Trowel = true
 
 		[tools.abacus.highlight_color]
@@ -350,7 +350,7 @@
 			B = 0.0
 
 	[tools.ambient_discs]
-		"Drop On Spider Kill" = true
+		"Drop On Spider Kill" = false
 		Volume = 3.0
 
 	[tools.ancient_tomes]
@@ -499,48 +499,48 @@
 		"Trowel Max Durability" = 0
 
 [tweaks]
-	"Armed Armor Stands" = true
-	"Automatic Recipe Unlock" = true
-	"Better Elytra Rocket" = true
-	"Campfires Boost Elytra" = true
-	"Compasses Work Everywhere" = true
+	"Armed Armor Stands" = false
+	"Automatic Recipe Unlock" = false
+	"Better Elytra Rocket" = false
+	"Campfires Boost Elytra" = false
+	"Compasses Work Everywhere" = false
 	"Coral On Cactus" = true
 	"Diamond Repair" = true
 	"Double Door Opening" = true
-	"Dragon Scales" = true
-	"Dyeable Item Frames" = true
+	"Dragon Scales" = false
+	"Dyeable Item Frames" = false
 	Emotes = true
 	"Enhanced Ladders" = true
-	"Glass Shard" = true
+	"Glass Shard" = false
 	"Gold Tools Have Fortune" = true
 	"Grab Chickens" = true
-	"Hoe Harvesting" = true
-	"Horses Swim" = true
+	"Hoe Harvesting" = false
+	"Horses Swim" = false
 	"Improved Sponges" = true
-	"Lock Rotation" = true
-	"Magma Keeps Concrete Powder" = true
+	"Lock Rotation" = false
+	"Magma Keeps Concrete Powder" = false
 	"Map Washing" = true
-	"More Banner Layers" = true
+	"More Banner Layers" = false
 	"More Note Block Sounds" = true
-	"More Villagers" = true
+	"More Villagers" = false
 	"No Durability On Cosmetics" = true
 	"Pat The Dogs" = true
-	"Petals On Water" = true
-	"Pig Litters" = true
+	"Petals On Water" = false
+	"Pig Litters" = false
 	"Poison Potato Usage" = true
-	"Reacharound Placing" = true
-	"Renewable Spore Blossoms" = true
+	"Reacharound Placing" = false
+	"Renewable Spore Blossoms" = false
 	"Replace Scaffolding" = true
 	"Safer Creatures" = true
-	"Shulker Packing" = true
-	"Simple Harvest" = true
-	"Slabs To Blocks" = true
-	"Slimes To Magma Cubes" = true
-	"Snow Golem Player Heads" = true
+	"Shulker Packing" = false
+	"Simple Harvest" = false
+	"Slabs To Blocks" = false
+	"Slimes To Magma Cubes" = false
+	"Snow Golem Player Heads" = false
 	"Utility Recipes" = true
-	"Vexes Die With Their Masters" = true
-	"Villagers Follow Emeralds" = true
-	"Zombie Villagers On Normal" = true
+	"Vexes Die With Their Masters" = false
+	"Villagers Follow Emeralds" = false
+	"Zombie Villagers On Normal" = false
 
 	[tweaks.automatic_recipe_unlock]
 		#A list of recipe names that should NOT be added in by default
@@ -685,8 +685,8 @@
 		"Max Golden Carrot Boost" = 2
 
 	[tweaks.poison_potato_usage]
-		Chance = 0.1
-		"Poison Effect" = true
+		Chance = 1.0
+		"Poison Effect" = false
 
 	[tweaks.reacharound_placing]
 		#Allowed values: [0,1]
@@ -728,57 +728,57 @@
 
 	[tweaks.utility_recipes]
 		#Can other stone-like materials be used for crafting stone tools?
-		"Better Stone Tool Crafting" = true
+		"Better Stone Tool Crafting" = false
 		#Can a dispenser be crafted by adding a bow to a dropper?
-		"Enable Dispenser" = true
+		"Enable Dispenser" = false
 		#Can a repeater be crafted with the pattern for a redstone torch?
-		"Enable Repeater" = true
+		"Enable Repeater" = false
 		#Can you craft a minecart around blocks which can be placed inside?
 		"Enable Minecarts" = true
 		#Can you craft a boat around a chest to directly make a chest boat?
-		"Enable Chest Boats" = true
+		"Enable Chest Boats" = false
 		#Can you craft four chests at once using logs?
-		"Logs To Chests" = true
+		"Logs To Chests" = false
 		#Can Coral be crafted into dye?
-		"Coral To Dye" = true
+		"Coral To Dye" = false
 		#Can cookies, paper, and bread be crafted in a 2x2 crafting table?
 		"Bent Recipes" = true
 		#Can Rotten Flesh and Poisonous Potatoes be composted?
-		"Compostable Toxins" = true
+		"Compostable Toxins" = false
 		#Does Dragon Breath return a bottle when used as a reagent or material?
-		"Effective Dragon Breath" = true
+		"Effective Dragon Breath" = false
 		#Can torches be used as fuel in furnaces?
-		"Torches Burn" = true
+		"Torches Burn" = false
 		#Can bones be smelted down to bone meal?
-		"Bone Meal Utility" = true
+		"Bone Meal Utility" = false
 		#Can Charcoal be crafted into Black Dye?
-		"Charcoal To Black Dye" = true
+		"Charcoal To Black Dye" = false
 		#Can two Logs be used instead of a Chest to make a Hopper?
-		"Easy Hopper" = true
+		"Easy Hopper" = false
 		#Can two Logs be used to craft 16 sticks?
-		"Easy Sticks" = true
+		"Easy Sticks" = false
 		#Can raw ore blocks be smelted, taking 9x the time a normal item?
-		"Smelt Raw Ore Blocks" = true
+		"Smelt Raw Ore Blocks" = false
 
 [world]
 	#(Ashen Trees)
-	"Ancient Wood" = true
-	"Azalea Wood" = true
-	"Big Stone Clusters" = true
+	"Ancient Wood" = false
+	"Azalea Wood" = false
+	"Big Stone Clusters" = false
 	#(Trumpet Trees)
-	"Blossom Trees" = true
-	"Cherry Grove Water Petals" = true
-	"Chorus Vegetation" = true
-	Corundum = true
-	"Fairy Rings" = true
-	"Fallen Logs" = true
-	"Glimmering Weald" = true
+	"Blossom Trees" = false
+	"Cherry Grove Water Petals" = false
+	"Chorus Vegetation" = false
+	Corundum = false
+	"Fairy Rings" = false
+	"Fallen Logs" = false
+	"Glimmering Weald" = false
 	"Monster Box" = true
-	"Nether Obsidian Spikes" = true
-	"New Stone Types" = true
-	"No More Lava Pockets" = true
-	Permafrost = true
-	"Spiral Spires" = true
+	"Nether Obsidian Spikes" = false
+	"New Stone Types" = false
+	"No More Lava Pockets" = false
+	Permafrost = false
+	"Spiral Spires" = false
 
 	#(Ashen Trees)
 	[world.ancient_wood]
@@ -1156,13 +1156,13 @@
 	[world.monster_box]
 		#The chance for the monster box generator to try and place one in a chunk. 0 is 0%, 1 is 100%
 		#This can be higher than 100% if you want multiple per chunk.
-		"Chance Per Chunk" = 0.2
-		"Min Y" = -50
-		"Max Y" = 0
+		"Chance Per Chunk" = 1.0
+		"Min Y" = -118
+		"Max Y" = -24
 		"Min Mob Count" = 5
 		"Max Mob Count" = 8
 		"Enable Extra Loot Table" = true
-		"Activation Range" = 2.5
+		"Activation Range" = 6.0
 		#How many blocks to search vertically from a position before trying to place a block. Higher means you'll get more boxes in open spaces.
 		"Search Range" = 15
 
@@ -1345,13 +1345,13 @@
 				"Is Blacklist" = false
 
 [mobs]
-	Crabs = true
-	Forgotten = true
-	Foxhound = true
-	Shiba = true
-	Stonelings = true
-	Toretoise = true
-	Wraith = true
+	Crabs = false
+	Forgotten = false
+	Foxhound = false
+	Shiba = false
+	Stonelings = false
+	Toretoise = false
+	Wraith = false
 
 	[mobs.crabs]
 		"Enable Brewing" = true
@@ -1540,15 +1540,15 @@
 	"Back Button Keybind" = true
 	"Buckets Show Inhabitants" = true
 	Camera = true
-	"Chest Searching" = true
-	"Elytra Indicator" = true
+	"Chest Searching" = false
+	"Elytra Indicator" = false
 	"Greener Grass" = true
-	"Improved Tooltips" = true
+	"Improved Tooltips" = false
 	"Long Range Pick Block" = true
-	"Microcrafting Helper" = true
-	"Soul Candles" = true
-	"Usage Ticker" = true
-	"Uses For Curses" = true
+	"Microcrafting Helper" = false
+	"Soul Candles" = false
+	"Usage Ticker" = false
+	"Uses For Curses" = false
 	"Variant Animal Textures" = false
 	"Wool Shuts Up Minecarts" = true
 
@@ -1649,12 +1649,12 @@
 		"Shiny Sparkles" = true
 
 [experimental]
-	"Adjustable Chat" = false
+	"Adjustable Chat" = true
 	"Climate Control Remover" = false
-	"Game Nerfs" = false
+	"Game Nerfs" = true
 	"Narrator Readout" = false
-	"Overlay Shader" = false
-	"Spawner Replacer" = false
+	"Overlay Shader" = true
+	"Spawner Replacer" = true
 	#Big Stone Clusters for Granite, Diorite, and Andesite, like Quark pre-1.18
 	"Vanilla Stone Clusters" = false
 	#Allows placing variant blocks automatically via a selector menu triggered from a keybind
@@ -1689,7 +1689,7 @@
 	[experimental.game_nerfs]
 		#Makes Mending act like the Unmending mod
 		#https://www.curseforge.com/minecraft/mc-mods/unmending
-		"Nerf Mending" = true
+		"Nerf Mending" = false
 		#Makes Mending II still work even if mending is nerfed.
 		#If you want Mending II, disable the sanity check on Ancient Tomes and add minecraft:mending to the tomes.
 		"No Nerf for Mending II" = false
@@ -1698,9 +1698,9 @@
 		#Makes Boats not glide on ice
 		"Disable Ice Roads" = true
 		#Makes Sheep not drop Wool when killed
-		"Disable Wool Drops" = true
+		"Disable Wool Drops" = false
 		#Disables mob griefing for only specific entities
-		"Enable Selective Mob Griefing" = true
+		"Enable Selective Mob Griefing" = false
 		#Force Elytra to only work in specific dimensions
 		"Enable Dimension Locked Elytra" = true
 		#Makes falling blocks not able to be duped via dimension crossing
@@ -1727,7 +1727,7 @@
 	[experimental.spawner_replacer]
 		#Mobs to be replaced with other mobs.
 		#Format is: "mob1,mob2", i.e. "minecraft:spider,minecraft:skeleton"
-		"Replace Mobs" = []
+		"Replace Mobs" = ["\"minecraft:silverfish,minecraft:skeleton\""]
 
 	#Big Stone Clusters for Granite, Diorite, and Andesite, like Quark pre-1.18
 	[experimental.vanilla_stone_clusters]
@@ -1877,12 +1877,12 @@
 		"Reroll Even If Not Out Of Stock" = false
 
 [oddities]
-	Backpack = true
-	Crate = true
+	Backpack = false
+	Crate = false
 	Magnets = true
-	"Matrix Enchanting" = true
-	Pipes = true
-	"Tiny Potato" = true
+	"Matrix Enchanting" = false
+	Pipes = false
+	"Tiny Potato" = false
 	"Totem Of Holding" = true
 
 	[oddities.backpack]
@@ -1899,18 +1899,18 @@
 
 	[oddities.magnets]
 		#Any items you place in this list will be derived so that any block made of it will become magnetizable
-		"Magnetic Derivation List" = ["minecraft:iron_ingot", "minecraft:copper_ingot", "minecraft:exposed_copper", "minecraft:weathered_copper", "minecraft:oxidized_copper", "minecraft:raw_iron", "minecraft:raw_copper", "minecraft:iron_ore", "minecraft:deepslate_iron_ore", "minecraft:copper_ore", "minecraft:deepslate_copper_ore", "quark:gravisand"]
+		"Magnetic Derivation List" = ["minecraft:iron_ingot", "minecraft:copper_ingot", "minecraft:exposed_copper", "minecraft:weathered_copper", "minecraft:oxidized_copper", "minecraft:raw_iron", "minecraft:raw_copper", "minecraft:iron_ore", "minecraft:deepslate_iron_ore", "minecraft:copper_ore", "minecraft:deepslate_copper_ore", "quark:gravisand", "spelunkery:magnetite_chunk"]
 		#Block/Item IDs to force-allow magnetism on, regardless of their crafting recipe
-		"Magnetic Whitelist" = ["minecraft:chipped_anvil", "minecraft:damaged_anvil", "minecraft:iron_horse_armor", "minecraft:chainmail_helmet", "minecraft:chainmail_boots", "minecraft:chainmail_leggings", "minecraft:chainmail_chestplate", "#minecraft:cauldrons"]
+		"Magnetic Whitelist" = ["minecraft:chipped_anvil", "minecraft:damaged_anvil", "#minecraft:cauldrons"]
 		#Block/Item IDs to force-disable magnetism on, regardless of their crafting recipe
 		"Magnetic Blacklist" = ["minecraft:tripwire_hook", "minecraft:map", "#minecraft:all_hanging_signs", "#minecraft:hanging_signs"]
-		"Use Pre End Recipe" = false
+		"Use Pre End Recipe" = true
 		#When true magnets will never push something that pistons cant push. Disable to have further control. This allows iron rods to break obsidian for example
 		"Use Piston Logic" = true
 		#Allows magnets to push and pull entities in the 'affected_by_magnets' tag (edit it with datapack). Turning off can reduce lag
 		"Affect Entities" = true
 		#Allows magnets to push and pull entities having magnetic armor. Requires 'magnetic_entities' config ON
-		"Affects Armor" = true
+		"Affects Armor" = false
 		#Determines how fast entities are pulled by magnets. Still follows the inverse square law
 		"Entities Pull Force" = 0.18000000715255737
 		#Stonecutters pulled by magnets will silk touch the blocks they cut.
