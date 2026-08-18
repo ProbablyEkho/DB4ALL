@@ -1,0 +1,22 @@
+{
+  "name": "Cirrus",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1572354",
+      "slug": "cirrus",
+      "versionId": "8628749",
+      "versionNumber": "cirrus-neoforge-1.21.1-1.1.0.jar",
+      "filename": "cirrus-neoforge-1.21.1-1.1.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8628/749/cirrus-neoforge-1.21.1-1.1.0.jar",
+      "sha1": "f8417102e51aee8149a2c1f24d44642837aeecdc",
+      "fileSize": 300134
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

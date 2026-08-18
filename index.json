@@ -14,7 +14,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "c10ae22322b289cadd94f35edfd58336f41aaeac"
+      "sha1": "1cc37c7cc1b283d95a84adea5395fa559ed668f7"
     },
     {
       "path": "content/mods/atmosfera.json",
@@ -43,6 +43,10 @@
     {
       "path": "content/mods/chat-heads.json",
       "sha1": "345719b357f6fbbcfb8e0941eb03d9b8d99e2d98"
+    },
+    {
+      "path": "content/mods/cirrus.json",
+      "sha1": "ed99b49c2c16ce950bfc54d63e8ffaa70dd24672"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -329,12 +333,16 @@
       "sha1": "09bf1626a2f353a7bd3d788527b97491b36713b7"
     },
     {
+      "path": "content/mods/toucan.json",
+      "sha1": "b04a2f3c411bfacc9cd99b4a7c43f69a870cc944"
+    },
+    {
       "path": "content/mods/what-are-they-up-to.json",
       "sha1": "5fe1c1560d32efcf5ee9d3c0a21a600aa6f7261a"
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "b79f2bc8b5649925da028c60de8a2f1ebf7607bb"
+      "sha1": "6a2bf44e7987235a236467aec4375e3418615ea2"
     },
     {
       "path": "content/mods/yeetus-experimentus.json",
@@ -415,6 +423,10 @@
     {
       "path": "overrides/config/chat_heads.json5",
       "sha1": "1fbe7a72d52b51ca9a8a598cf67ed28caa3ed87f"
+    },
+    {
+      "path": "overrides/config/cirrus-client.toml",
+      "sha1": "e74100fa7f786f12f11fe862cc401b16d3a3fbf6"
     },
     {
       "path": "overrides/config/citresewn.json",
@@ -681,24 +693,8 @@
       "sha1": "be6e174a4dc598af454b777a32aae6726ad3f83c"
     },
     {
-      "path": "overrides/config/openloader/packs/db3k_cbs.zip",
-      "sha1": "581a4fb83b00c15084ab7ca80c6e6fc766097720"
-    },
-    {
-      "path": "overrides/config/openloader/packs/db3k_clouds.zip",
-      "sha1": "e16ec3083cdede804e94a5b4a4f7a817d4ca1052"
-    },
-    {
-      "path": "overrides/config/openloader/packs/db3k_music.zip",
-      "sha1": "29fa2b927f3c96e5f34e50280309fc131406e665"
-    },
-    {
-      "path": "overrides/config/openloader/packs/db3k_paintings.zip",
-      "sha1": "8b745eb9f9c86ae6dbdc6f5a3a969913b177ffc1"
-    },
-    {
       "path": "overrides/config/openloader/packs/db3k_resources_and_data.zip",
-      "sha1": "9fd0bc382c4b84c8d54820e1096a3895f3d79cb2"
+      "sha1": "7596d274fad55ce51028a5008d2f73182613ed5e"
     },
     {
       "path": "overrides/config/placebo.cfg",
@@ -707,6 +703,10 @@
     {
       "path": "overrides/config/quark-common.toml",
       "sha1": "00d83001e3b76440889049a76e2d10a1f3aed4a0"
+    },
+    {
+      "path": "overrides/config/quick-pack.json",
+      "sha1": "4cdf7b1b52da5b90463f42cba2ff52b65b8ae8bd"
     },
     {
       "path": "overrides/config/recreative/example_tabs.json.disabled",
