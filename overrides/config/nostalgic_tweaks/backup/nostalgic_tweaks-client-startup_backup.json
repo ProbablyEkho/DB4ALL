@@ -326,7 +326,7 @@
     "tooltipGradientBottom": "#000000C0",
     "fixItemModelGap": true,
     "oldDamageArmorTint": true,
-    "oldItemHolding": true,
+    "oldItemHolding": false,
     "ignoredHoldingItems": {
       "items": [
         "minecraft:crossbow"
@@ -335,8 +335,8 @@
     },
     "itemMergeLimit": 16,
     "oldItemMerging": true,
-    "old2dItems": true,
-    "old2dRendering": true,
+    "old2dItems": false,
+    "old2dRendering": false,
     "old2dExceptions": {
       "items": [
         "minecraft:decorated_pot"
