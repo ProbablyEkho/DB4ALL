@@ -1,6 +1,6 @@
 # DB4ALL
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 85 mods (1 dependency)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 87 mods (2 dependencies)
 
 ## Contents
 
@@ -16,6 +16,7 @@
 - [CapeJS](https://modrinth.com/project/capejs) `1.1.1-1.21`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.0`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.7`
+- Cirrus `cirrus-neoforge-1.21.1-1.1.0.jar` (curseforge)
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Collective](https://modrinth.com/project/collective) `1.21.1-8.39-fabric+forge+neo`
 - [Continuity](https://modrinth.com/project/continuity) `3.0.0+1.21.neoforge`
@@ -85,6 +86,7 @@
 - [Timeless](https://modrinth.com/project/timeless) `1.21.1-1.3.6`
 - [TipTheScales](https://modrinth.com/project/tipthescales) `16.0.0.1`
 - [Toast Control](https://modrinth.com/project/toast-control) `1.21.1-9.0.1`
+- [toucanLib](https://modrinth.com/project/toucan) `0.5.0`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [Yeetus Experimentus](https://modrinth.com/project/yeetus-experimentus) `87.0.0`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`

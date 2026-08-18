@@ -14,7 +14,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "c10ae22322b289cadd94f35edfd58336f41aaeac"
+      "sha1": "1cc37c7cc1b283d95a84adea5395fa559ed668f7"
     },
     {
       "path": "content/mods/atmosfera.json",
@@ -43,6 +43,10 @@
     {
       "path": "content/mods/chat-heads.json",
       "sha1": "345719b357f6fbbcfb8e0941eb03d9b8d99e2d98"
+    },
+    {
+      "path": "content/mods/cirrus.json",
+      "sha1": "ed99b49c2c16ce950bfc54d63e8ffaa70dd24672"
     },
     {
       "path": "content/mods/cloth-config.json",
@@ -329,12 +333,16 @@
       "sha1": "09bf1626a2f353a7bd3d788527b97491b36713b7"
     },
     {
+      "path": "content/mods/toucan.json",
+      "sha1": "b04a2f3c411bfacc9cd99b4a7c43f69a870cc944"
+    },
+    {
       "path": "content/mods/what-are-they-up-to.json",
       "sha1": "5fe1c1560d32efcf5ee9d3c0a21a600aa6f7261a"
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "b79f2bc8b5649925da028c60de8a2f1ebf7607bb"
+      "sha1": "6a2bf44e7987235a236467aec4375e3418615ea2"
     },
     {
       "path": "content/mods/yeetus-experimentus.json",
@@ -419,6 +427,10 @@
     {
       "path": "overrides/config/chat_heads.json5",
       "sha1": "1fbe7a72d52b51ca9a8a598cf67ed28caa3ed87f"
+    },
+    {
+      "path": "overrides/config/cirrus-client.toml",
+      "sha1": "e74100fa7f786f12f11fe862cc401b16d3a3fbf6"
     },
     {
       "path": "overrides/config/citresewn.json",
@@ -686,7 +698,7 @@
     },
     {
       "path": "overrides/config/nostalgic_tweaks/nostalgic_tweaks.json",
-      "sha1": "3d9a8ff73f4c5429955c48eb93cb8252d232868a"
+      "sha1": "bebc6e74c21d3f1d2afb77db743811ed253b5e65"
     },
     {
       "path": "overrides/config/openloader/options.json",
@@ -703,6 +715,10 @@
     {
       "path": "overrides/config/quark-common.toml",
       "sha1": "40743dd1dbbb79d82b307b79aee3b6eb417398c7"
+    },
+    {
+      "path": "overrides/config/quick-pack.json",
+      "sha1": "4cdf7b1b52da5b90463f42cba2ff52b65b8ae8bd"
     },
     {
       "path": "overrides/config/recreative/example_tabs.json.disabled",

@@ -1,0 +1,23 @@
+{
+  "name": "toucanLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dXwOQg6L",
+      "slug": "toucan",
+      "versionId": "jW4mP1dI",
+      "versionNumber": "0.5.0",
+      "filename": "toucanlib-neoforge-1.21.1-0.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dXwOQg6L/versions/jW4mP1dI/toucanlib-neoforge-1.21.1-0.5.0.jar",
+      "sha1": "6d2324ef489e9e49b732770800f40b9c3235233f",
+      "sha512": "480df5c5e21be09c780d3db4864659d3d4513644c615ddf6f5044bfc7073782ee62316c2c851313ab5fe76f1c4137ea754593fac2019e20ea9af1ec1d7151b87",
+      "fileSize": 208139
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
