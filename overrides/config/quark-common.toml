@@ -271,7 +271,7 @@
 		"Enable Pillar" = true
 
 [management]
-	"Automatic Tool Restock" = true
+	"Automatic Tool Restock" = false
 	"Easy Transferring" = false
 	"Expanded Item Interactions" = true
 	"Hotbar Changer" = true
@@ -517,7 +517,7 @@
 	"Hoe Harvesting" = false
 	"Horses Swim" = false
 	"Improved Sponges" = true
-	"Lock Rotation" = false
+	"Lock Rotation" = true
 	"Magma Keeps Concrete Powder" = false
 	"Map Washing" = true
 	"More Banner Layers" = false
@@ -1539,10 +1539,10 @@
 	"Auto Walk Keybind" = true
 	"Back Button Keybind" = true
 	"Buckets Show Inhabitants" = true
-	Camera = true
+	Camera = false
 	"Chest Searching" = false
 	"Elytra Indicator" = false
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Improved Tooltips" = false
 	"Long Range Pick Block" = true
 	"Microcrafting Helper" = false
