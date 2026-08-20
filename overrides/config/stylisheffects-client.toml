@@ -40,7 +40,7 @@
 		scale = 4.0
 		#Respect vanilla's "hideParticles" flag which prevents a status effect from showing when set via commands.
 		#Default Value: false
-		respect_hide_particles = false
+		respect_hide_particles = true
 		#Exclude certain menus from showing active status effects. Useful when effect icons overlap with other screen elements.
 		#Default Value: [curios:curios_container, tconstruct:*, mekanism:*]
 		menu_blacklist = ["curios:curios_container", "tconstruct:*", "mekanism:*"]
@@ -61,12 +61,12 @@
 		#Screen side to render status effects on.
 		#Default Value: LEFT
 		#Allowed Values: LEFT, RIGHT
-		screen_side = "LEFT"
+		screen_side = "RIGHT"
 		#Effect renderer to be used.
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Default Value: GUI_COMPACT
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
-		renderer_type = "GUI_COMPACT"
+		renderer_type = "GUI_SMALL"
 
 	[renderers.gui_renderer]
 		#Prevent status effects with infinite duration from showing.
@@ -121,7 +121,7 @@
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Default Value: GUI_COMPACT
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
-		renderer_type = "GUI_COMPACT"
+		renderer_type = "INVENTORY_COMPACT"
 		#Offset on y-axis.
 		#Default Value: 3
 		# Default: 3
@@ -135,7 +135,7 @@
 		amplifier_color = "WHITE"
 		#Should the effect icon start to blink when the effect is running out.
 		#Default Value: true
-		blinking_alpha = true
+		blinking_alpha = false
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		#Default Value: false
 		quality_border = false
@@ -151,14 +151,14 @@
 		#Top corner to draw effect amplifier in, or none.
 		#Default Value: TOP_RIGHT
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT
-		effect_amplifier = "TOP_RIGHT"
+		effect_amplifier = "NONE"
 		#Should ambient effect widgets have a cyan colored border.
 		#Default Value: true
 		ambient_border = true
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Default Value: GRAY
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
-		duration_color = "GRAY"
+		duration_color = "WHITE"
 
 	[widgets.inventory_full_size]
 		#Should the effect icon start to blink when the effect is running out.
@@ -180,7 +180,7 @@
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Default Value: GRAY
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
-		duration_color = "GRAY"
+		duration_color = "GREEN"
 
 	[widgets.gui_small]
 		#Effect amplifier color. Setting this to "EFFECT" will use potion color.
@@ -189,7 +189,7 @@
 		amplifier_color = "WHITE"
 		#Should the effect icon start to blink when the effect is running out.
 		#Default Value: true
-		blinking_alpha = true
+		blinking_alpha = false
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		#Default Value: false
 		quality_border = false
@@ -202,17 +202,17 @@
 		#Top corner to draw effect amplifier in, or none.
 		#Default Value: TOP_RIGHT
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT
-		effect_amplifier = "TOP_RIGHT"
+		effect_amplifier = "NONE"
 		#Should ambient effect widgets have a cyan colored border.
 		#Default Value: true
-		ambient_border = true
+		ambient_border = false
 		#Draw harmful effects on a separate line from beneficial ones. This is turned on in vanilla.
 		#Default Value: false
 		separate_effects = false
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Default Value: GRAY
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
-		duration_color = "GRAY"
+		duration_color = "WHITE"
 
 	[widgets.gui_compact]
 		#Effect amplifier color. Setting this to "EFFECT" will use potion color.
@@ -221,7 +221,7 @@
 		amplifier_color = "WHITE"
 		#Should the effect icon start to blink when the effect is running out.
 		#Default Value: true
-		blinking_alpha = true
+		blinking_alpha = false
 		#Display effect duration more compact, allows for always showing duration, even when it is very long.
 		#Default Value: false
 		compact_duration = false
@@ -243,7 +243,7 @@
 		ambient_border = true
 		#Draw harmful effects on a separate line from beneficial ones. This is turned on in vanilla.
 		#Default Value: false
-		separate_effects = false
+		separate_effects = true
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Default Value: GRAY
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE

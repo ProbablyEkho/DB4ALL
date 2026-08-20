@@ -22,7 +22,7 @@ inputLibrary = "SDL2"
 	consoleHotbar = false
 	# The image to use for the cursor. This only applies if virtual mouse is enabled!
 	# Valid values: LIGHT, DARK, CONSOLE, CONSOLE_PLUS, LEGACY_LIGHT, LEGACY_DARK
-	cursorType = "CONSOLE"
+	cursorType = "LEGACY_LIGHT"
 	# The controller icons to use in game to display actions
 	# Valid values: DEFAULT, PLAYSTATION_5, PLAYSTATION_4, PLAYSTATION_3, XBOX_ONE, XBOX_360, SWITCH_JOYCONS, SWITCH_CONTROLLER, GAMECUBE, STEAM
 	controllerIcons = "DEFAULT"
@@ -61,10 +61,10 @@ inputLibrary = "SDL2"
 	quickCraft = true
 	# If enabled, plays a pop sound when you navigate in inventories, menus or scrolling the radial menu
 	# Valid values: true, false
-	navigateSound = true
+	navigateSound = false
 	# If enabled, plays the wooden button sound when quick moving items in an inventory (similar to legacy console edition)
 	# Valid values: true, false
-	quickMoveSound = true
+	quickMoveSound = false
 	# The thumbstick to use when scrolling items in the radial menu
 	# Valid values: LEFT, RIGHT
 	radialThumbstick = "RIGHT"
