@@ -1,8 +1,5 @@
 // priority: 0
 
-entitySpawnEvents_init()
-entityHurtEvents_init()
-
 const undeadEntities = ['minecraft:zombie', 'minecraft:skeleton']
 const blacklistEntities = ['caverns_and_chasms:peeper', 'minecraft:cod', 'minecraft:salmon', 'minecraft:tropical_fish', 'minecraft:pufferfish', 'minecraft:bat', 'minecraft:allay', 'minecraft:axolotl', 'minecraft:bee', 'minecraft:dolphin', 'minecraft:donkey', 'minecraft:drowned', 'minecraft:elder_guardian', 'minecraft:enderman', 'minecraft:endermite', 'minecraft:evoker', 'minecraft:fox', 'minecraft:frog', 'minecraft:glow_squid', 'minecraft:goat', 'minecraft:guardian', 'minecraft:hoglin', 'minecraft:horse', 'minecraft:husk', 'minecraft:illusioner', 'minecraft:iron_golem', 'minecraft:llama', 'minecraft:mule', 'minecraft:panda', 'minecraft:parrot', 'minecraft:phantom', 'minecraft:piglin', 'minecraft:pillager', 'minecraft:polar_bear', 'minecraft:rabbit', 'minecraft:ravager', 'minecraft:shulker', 'minecraft:silverfish', 'minecraft:skeleton_horse', 'minecraft:stray', 'minecraft:tadpole', 'minecraft:trader_llama', 'minecraft:turtle', 'minecraft:vex', 'minecraft:villager', 'minecraft:vindicator', 'minecraft:wandering_trader', 'minecraft:witch', 'minecraft:wither', 'minecraft:wither_skeleton', 'minecraft:zoglin', 'minecraft:zombie_horse', 'minecraft:zombie_villager']
 
@@ -83,27 +80,4 @@ function spawnItemEntity(item, maxCount, targetEntity){
   itemEntity.motionY = 0.15
   itemEntity.motionX = 0.075
   itemEntity.spawn()
-}
-
-// // experimental equipment determined mob drops
-// EntityEvents.death(event => {
-//   const entity = event.entity
-//     if (entity.type === 'minecraft:player') return;
-//     if (entity.headArmorItem === 'minecraft:leather_helmet' || entity.chestArmorItem === 'minecraft:leather_chestplate' || entity.legsArmorItem === 'minecraft:leather_leggings' || entity.feetArmorItem === 'minecraft:leather_boots') {
-//       spawnItemEntity('minecraft:leather', 2, entity)
-// 		}
-//     if (entity.headArmorItem === 'minecraft:iron_helmet' || entity.chestArmorItem === 'minecraft:iron_chestplate' || entity.legsArmorItem === 'minecraft:iron_leggings' || entity.feetArmorItem === 'minecraft:iron_boots') {
-//       spawnItemEntity('minecraft:iron_ingot', 2, entity)
-// 		}
-// })
-
-function entityHurtEvents_init(){
-  // let executed = false;
-  // EntityEvents.hurt(event=> {
-  //   const { entity } = event;
-  //   if(!undeadEntities.includes(entity.type) || !entity.hasEffect('minecraft:glowing')|| executed) return;
-  //   executed = true;
-  //   event.entity.attack(event.damage * 1.5);
-  //   executed = false;
-  // })
 }

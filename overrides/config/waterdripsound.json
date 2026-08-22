@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "volume": 0.3,
+  "volume": 1.0,
   "dripChance": 10,
   "useDripstoneSounds": true,
   "soundCategory": "ambient",

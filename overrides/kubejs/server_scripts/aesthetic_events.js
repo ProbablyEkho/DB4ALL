@@ -24,7 +24,7 @@ function aesthetic_init() {
         }
     });
 
-    EntityEvents.hurt(event => {
+    EntityEvents.afterHurt(event => {
         if(poofEntities.includes(event.entity.type)) {
             if(event.source.player) {
                 event.level.spawnParticles('minecraft:smoke', false, event.entity.x, event.entity.y + 1, event.entity.z, 0.1, 0.6, 0.1, 1, 0);
@@ -51,10 +51,10 @@ function aesthetic_init() {
     // Survival test inspired explosion particles
     LevelEvents.afterExplosion(event => {
         if(event.exploder.type == 'minecraft:creeper') { 
-            event.server.runCommandSilent(`particle minecraft:block minecraft:oak_leaves ${event.exploder.x} ${event.exploder.y} ${event.exploder.z} 1.5 1.5 1.5 0 150 normal`)
+            event.server.runCommandSilent(`particle minecraft:block{block_state:{Name:"oak_leaves"}} ${event.exploder.x} ${event.exploder.y} ${event.exploder.z} 1.5 1.5 1.5 0 150 normal`)
         }
         if(event.exploder.type == 'caverns_and_chasms:deeper') { 
-            event.server.runCommandSilent(`particle minecraft:block minecraft:cobblestone ${event.exploder.x} ${event.exploder.y} ${event.exploder.z} 1.5 1.5 1.5 0 150 normal`)
+            event.server.runCommandSilent(`particle minecraft:block{block_state:{Name:"cobblestone"}} ${event.exploder.x} ${event.exploder.y} ${event.exploder.z} 1.5 1.5 1.5 0 150 normal`)
         }
     })
 }
