@@ -13,29 +13,6 @@ ItemEvents.foodEaten([
 	})
 })
 
-const seasons = Java.loadClass('sereneseasons.api.season.SeasonHelper')
-// const seasonAllowWeather = ['EARLY_SPRING', 'MID_SPRING', 'LATE_SPRING'], 
-// const alwaysSnow = ['EARLY_WINTER', 'MID_WINTER', 'LATE_WINTER']
-
-LevelEvents.tick(event => {
-	// makes code run less often for TPS
-	if(event.server.tickCount % 10 != 0)
-		return
-	const overworld = event.server.getLevel('minecraft:overworld'); // Get the Overworld
-	const seasonState = seasons.getSeasonState(event.level.getLevel()).getSeason();
-
-	if(seasonState == 'WINTER' || seasonState == 'SPRING') {
-		if(!overworld.isRaining()) {
-			event.level.setWeatherParameters(0, 24000, true, false)
-		} 
-	}
-	else {
-		if(overworld.isRaining()) {
-			event.level.setWeatherParameters(24000, 0, false, false)
-		}
-	}
-})
-
 // Sets default gamerules on the first time a world is loaded
 ServerEvents.loaded(event => {
 	// only run on first load
