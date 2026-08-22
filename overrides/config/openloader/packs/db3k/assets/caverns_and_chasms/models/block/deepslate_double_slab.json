@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "particle": "block/deepslate_slab_side",
+        "down": "block/deepslate_slab",
+        "up": "block/deepslate_slab",
+        "north": "block/deepslate_slab_side",
+        "east": "block/deepslate_slab_side",
+        "south": "block/deepslate_slab_side",
+        "west": "block/deepslate_slab_side"
+    }
+}

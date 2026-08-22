@@ -1,0 +1,276 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 32],
+	"texture": "textures/entity/cow/cow.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -20, 8],
+			"boxes": [
+				{"coordinates": [-4, 16, -14, 8, 8, 6], "textureOffset": [0, 0]},
+				{"coordinates": [-5, 23, -11, 1, 3, 1], "textureOffset": [22, 0]},
+				{"coordinates": [4, 23, -11, 1, 3, 1], "textureOffset": [22, 0]}
+			],
+			"submodels": [
+				{
+					"id": "RE",
+					"invertAxis": "xy",
+					"translate": [3, 21, -14],
+					"rotate": [7.5, -5, 0]
+				},
+				{
+					"id": "LE",
+					"invertAxis": "xy",
+					"translate": [-3, 21, -14],
+					"rotate": [-2.53369, 9.99994, -0.22139]
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -19, -2],
+			"rotate": [-90, 0, 0],
+			"boxes": [
+				{"coordinates": [-6, 11, -5, 12, 18, 10], "textureOffset": [18, 4]},
+				{"coordinates": [-2, 11, -6, 4, 6, 1], "textureOffset": [52, 0]}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-4, -12, -7],
+			"boxes": [
+				{"coordinates": [2, 0, 5, 4, 12, 4], "textureOffset": [0, 16]}
+			],
+			"submodels": [
+				{
+					"id": "Foot4",
+					"invertAxis": "xy",
+					"translate": [8, 0, 12],
+					"submodels": [
+						{
+							"id": "AAAAA4",
+							"invertAxis": "xy",
+							"translate": [-4.5, 1, -6],
+							"rotate": [-10, 0, 0]
+						},
+						{
+							"id": "Bus2",
+							"invertAxis": "xy",
+							"translate": [-4, 0.5, -8],
+							"rotate": [0, 0, -180],
+							"submodels": [
+								{
+									"id": "Toe16",
+									"invertAxis": "xy",
+									"translate": [1.75, 0, -0.5],
+									"rotate": [0, -7.5, 0]
+								},
+								{
+									"id": "Toe17",
+									"invertAxis": "xy",
+									"translate": [1.75, 0, -0.75]
+								},
+								{
+									"id": "Toe18",
+									"invertAxis": "xy",
+									"translate": [0.75, 0, -0.75],
+									"rotate": [0, 7.5, 0]
+								},
+								{
+									"id": "Toe19",
+									"invertAxis": "xy",
+									"translate": [-0.25, 0, -0.25],
+									"rotate": [0, 12.5, 0]
+								},
+								{
+									"id": "Toe20",
+									"invertAxis": "xy",
+									"translate": [-2, 0, 0.75],
+									"rotate": [0, 25, 0]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [4, -12, -7],
+			"boxes": [
+				{"coordinates": [-6, 0, 5, 4, 12, 4], "textureOffset": [0, 16]}
+			],
+			"submodels": [
+				{
+					"id": "Foot2",
+					"invertAxis": "xy",
+					"translate": [0, 0, 12],
+					"submodels": [
+						{
+							"id": "Toe6",
+							"invertAxis": "xy",
+							"translate": [-2.25, 0.5, -8.5],
+							"rotate": [0, -7.5, 0]
+						},
+						{
+							"id": "Toe7",
+							"invertAxis": "xy",
+							"translate": [-2.25, 0.5, -8.75]
+						},
+						{
+							"id": "Toe8",
+							"invertAxis": "xy",
+							"translate": [-3.25, 0.5, -8.75],
+							"rotate": [0, 7.5, 0]
+						},
+						{
+							"id": "Toe9",
+							"invertAxis": "xy",
+							"translate": [-4.25, 0.5, -8.25],
+							"rotate": [0, 12.5, 0]
+						},
+						{
+							"id": "Toe10",
+							"invertAxis": "xy",
+							"translate": [-6, 0.5, -7.25],
+							"rotate": [0, 25, 0]
+						},
+						{
+							"id": "AAAAA2",
+							"invertAxis": "xy",
+							"translate": [-4.5, 1, -6],
+							"rotate": [-10, 0, 0]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-4, -12, 6],
+			"boxes": [
+				{"coordinates": [2, 0, -7, 4, 12, 4], "textureOffset": [0, 16]}
+			],
+			"submodels": [
+				{
+					"id": "Foot3",
+					"invertAxis": "xy",
+					"translate": [8, 0, 0],
+					"submodels": [
+						{
+							"id": "AAAAA3",
+							"invertAxis": "xy",
+							"translate": [-4.5, 1, -6],
+							"rotate": [-10, 0, 0]
+						},
+						{
+							"id": "Bus",
+							"invertAxis": "xy",
+							"translate": [-4, 0.5, -8],
+							"rotate": [0, 0, -180],
+							"submodels": [
+								{
+									"id": "Toe11",
+									"invertAxis": "xy",
+									"translate": [1.75, 0, -0.5],
+									"rotate": [0, -7.5, 0]
+								},
+								{
+									"id": "Toe12",
+									"invertAxis": "xy",
+									"translate": [1.75, 0, -0.75]
+								},
+								{
+									"id": "Toe13",
+									"invertAxis": "xy",
+									"translate": [0.75, 0, -0.75],
+									"rotate": [0, 7.5, 0]
+								},
+								{
+									"id": "Toe14",
+									"invertAxis": "xy",
+									"translate": [-0.25, 0, -0.25],
+									"rotate": [0, 12.5, 0]
+								},
+								{
+									"id": "Toe15",
+									"invertAxis": "xy",
+									"translate": [-2, 0, 0.75],
+									"rotate": [0, 25, 0]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [4, -12, 6],
+			"boxes": [
+				{"coordinates": [-6, 0, -7, 4, 12, 4], "textureOffset": [0, 16]}
+			],
+			"submodels": [
+				{
+					"id": "Foot",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"submodels": [
+						{
+							"id": "Toe",
+							"invertAxis": "xy",
+							"translate": [-2.25, 0.5, -8.5],
+							"rotate": [0, -7.5, 0]
+						},
+						{
+							"id": "Toe2",
+							"invertAxis": "xy",
+							"translate": [-2.25, 0.5, -8.75]
+						},
+						{
+							"id": "Toe3",
+							"invertAxis": "xy",
+							"translate": [-3.25, 0.5, -8.75],
+							"rotate": [0, 7.5, 0]
+						},
+						{
+							"id": "Toe4",
+							"invertAxis": "xy",
+							"translate": [-4.25, 0.5, -8.25],
+							"rotate": [0, 12.5, 0]
+						},
+						{
+							"id": "Toe5",
+							"invertAxis": "xy",
+							"translate": [-6, 0.5, -7.25],
+							"rotate": [0, 25, 0]
+						},
+						{
+							"id": "AAAAA",
+							"invertAxis": "xy",
+							"translate": [-4.5, 1, -6],
+							"rotate": [-10, 0, 0]
+						}
+					]
+				}
+			]
+		}
+	]
+}

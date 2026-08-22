@@ -1,0 +1,28 @@
+{
+  "spawner.spawn": {
+    "sounds": [
+      "kubejs:misc/spawner"
+    ],
+    "subtitle": "Monster spawns"
+  },
+  "generic.menutick": {
+    "sounds": [
+      "kubejs:misc/menutick"
+    ]
+  },
+  "generic.menuscroll": {
+    "sounds": [
+      "kubejs:misc/menuscroll"
+    ]
+  },
+  "generic.menuopen": {
+    "sounds": [
+      "kubejs:misc/menuopen"
+    ]
+  },
+  "generic.menuclose": {
+    "sounds": [
+      "kubejs:misc/menuclose"
+    ]
+  }
+}

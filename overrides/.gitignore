@@ -2,7 +2,7 @@
 .DS_Store
 
 # minecraft
-data/
+/data/
 saves/
 backups/
 logs/
@@ -25,7 +25,7 @@ natives/
 .cache/
 versions/
 libraries/
-assets/
+/assets/
 debug/
 downloads/
 local/
