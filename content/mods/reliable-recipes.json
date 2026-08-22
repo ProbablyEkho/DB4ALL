@@ -1,0 +1,25 @@
+{
+  "name": "Reliable Recipes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Hl4ARA1z",
+      "slug": "reliable-recipes",
+      "versionId": "OQSyMZq5",
+      "versionNumber": "3.1.5-1.21.1-neoforge",
+      "filename": "reliable_recipes-neoforge-1.21.1-3.1.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Hl4ARA1z/versions/OQSyMZq5/reliable_recipes-neoforge-1.21.1-3.1.5.jar",
+      "sha1": "923ac76239144af9b0a649c52cf5da27057aceb8",
+      "sha512": "2ced553427a56791d6048b9d08a2a58d9346de822a59727f06ba963d33561147e5a515082f1b5971c22ec3101db0abf88bd6a1ae84cfd6631931ca57affd882b",
+      "fileSize": 127007
+    }
+  },
+  "dependents": [
+    "pLxsKvNt"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}
