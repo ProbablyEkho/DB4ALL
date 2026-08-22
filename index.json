@@ -289,6 +289,14 @@
       "sha1": "175663a33dc2cd0d9e5a471efda78aa0c59d3ecb"
     },
     {
+      "path": "content/mods/reliable-recipes.json",
+      "sha1": "42bd4f5f63fe53096ee639120412a9876ea6d304"
+    },
+    {
+      "path": "content/mods/reliable-remover.json",
+      "sha1": "b8a24f9530030a2e2f5252d97c145dfe9a18f1cd"
+    },
+    {
       "path": "content/mods/reliable-replacer.json",
       "sha1": "bb756630bc2227e3eac906bfb1d25aa4b52ae6bf"
     },
@@ -342,7 +350,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "73599b189b7a879918116b87ed3d9709ea2b09ba"
+      "sha1": "58a979f221ed7ea70f36ddbc24dbb203e2cb1317"
     },
     {
       "path": "content/mods/yeetus-experimentus.json",
@@ -354,7 +362,11 @@
     },
     {
       "path": "overrides/.gitignore",
-      "sha1": "e04ea4997d0c2feb6d873cfe6f5773186513c256"
+      "sha1": "36b6506d715a109d8efca936da9129dd4f2e14a4"
+    },
+    {
+      "path": "overrides/.qmenu_opened.marker",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
     },
     {
       "path": "overrides/.vscode/key.code-snippets",
@@ -362,7 +374,7 @@
     },
     {
       "path": "overrides/config/CoroUtil/General.toml",
-      "sha1": "3bd7d98616d2c4ff4ee7c8e12257bf7e5891d955"
+      "sha1": "1233bc5e9b76ae23493ad31db26e92b7da397270"
     },
     {
       "path": "overrides/config/NoChatReports/NCR-Client.json",
@@ -386,15 +398,15 @@
     },
     {
       "path": "overrides/config/apathy-boss.toml",
-      "sha1": "5cf3f07cb7545ba2685b2e1fb3e2755f789efd7e"
+      "sha1": "6f246d0864d25d510f214d57052fa5718d1f74e2"
     },
     {
       "path": "overrides/config/apathy-general.toml",
-      "sha1": "5160a1d5f4bd8a16550a56d593fe6f194de854d5"
+      "sha1": "610491831a4c6a602d3ea446ed30686f76aeecd3"
     },
     {
       "path": "overrides/config/apathy-mobs.toml",
-      "sha1": "dfcdb738966ac04987cf87b20b235d96c68e3d06"
+      "sha1": "c3af79e234d77171307541e87e7def729f15df73"
     },
     {
       "path": "overrides/config/atmosfera.json",
@@ -402,27 +414,27 @@
     },
     {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
-      "sha1": "02b1eb43cb55013ca0316287eb7f2f88eaacf4fb"
+      "sha1": "4fc30a37ee8030f4f3d22c7212e7432f5ad2cf37"
     },
     {
       "path": "overrides/config/blueprint-client.toml",
-      "sha1": "2bab8e61f7c200f2177cee32758a8a877b023ce6"
+      "sha1": "35a77a86bf0f985346e0b950047c03d1fbc8573c"
     },
     {
       "path": "overrides/config/blueprint-common.toml",
-      "sha1": "4732623baf36bcf3091f3fd2a75f6d989aaeda87"
+      "sha1": "6d459bb8363766cb774dadd4062057123b56b04e"
     },
     {
       "path": "overrides/config/caverns_and_chasms-client.toml",
-      "sha1": "1357215eb8ece9137da20ed2bb446d765b374f0c"
+      "sha1": "e5a8836dc9dd8273bd47f1db8035906eff9f8ada"
     },
     {
       "path": "overrides/config/caverns_and_chasms-common.toml",
-      "sha1": "5dba21a74b0414f92fa624d6e6d53e41fc252d95"
+      "sha1": "236c499ceaa73ad73ff8a2067e813e6dbf917a61"
     },
     {
       "path": "overrides/config/chat_heads.json5",
-      "sha1": "1fbe7a72d52b51ca9a8a598cf67ed28caa3ed87f"
+      "sha1": "876c82b09c1029acdf2699dbd3240d85f5e86694"
     },
     {
       "path": "overrides/config/cirrus-client.toml",
@@ -446,11 +458,11 @@
     },
     {
       "path": "overrides/config/controllable-client.toml",
-      "sha1": "7beed576bed45330c130e224e8e22270153b719a"
+      "sha1": "264ccd3cca42380721dbd2ad55fb1af75baf2241"
     },
     {
       "path": "overrides/config/crunchy_crunchy_advancements.toml",
-      "sha1": "474d5be836043722c894491d6f399c53b5ee10ec"
+      "sha1": "be159f40a06f98bbe8d9933ccb2431ca71dfa428"
     },
     {
       "path": "overrides/config/customcredits.json5",
@@ -470,11 +482,11 @@
     },
     {
       "path": "overrides/config/defaultoptions-common.toml",
-      "sha1": "189687a2acbd11002a06482bb2c9b02e025d0616"
+      "sha1": "3aebc586067d83965405ed57109080cab0cdbed0"
     },
     {
       "path": "overrides/config/e4mc/e4mc.toml",
-      "sha1": "e042e1fe2b57638584403507aafb84be6b45c8dc"
+      "sha1": "f0ca8e010d15a954260fc905c2f9a1b9fb50e1c4"
     },
     {
       "path": "overrides/config/eg_fix_horizontal_camera_lag_config.json",
@@ -501,12 +513,16 @@
       "sha1": "0aa517cd5af7beac6638f8d2832b01156d459b53"
     },
     {
+      "path": "overrides/config/fabric/indigo-renderer.properties",
+      "sha1": "1828c0e055d0eba532872a716127049df031ca58"
+    },
+    {
       "path": "overrides/config/fabrication/features.ini",
-      "sha1": "b30aefc2df71154376586f8379594f59cad60ad1"
+      "sha1": "ad4ccfdb08ac8991db607bdbe15893e07bcec4dd"
     },
     {
       "path": "overrides/config/fallingleaves-client.toml",
-      "sha1": "91789cc7359eb98d4676d0b182c5f4d1da01a4f1"
+      "sha1": "6eec84e37bb2c9088fa5cbefab053f5dbef38421"
     },
     {
       "path": "overrides/config/fancymenu/custom_gui_screens.txt",
@@ -531,6 +547,10 @@
     {
       "path": "overrides/config/fancymenu/normalized_scroll_screens.json",
       "sha1": "d1d1d004be3f1df888e46dd9133748ddd0cabb50"
+    },
+    {
+      "path": "overrides/config/fancymenu/options.txt",
+      "sha1": "6efd901b4752fa54e7d7c62411dbfde662c8bfec"
     },
     {
       "path": "overrides/config/fancymenu/ui_themes/cherry_blossom.json",
@@ -574,11 +594,11 @@
     },
     {
       "path": "overrides/config/ferritecore-mixin.toml",
-      "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
+      "sha1": "117f758af35aac859c535d5d2da96c5747a87aea"
     },
     {
       "path": "overrides/config/fml.toml",
-      "sha1": "eca992ddb87e4dbd772cb816c0bc842d0f8f0106"
+      "sha1": "82231f27f83abd7ecdbb11a1ad6d5cf7b0c0974d"
     },
     {
       "path": "overrides/config/immediatelyfast.json",
@@ -590,15 +610,15 @@
     },
     {
       "path": "overrides/config/insanelib/common.toml",
-      "sha1": "9e9a27f1fab8f9ce89ab90f1b8ae22200f78528f"
+      "sha1": "c3ad8f5ff6d10cd85e4e644eaaf7cae4555212dc"
     },
     {
       "path": "overrides/config/inventoryessentials-common.toml",
-      "sha1": "276a03604a0995a4a8beff7efd1c7fb8dfcaaf68"
+      "sha1": "626492df088d0946ed7f08bd0d66f7c5f3a07200"
     },
     {
       "path": "overrides/config/jei-server.toml",
-      "sha1": "07363b086ec2af8c224fbb4a762ad3c59633835c"
+      "sha1": "91447001769dc0f239a44ffce274f7affa1bbaa8"
     },
     {
       "path": "overrides/config/konkrete/locals/de_de.local",
@@ -626,15 +646,15 @@
     },
     {
       "path": "overrides/config/logbegone.json",
-      "sha1": "1e70d4109e8afbadf0bd75ff368dc11dee9ac1b4"
+      "sha1": "df5d1f4a1ffed9f5ca94cc59662fd808bdb1fda3"
     },
     {
       "path": "overrides/config/map_atlases-client.toml",
-      "sha1": "e77224a5675ffdb3ca2d278fb3ab2221d9d99488"
+      "sha1": "8413814a9aa8c48322d504a36e3fcf611ba47dca"
     },
     {
       "path": "overrides/config/map_atlases-common.toml",
-      "sha1": "e3d601f3ad805fdb9b19e10b0182877d3c2f33e4"
+      "sha1": "95534b75d686cdb093091d4a8f43818c761b2708"
     },
     {
       "path": "overrides/config/minecraft-cursor.json",
@@ -646,7 +666,7 @@
     },
     {
       "path": "overrides/config/modernfix-common.toml",
-      "sha1": "67d29a1db4c6d7d97b4912e5ef3aae34347d3e38"
+      "sha1": "84439141a9dbc2f96212967ea8437d420d8d9c8e"
     },
     {
       "path": "overrides/config/modernfix-mixins.properties",
@@ -654,11 +674,11 @@
     },
     {
       "path": "overrides/config/moonlight-client.toml",
-      "sha1": "c9d45288928690ec27ffd80e06c440ff5353ce6e"
+      "sha1": "7fdda9094dda6ea770e3e9cb0ef1ec3ce24167be"
     },
     {
       "path": "overrides/config/moonlight-common.toml",
-      "sha1": "4d66f0f9b463792e9ed36780928d349421ff9ab2"
+      "sha1": "1f62002e06c865342690eea17511a19503da3d5d"
     },
     {
       "path": "overrides/config/music_tweaks.json",
@@ -666,15 +686,15 @@
     },
     {
       "path": "overrides/config/neoforge-client.toml",
-      "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d"
+      "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed"
     },
     {
       "path": "overrides/config/neoforge-common.toml",
-      "sha1": "2912b55694531e5ab90981a12f1844439d969e04"
+      "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f"
     },
     {
       "path": "overrides/config/neoforge-server.toml",
-      "sha1": "6e589499975366719134967e8ad049ee10d8caac"
+      "sha1": "536538f1f29efb49318318113530bd4fd74c235b"
     },
     {
       "path": "overrides/config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json",
@@ -686,7 +706,7 @@
     },
     {
       "path": "overrides/config/nostalgic_tweaks/nostalgic_tweaks.json",
-      "sha1": "bebc6e74c21d3f1d2afb77db743811ed253b5e65"
+      "sha1": "ad6065159d2e2d8357baa83ca557b1645d217d74"
     },
     {
       "path": "overrides/config/openloader/options.json",
@@ -694,15 +714,15 @@
     },
     {
       "path": "overrides/config/openloader/packs/db3k_resources_and_data.zip",
-      "sha1": "7596d274fad55ce51028a5008d2f73182613ed5e"
+      "sha1": "4c8d3b4276f03cccd0f08bd393c9b3c03f86ad3b"
     },
     {
       "path": "overrides/config/placebo.cfg",
-      "sha1": "31379aff8caded4f3c1dc33c6de34189d2805489"
+      "sha1": "a3d7b80b1073ac5baaccaa5691c3fa8409fa4827"
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "00d83001e3b76440889049a76e2d10a1f3aed4a0"
+      "sha1": "d55cd8d072dfd6a79ba8337437ff22e844fb6c62"
     },
     {
       "path": "overrides/config/quick-pack.json",
@@ -754,7 +774,7 @@
     },
     {
       "path": "overrides/config/reliablenametags.toml",
-      "sha1": "6f7eb2c90b99d1de49676a2acb5f60e6884d5797"
+      "sha1": "a80f9efef35b5742beee7f5d4d6c5c368ee7d3ab"
     },
     {
       "path": "overrides/config/resourcepackoverrides.json",
@@ -762,11 +782,11 @@
     },
     {
       "path": "overrides/config/screenshot_viewer-client.toml",
-      "sha1": "21120b57264db780134396ace0d03f5516d13b99"
+      "sha1": "f906992a135b1cb49b15f345236810a49e9fb666"
     },
     {
       "path": "overrides/config/seasons.json",
-      "sha1": "d27c6a2a90777d432ddbe738c2b510c4265d67c8"
+      "sha1": "e3ce29890d2eddb6d0de433a783c691e557d0610"
     },
     {
       "path": "overrides/config/sodium-mixins.properties",
@@ -778,7 +798,7 @@
     },
     {
       "path": "overrides/config/sounds/chat.json",
-      "sha1": "ea3cb79f348b46b8cfd6d5a741117b8c21666cab"
+      "sha1": "293e893006b6990c278b580a072580d1a9f2576e"
     },
     {
       "path": "overrides/config/sounds/event.json",
@@ -798,15 +818,7 @@
     },
     {
       "path": "overrides/config/stylisheffects-client.toml",
-      "sha1": "d9b24dcdceab5aec17742c3cdd8945d7b0c26ff1"
-    },
-    {
-      "path": "overrides/config/supplementaries-client.toml",
-      "sha1": "6a9fb79c69bba34480ebeec6f0266336fa3d57a0"
-    },
-    {
-      "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "267fb34caba48908c2943f5ee50d74995389b26c"
+      "sha1": "7afc8546bd7fea5965ddd4acb6028c6a227abfdd"
     },
     {
       "path": "overrides/config/timeless.json",
@@ -814,7 +826,7 @@
     },
     {
       "path": "overrides/config/toastcontrol-client.toml",
-      "sha1": "97dc4cdebc05237f1fac1d7d7748efaa9ec044ae"
+      "sha1": "56e1803fbc68cd2641ff9efaa42d6acf21db6f63"
     },
     {
       "path": "overrides/config/transition.json",
@@ -826,23 +838,23 @@
     },
     {
       "path": "overrides/config/waterdripsound.json",
-      "sha1": "d39d1cbe58abda50136d4b69e9096e47d1314de1"
+      "sha1": "dbecbed7a3921166541ab2c9724f6e5efe2946a3"
     },
     {
       "path": "overrides/config/watut-client.toml",
-      "sha1": "af24b03bb2482372ddea6d81878d8975098dd25d"
+      "sha1": "1b6ae0af614558a8229436c1c08d91ac1b10f3d9"
     },
     {
       "path": "overrides/config/watut-common.toml",
-      "sha1": "55781f5d0dc1d7975db99c09c5353ae1959594cb"
+      "sha1": "c858cf73b5760b42d42d0fe06981471b4f1debd4"
     },
     {
       "path": "overrides/config/watut-item-arm-adjustments.json",
-      "sha1": "f998d4ccaf263904f7f8dbe35b0364f59722e7ac"
+      "sha1": "2cfa88c57c35df26af1391acb7f2f8eb8abd53ab"
     },
     {
       "path": "overrides/config/watut-server.toml",
-      "sha1": "f4bbad38e8c2253eab33bdd38a0a135c022b1786"
+      "sha1": "676f01f869328fa288c5ed25ac86459aa6249b04"
     },
     {
       "path": "overrides/config/yacl.json5",
@@ -850,7 +862,7 @@
     },
     {
       "path": "overrides/config/zeta-common.toml",
-      "sha1": "22df4f5efcb58547957245fcde37666baf9e5f58"
+      "sha1": "eb1942c061fa7ce8208d207125357041bf429ca1"
     },
     {
       "path": "overrides/controllable_natives/README.txt",
@@ -881,16 +893,616 @@
       "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
     },
     {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/argus.png",
+      "sha1": "f8582d2ba73c5eb36d50c5a0a0da1d03947ab29d"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/awesome.png",
+      "sha1": "5ea935d67518bccd6eb6b09855f542b5c023cb62"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/cloak_template.png",
+      "sha1": "92fcf1d7dc77ceb3ca5f9f45d40876be6b9ab8d9"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/crusher.png",
+      "sha1": "ef4c86d37d9b4f5ed7ce6845d260506d159ef379"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/ekho.png",
+      "sha1": "320d8676cec98b1647d863756cc65c501c6cceae"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/farland.png",
+      "sha1": "54785d5267b4e0d173fe302e8cd719cc20805b72"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/grace.png",
+      "sha1": "bc7b40031f43d899f7e08b49ecf9b9149fe0b7bc"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/ilja.png",
+      "sha1": "d5ffc62d2008d51acf38423e82bce76443d72b9e"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/pegnok.png",
+      "sha1": "ac0cab02d8922f81f5e9f1c50d57ea7c6952e9e8"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/runic.png",
+      "sha1": "aa2a5da4c3f4b853abda20257b4884f618004b70"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/vibrera.png",
+      "sha1": "c00ccb227a9a2b5cb30692467311946f7b47b08b"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/wisdom.png",
+      "sha1": "f0fda41a3d275651580301b408b5309add0b8a30"
+    },
+    {
+      "path": "overrides/kubejs/assets/capejs/textures/capes/yellowcape.png",
+      "sha1": "97ab84c56d5063b598908258e7d89dde3977cbde"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/blockstates/basalt_pillar.json",
+      "sha1": "e15517d2e98773f725ceea6e764d5256a0569c2d"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/blockstates/bone_pillar.json",
+      "sha1": "af2c25e698ac4d155210eb0c1bbc8685030cbbba"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/blockstates/brimstone_slab.json",
+      "sha1": "34e226f7ebbc8f93c72167bc266f1f3550b5d70e"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/blockstates/gold_pile.json",
+      "sha1": "8acc217c56c5ce8d62ce0d8e0690be35d21b8a8b"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/blockstates/jack_o_turnip.json",
+      "sha1": "40e9c4baaf49018ce919d81828b8e0583e8e1a3a"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/blockstates/log_pile.json",
+      "sha1": "10b47c22bfd6a8f8183497fdfa62e5c164b00fbb"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/blockstates/stone_pillar.json",
+      "sha1": "8ac38328b7735d074bf5f9a9b4742208b6325d9a"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/adobe.json",
+      "sha1": "6639bba2c138338ce6beb86d912c8e9b94c1eff2"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/basalt_pillar.json",
+      "sha1": "d9edf75822a3208f3ab1ebd154cfa607fbe0ee35"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/bone_pillar.json",
+      "sha1": "a433979702794ab51468db4d72c82f555cafbd9f"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/bottle_holder.json",
+      "sha1": "8f1bce540a1cbc6c25eadc41f95a5b231cfcdeb1"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/brazier.json",
+      "sha1": "7f8c4dd7f974642da7d854749a0be724567930b8"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/brazier_lit.json",
+      "sha1": "ba4f3ee5ddf05ef86f9d02ac05416aa2c0792752"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/brimstone_slab.json",
+      "sha1": "9ae9d9d9904a56eb1c54616e3013e2d2e3817033"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/brimstone_slab_double.json",
+      "sha1": "db49b76c27017bccbc2b4257765426f0e096aad6"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/brimstone_slab_top.json",
+      "sha1": "2e5f44d6523acd49a0533ac05d4422f187635fdf"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/cage.json",
+      "sha1": "80e48e59c5fac75bc5ff4469733306b1c7000a90"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/cinder_block.json",
+      "sha1": "aabebc73394ef8149d3e916c91aad8afe5e3bac7"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/cobblestone_bricks.json",
+      "sha1": "3acdfaf0cf7c92525f347f2b72ee399c8cd9d072"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/conglomerate.json",
+      "sha1": "8a69e88d769a28229940c226ecbbdecbb3bd8f14"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/copper_block.json",
+      "sha1": "c25eaef15397a0f111bcff01d29549e3c50aad2b"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/dish_pantry.json",
+      "sha1": "1cdc7abd010772b6e05ef72c09e0c3fe66702cfb"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/fish_barrel.json",
+      "sha1": "3cde8fc55b7f753bd0ecfead6d7ec2be0f3fe7bb"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/gold_pile.json",
+      "sha1": "99667ab1aaba83606267fa86c4151f4c9c3abd68"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/log_pile.json",
+      "sha1": "d4fbdf7955ba4de2660207f8fda5ce084dd34516"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/oxidized_shingles.json",
+      "sha1": "175880ef42d3f30f6622900f0b2e80796578375e"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/paper_wall.json",
+      "sha1": "432a2237be5acb9ca537b88e9da7def0e125401e"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/pillar.json",
+      "sha1": "cb07ef34aade02d9d289b101739826b73d884604"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/plaster.json",
+      "sha1": "3eeee9ac36a0a7137948042ba97d98934b15d36f"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/plating.json",
+      "sha1": "a12a77069641b4aa3878714fc61742b9fc631a5c"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/rope_coil.json",
+      "sha1": "6757a38cdbe1cd93f4ce010feefa164ba7a05543"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/rubblestone_bricks.json",
+      "sha1": "764b2385ad156d2eaeb631e261f6a9ed526abbe7"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/sandstone_bricks.json",
+      "sha1": "679b9d3be51009901ce162697f729f2e678ee261"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/shingles.json",
+      "sha1": "577709b3e56c496f46b5362cdf02ccd71d68bc2c"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/silver_pile.json",
+      "sha1": "34d636ef56fc0192a30ca54edb03b64ef1eb69d7"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/turnip_lantern.json",
+      "sha1": "373999bc764f526690b5011ef1d12eb92c05846a"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/block/weapon_rack.json",
+      "sha1": "6d4d908902bc38101b86d00dfff30f23e534ccba"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/amulet.json",
+      "sha1": "e62fa23be6ea07d3752ec4460a73f2f353632ef1"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/beer.json",
+      "sha1": "61af60cf3247b88ecded72323ffb438a4c83815a"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/brimstone_slab.json",
+      "sha1": "5ff7defa9f62c9ad11894856b8634e757300134d"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/cheese.json",
+      "sha1": "e0668dcafb654d586c3604b6c0cf20fc8a73b6cc"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/cooked_egg.json",
+      "sha1": "da93382afff51b5cf2c56cc983d1a439d03fba3f"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/ice_cream.json",
+      "sha1": "0d7636f23a33fd3fa3e6095321ca10c184733e2d"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/ice_cube.json",
+      "sha1": "3bc849bc5c80e1a1b6f1184e2ea97a15740bb99a"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/mercury.json",
+      "sha1": "48367f232e6a5be335b30920b6817b9b8a3d785e"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/mold.json",
+      "sha1": "ad8819310a9ffd8df763d13ad9c760e2ec2f4a43"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/oil.json",
+      "sha1": "1849231433c3ecb5af4b33bb7aa6679c8fcf0a3b"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/redstone_lump.json",
+      "sha1": "78b7f18e0fb766ca62994549aa27aa4a5d2a73e3"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/ring.json",
+      "sha1": "1f3c5fcafee591bd8f6bf1375286a82a7674698d"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/rock.json",
+      "sha1": "9921bcfef48ef11eb348140ef1f7f65633e78032"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/tallow.json",
+      "sha1": "e88636028029a3051a494bb1094070a7ecba5694"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/worm.json",
+      "sha1": "a1f0d84c346c38cfd8b027f024d3f81d39ca7704"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds.json",
+      "sha1": "99007ce11944c550b1ea6379a1f7bbcda36d1b7c"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/loops/bird.ogg",
+      "sha1": "e397f9558b6a75a085193188ea08c0784258946e"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/loops/chimes.ogg",
+      "sha1": "4f1f6f09abd908814ad5151d131a6d2f6129f820"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/loops/crickets.ogg",
+      "sha1": "a04ffc7ecf6b31c3a0132e70c7e3b5e0b491c71c"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/loops/ocean.ogg",
+      "sha1": "c316bea2c86dc457572b754c0e6652217b1941a4"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/loops/waterfall.ogg",
+      "sha1": "ed9232a6e06c0344d8f3f0bc5784698f8d780345"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/loops/wind.ogg",
+      "sha1": "3a66804d736804ba6b4a097a9d2ad8abb5fbdbc8"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/misc/menuclose.ogg",
+      "sha1": "d9c13331cf0abbd6aff3cf6b4f424ca12dc1d467"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/misc/menuopen.ogg",
+      "sha1": "64f3b528e5ebf9aea187f9f385d33b7b0eb37e35"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/misc/menuscroll.ogg",
+      "sha1": "7e4ff33f2383adec75734f83df318c63f8db5db8"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/misc/menutick.ogg",
+      "sha1": "86c2debc8eb5d89211bb1a13b7412d0984af21e7"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/misc/spawner.ogg",
+      "sha1": "9ccf1ef970971c6d49d25620fa0ca898e553c8d6"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/sounds/soundcredits.txt",
+      "sha1": "1e6f544ac69fe15cf60239f263200c03cd6491a5"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/adobe.png",
+      "sha1": "71b6510e64770b18c62f0b3aaeb6092b386a357d"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/black_planks.png",
+      "sha1": "9e6e262d33da37669f75f4ca84fa1bac2b85fc22"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/blue_planks.png",
+      "sha1": "d372fe59df0aaa14f5ae91440cbe674333cac834"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/bone_pile.png",
+      "sha1": "6162632bdf9702bedfb392fc7039b694ca0840ee"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/cage.png",
+      "sha1": "d2b16c3387df5cfff2d51f34a5737be7204a20c4"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/chamber_bricks.png",
+      "sha1": "2103f17661282ac85e427e1bc923d0abdb04b9d5"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/chamber_bricks1.png",
+      "sha1": "a65054ccfccd04d865a4c0f1973888516a7bcbf9"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/cobblestone_bricks.png",
+      "sha1": "41195f929ff60cf89022197f9bbab66433f4cc2e"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/concrete.png",
+      "sha1": "0951e200ba984390bf34d8afb5ac8d4c8e42e949"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/copper_plating.png",
+      "sha1": "cb90edea05b3d12d74fe449d82e48aa9e72cfdcc"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/cyan_planks.png",
+      "sha1": "2c1eaefe832e0862d303795f12672c57dd852ed9"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/gold_bricks.png",
+      "sha1": "31ae6a401176b75aa46e60559d61d09a75496853"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/gray_planks.png",
+      "sha1": "c21cec70625d856137c58d07980353558e6f979a"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/green_planks.png",
+      "sha1": "0081434e03bf6c995b9d9249826474ac87980f7f"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/indigo_planks.png",
+      "sha1": "6b13bce71afbe645e259d9355e9e9ba4f7650989"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/iron_bars.png",
+      "sha1": "f16c7e3cf6292ad4ebda26016bf5671b2c24146b"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/iron_plating.png",
+      "sha1": "c75e05b30048ac464a33e9d72c14e309fe2ec964"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/lime_planks.png",
+      "sha1": "3aa8e1b287f8645b79e3907cb30cbe8b24b68449"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/limestone.png",
+      "sha1": "7efd88a50a35c2717f32b6dcc56435672a524795"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/lit_lamp.png",
+      "sha1": "637c66fbc54cd17e5b9b1ca689cfc0378b0125d0"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/log_pile.png",
+      "sha1": "3147eafb807be88f501adc265597006ce6a91d08"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/log_pile_side.png",
+      "sha1": "01e873e1e04179daa338e5cbd17709270d86f227"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/magenta_planks.png",
+      "sha1": "70f2b7987348dcc204910d9f08ea47f9190c7a39"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/orange_planks.png",
+      "sha1": "fffdcb97b6f0481fe8f8d3f2f94732486ae3cea3"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/paper_wall.png",
+      "sha1": "94e990561aa566962bf0742f287a3dc76ca975a5"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/peridotite.png",
+      "sha1": "53066ec2cd9c27ce9df8efa3056f083d13e8d502"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/pink_planks.png",
+      "sha1": "9f492a816583c46ace2f571c006ae8f0ff5c9a31"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/plaster.png",
+      "sha1": "9c057a78e0614618acb6be4611649a87e2633787"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/purple_planks.png",
+      "sha1": "f7063ba86ba84a27426a6c826a0cfae1cfc8ecfe"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/red_dust_block.png",
+      "sha1": "f6693452be821cf6d3d2623b283f5ee2ccd5d4db"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/red_planks.png",
+      "sha1": "87177ffef015e44d8ca57369a50f22fdfccb0c38"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/rubblestone_bricks.png",
+      "sha1": "8302a24730e3f2b03dc6246a351e70abc39d3b7c"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/rubblestone_bricks1.png",
+      "sha1": "133113f2471ecb2a337a188dc8359195c748c129"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/rubblestone_bricks2.png",
+      "sha1": "14ce8d92833e67a76d35b59333349adfe383568e"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/shell_sand.png",
+      "sha1": "245bb54bd6c6f5407c80db2aa9fee2d07a1e3aa9"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/silver_bricks.png",
+      "sha1": "029522b118e1ba3dc2eddd26f19d63c8ff0822b7"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/slimed_gravel.png",
+      "sha1": "ff5e84995b4c70633b351feb0388ce0de2979ee5"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/slimed_sand.png",
+      "sha1": "f521acfbf5cc27f06b88d15de5bdcf6302fbfe9d"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/teal_planks.png",
+      "sha1": "ccdc99db0adf8bd69a87d76e9259a1e4fa6d5d2a"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/tiles.png",
+      "sha1": "1661d6f98d8d689046240ad41f2a62ee7cd47fae"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/turnip_stage0.png",
+      "sha1": "c31b0fcca7a392744adfe6149bc9ff87b57a3e8d"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/turnip_stage1.png",
+      "sha1": "3cdd86bf7a4145e1f8fec2d1608ea788118c1eec"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/turnip_stage2.png",
+      "sha1": "9a6b50007f307580193f1153e967286176e09920"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/turnip_stage3.png",
+      "sha1": "08d900f78d556c0512e41f52f81c62677da44500"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/turnip_stage4.png",
+      "sha1": "766f6d654bb8472a21a6c1cf59e24c4479f983cc"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/turnip_stage5.png",
+      "sha1": "f1da00ccd19aebcdbc483b78b553e7ab7d8c978b"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/turnip_stage6.png",
+      "sha1": "b2ea39b91c80f3b0e3b85e9ddaa1e7091524e2f9"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/turnip_stage7.png",
+      "sha1": "4e5470abd92f707bd79794f2307a01e715cd5b8b"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/turnip_stage7wip.png",
+      "sha1": "852ad8e6234e534ebc711f487b4f5beb24c0759f"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/violet_planks.png",
+      "sha1": "d3d552f8b92ae57cd0a264216deeba690f725701"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/white_planks.png",
+      "sha1": "986ad1902324dc5cce0f0e8dbfe0d36d01b972c9"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/yellow_planks.png",
+      "sha1": "9b385beb2cf2631483f8464441bb0b83b59c6baf"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/amulet.png",
+      "sha1": "0feeccb288df0f9444c7034cc6b8f1149fe05e56"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/beer.png",
+      "sha1": "1997293128d69f6b48e8fae17ddac29c156b3c59"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/chalice.png",
+      "sha1": "1bb69f871930fc57d204ccf51bb4eb81d52a4176"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/cheese.png",
+      "sha1": "eab245be451a51b3340e1ce2b0cae5b623b5f76c"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/cider.png",
+      "sha1": "a26d0643e89ac4bd9dd14ce3ae62637fa6f5513c"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/cinnabar.png",
+      "sha1": "c00f1dbae926ca91061e138bc3218c6bfd54414b"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/cobalt.png",
+      "sha1": "a96d17e97918e3794601fc427b397003b19e4776"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/coin.png",
+      "sha1": "d0a8475899a6eeab44a9d436999c60c537f4b2de"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/cooked_egg.png",
+      "sha1": "4992a711f9b4ef5b561ef461bd26efe2e70ea799"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/filament.png",
+      "sha1": "73b87c950300d7dd274749c71cb3b3866a767a30"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/mead.png",
+      "sha1": "7f25b25f3dcfe665ac9f4af5ff69a0b46816b884"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/mercury.png",
+      "sha1": "e94b29c3fb57078f21aa1b2dce2b91fe92ecb7db"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/mold.png",
+      "sha1": "e5e4f0f1342a8c10ff40fe990e40b8895d15b1bd"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/muffin.png",
+      "sha1": "03e2ed9919c551bbb4a1248ba59aab033de56ae2"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/porridge.png",
+      "sha1": "2f6b87a6c1acf0843de2e48aa03388729a2905f8"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/quiver.png",
+      "sha1": "d7f0fa03d047b8ee1a61184a42e79c34a3c1a2fb"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/ring.png",
+      "sha1": "cb0b1acc85e7f8144f4e227d1fa31c3771450190"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/super_seecret_flaming_sword_of_awesomeness.png",
+      "sha1": "83347a1a0203507cf523f826ef4082b152147821"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/turnip.png",
+      "sha1": "5d31d730c0131ca9c9f69618de5104a90ebdc04f"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/wine.png",
+      "sha1": "46cb063aeeecd46fee18e96636b264c4b6788b70"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/worm.png",
+      "sha1": "bf9d39c8b57539fd981e2fe88c35f6808f4fca91"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/mob_effect/fragile.png",
+      "sha1": "7a45f1e3faeab617627432f57e9980ae3722f237"
+    },
+    {
       "path": "overrides/kubejs/client_scripts/cape.js",
-      "sha1": "7d16191875bce308be1de6ff2504b6d3060759fc"
-    },
-    {
-      "path": "overrides/kubejs/client_scripts/main.js",
-      "sha1": "e6f23e21b25a366f2216fbf7da00ed7d34542f20"
-    },
-    {
-      "path": "overrides/kubejs/client_scripts/tooltips.js",
-      "sha1": "8e0ecdcce4aba97fcaca144648c936cf97dd3bdc"
+      "sha1": "6a82d644a552ed9ff841cc52f5a40d5518db4ee3"
     },
     {
       "path": "overrides/kubejs/config/client.json",
@@ -905,72 +1517,88 @@
       "sha1": "ac1a19cd723bd37a2d93a352804f646e8ca149f8"
     },
     {
-      "path": "overrides/kubejs/server_scripts/aesthetic_events.js",
-      "sha1": "aa865e5ddf4429b094b81a6e5005fb22b29ce1e2"
+      "path": "overrides/kubejs/data/kubejs/loot_table/blocks/bone_pile.json",
+      "sha1": "7a09ac70ce01ce90e6093b4f09fdaba7dcf4c830"
     },
     {
-      "path": "overrides/kubejs/server_scripts/bone_meal.js",
-      "sha1": "578e412d417f23df9c0f71cf5326f349aaab1446"
+      "path": "overrides/kubejs/data/kubejs/loot_table/blocks/deepslate_magnetite_ore.json",
+      "sha1": "b6f507be973cfe749c367dd790063c370035814f"
+    },
+    {
+      "path": "overrides/kubejs/data/kubejs/loot_table/blocks/fish_barrel.json",
+      "sha1": "e9bb6b76af62f3d4d287d879e96b36eb3e0c03b8"
+    },
+    {
+      "path": "overrides/kubejs/data/kubejs/loot_table/blocks/gold_pile.json",
+      "sha1": "52dd1475f1ee02378582037ef479421aeb56335d"
+    },
+    {
+      "path": "overrides/kubejs/data/kubejs/loot_table/blocks/magnetite_ore.json",
+      "sha1": "4e751953f32b3ff8fc72ffee760abde210729c4e"
+    },
+    {
+      "path": "overrides/kubejs/data/kubejs/loot_table/blocks/slimed_gravel.json",
+      "sha1": "ec918afed9701b0b4482195817552e574a478000"
+    },
+    {
+      "path": "overrides/kubejs/data/kubejs/loot_table/blocks/slimed_sand.json",
+      "sha1": "af43b2adcc27ec7d5d72741e15ba2cef5a77fb64"
+    },
+    {
+      "path": "overrides/kubejs/data/kubejs/loot_table/blocks/substrate.json",
+      "sha1": "93baecdc3b35c9b471ed8b64283431b58417a98d"
+    },
+    {
+      "path": "overrides/kubejs/data/kubejs/loot_table/blocks/turnip.json",
+      "sha1": "29e17545ca3cc05c0ed9b838f1feba01ede6ab7c"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/aesthetic_events.js",
+      "sha1": "9537816716e873e2257d6e712c91a3d249fa43b3"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/colored_player_name.js",
+      "sha1": "f57bca2ed2e40cb6622eaaaa55377aabcaceb73c"
     },
     {
       "path": "overrides/kubejs/server_scripts/interaction_events.js",
-      "sha1": "da2dfbaf06ebcbf8443bb0456181b6a2e5fbaa9c"
-    },
-    {
-      "path": "overrides/kubejs/server_scripts/item_nuke.js",
-      "sha1": "9529c7a381c1bd3f374921e81412b98062a8062c"
-    },
-    {
-      "path": "overrides/kubejs/server_scripts/main.js",
-      "sha1": "6249ded51466cfc7b94ae9796f8c2caec5dac539"
+      "sha1": "e37dbab496ce5109b7794c80da28f86b054ce672"
     },
     {
       "path": "overrides/kubejs/server_scripts/mob_armor.js",
-      "sha1": "767c201e0516521ddfd1590d590007e25e2edc92"
+      "sha1": "851085b55d3b04047272515aa7b2554bde260a02"
     },
     {
-      "path": "overrides/kubejs/server_scripts/recipes.js",
-      "sha1": "30911eb467ce6165ad1816a442b38a8e97686176"
+      "path": "overrides/kubejs/server_scripts/no_offhand.js",
+      "sha1": "6914ffe800b2bcf5a6d7fae3b9ccffd5239d21a5"
     },
     {
       "path": "overrides/kubejs/server_scripts/server_script.js",
-      "sha1": "755a68383f58ebbdd0adf135c671d82f7daa3f61"
-    },
-    {
-      "path": "overrides/kubejs/server_scripts/startup_globals.js",
-      "sha1": "269747e501844ced67aad2f0d9c3545d2256329e"
-    },
-    {
-      "path": "overrides/kubejs/server_scripts/structurenuke.js",
-      "sha1": "9768e197d22d1690a9a0310d6208b6e3fb5876d5"
+      "sha1": "8f979ddfdc6acfd1f60674ecd5b15ad1e4288fc1"
     },
     {
       "path": "overrides/kubejs/server_scripts/tags.js",
-      "sha1": "7b70824c80f91d671d2ee5a01b93823d2065f3b9"
-    },
-    {
-      "path": "overrides/kubejs/server_scripts/tags_sounds.js",
-      "sha1": "0fc2bc8f290b4bb23a3e3c56ef2c60c6d5418228"
+      "sha1": "cdb3d469fb05f8462a1d3f59c0ef62de055b8bf9"
     },
     {
       "path": "overrides/kubejs/server_scripts/tnt_diffuse.js",
-      "sha1": "3f934a417ed194f8591cc0894ac37f1e90843986"
+      "sha1": "f059a0dc02b8d658e57fb76ae2083d26a9651e2b"
     },
     {
       "path": "overrides/kubejs/startup_scripts/block_modification.js",
-      "sha1": "72ab6f8b24be096e1f91b96240f791d211a5d2a8"
+      "sha1": "a01b54c432689dcfd2a651f1eabcd2878c0e27f9"
     },
     {
       "path": "overrides/kubejs/startup_scripts/block_registration.js",
-      "sha1": "4752ccf5ba0885e319616a081b38561343f77103"
+      "sha1": "4f387eb3df6fecb90d469c9eb7d534a8710ef495"
     },
     {
       "path": "overrides/kubejs/startup_scripts/item_modification.js",
-      "sha1": "af1d9a6c9af240e622ad9e7755aedb8f98ef38cb"
+      "sha1": "1601364093f5cfffa60cbbce229cbff17e5620a0"
     },
     {
       "path": "overrides/kubejs/startup_scripts/item_registration.js",
-      "sha1": "fd0998c78e5ee1b83a1302cbc56181005effde99"
+      "sha1": "faec88bb4424a366525e7905f5dfb074a3c10158"
     },
     {
       "path": "overrides/kubejs/startup_scripts/main.js",
@@ -978,19 +1606,27 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/painting_registration.js",
-      "sha1": "891c65873ab2f2f3ba9365eaff245879adfd545f"
+      "sha1": "8bbece9b6cad41a63da40b10bb0a49fe0ca87b18"
     },
     {
       "path": "overrides/kubejs/startup_scripts/sounds.js",
-      "sha1": "63d2734ae81f6dec6ffa4d28d786ec90b4f87536"
+      "sha1": "47687518f466b454e4d9761b424ccecf2fa3c426"
     },
     {
       "path": "overrides/kubejs/startup_scripts/stack_sizes.js",
-      "sha1": "5e6a097ffe99211a98f2392562a109b0f8a473c6"
+      "sha1": "3226b909bd558134531f5aa7011db7a850575e97"
     },
     {
       "path": "overrides/kubejs/startup_scripts/turnip_registration.txt",
-      "sha1": "5dd703511e00e1b861dec3344da1bf8688c7d834"
+      "sha1": "d1976fe36cc1b8fa7db14bb515d2683ea25dfeed"
+    },
+    {
+      "path": "overrides/mods/packweaver.jar",
+      "sha1": "441e214b43a287a77c0ff60b7440c4f35045a607"
+    },
+    {
+      "path": "overrides/options.txt",
+      "sha1": "d8a3a97722e5675aec9bca8cce6a94a4c1b0d598"
     }
   ]
 }

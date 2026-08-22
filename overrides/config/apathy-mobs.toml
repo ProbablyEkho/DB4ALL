@@ -1,7 +1,7 @@
-
 [Uncategorized]
 	# 
-	#Range: > -2147483648
+	# Default: 5
+	# Range: > -2147483648
 	configVersion = 5
 
 ["Nuclear Option"]
@@ -171,7 +171,8 @@
 	#     I didn't port that, but the maximum value of the timer is 9223372036854775807 ticks.
 	#     Make of that information what you will ;)
 	#Default: -1
-	#Range: -9223372036854775808 ~ 9223372036854775807
+	# Default: -1
+	# Range: -9223372036854775808 ~ 9223372036854775807
 	revengeTimer = 72000
 
 ["Last Resort Rule"]
@@ -182,4 +183,3 @@
 	#May *not* be set to 'pass'.
 	#Default: allow
 	fallthrough = "allow"
-
